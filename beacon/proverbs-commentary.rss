@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Proverbs Commentary</title>
+    <link>http://letgodbetrue.com</link>
+    <description>Proverbs commentary by LetGodBeTrue.com</description>
+    <language>en-us</language>
+    <itunes:owner>
+      <itunes:email>tertioptus@gmail.com</itunes:email>
+      <itunes:name>Ben Paige</itunes:name>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Christianity" />
+    </itunes:category>
+    <itunes:author>Church of Greenville</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:keywords>Bible, KJV, King James Version, Plain Preaching, Wisdom, The Church of Greenville, Church, Greenville, SC</itunes:keywords>
+    <itunes:subtitle />
+    <itunes:summary />
+    <image>
+      <title>Proverbs Commentary</title>
+      <url>https://letgodbetrue.com/wp-content/uploads/2019/10/01-01-mp3-image.jpg</url>
+      <width>350</width>
+      <height>350</height>
+      <description>Proverbs commentary by LetGodBeTrue.com</description>
+    </image>
+    <item>
+      <title>Proverbs 8:1</title>
+      <description>Doth not wisdom cry? and understanding put forth her voice?</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/08-01.mp3" length="4197605" type="audio/mpeg" />
+      <pubDate>Sun, 01 Nov 2020 20:34:35 GMT</pubDate>
+      <itunes:duration>01:09:58</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible, KJV, King James Version, Plain Preaching, Wisdom, The Church of Greenville, Church, Greenville, SC</itunes:keywords>
+      <itunes:subtitle />
+      <itunes:summary />
+    </item>
+    <item>
+      <title>Proverbs 26:8</title>
+      <description>As he that bindeth a stone in a sling, so is he that giveth honour to a fool.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/26-08.mp3" length="7165534" type="audio/mpeg" />
+      <pubDate>Sun, 01 Nov 2020 20:34:35 GMT</pubDate>
+      <itunes:duration>01:59:26</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible, KJV, King James Version, Plain Preaching, Wisdom, The Church of Greenville, Church, Greenville, SC</itunes:keywords>
+      <itunes:subtitle />
+      <itunes:summary />
+    </item>
+  </channel>
+</rss>
