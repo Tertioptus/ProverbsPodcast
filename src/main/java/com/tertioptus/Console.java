@@ -4,7 +4,7 @@ package com.tertioptus;
  * Hello world!
  *
  */
-public class App 
+public class Console 
 {
     public static void main( String[] args )
     {
