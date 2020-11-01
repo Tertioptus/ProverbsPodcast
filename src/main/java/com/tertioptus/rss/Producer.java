@@ -2,6 +2,6 @@ package com.tertioptus.rss;
 
 public interface Producer {
 	
-	void start();
+	void start() throws Exception;
 
 }

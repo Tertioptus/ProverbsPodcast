@@ -1,13 +1,34 @@
 package com.tertioptus;
 
+import com.tertioptus.properties.PropertiesMapEngineer;
+import com.tertioptus.properties.PropertiesResourceStreamEngineer;
+import com.tertioptus.rss.Director;
+import com.tertioptus.rss.Producer;
+import com.tertioptus.rss.director.RomeDirector;
+import com.tertioptus.rss.producer.AProducer;
+import com.tertioptus.time.TimeMachine;
+import com.tertioptus.time.timemachine.SegmentedReverseTimeMachine;
+
 /**
  * Hello world!
  *
  */
 public class Console 
 {
-    public static void main( String[] args )
+	private final static PropertiesMapEngineer thePropertiesMapEngineer = new PropertiesMapEngineer("config.properties",
+			new PropertiesResourceStreamEngineer());
+	
+    public static void main( String[] args ) throws Exception
     {
-        System.out.println( "Hello World!" );
+
+    	
+    	producer(	thePropertiesMapEngineer,
+    				new RomeDirector(thePropertiesMapEngineer), 
+    				new SegmentedReverseTimeMachine())
+    	.start();
     }
+
+	private static Producer producer(MapEngineer<String,String> mapEngineer, Director director, TimeMachine timeMachine) {
+		return new AProducer(mapEngineer, director, timeMachine);
+	}
 }

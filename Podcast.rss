@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Proverbs Commentary</title>
+    <link>http://letgodbetrue.com</link>
+    <description>Proverbs commentary by LetGodBeTrue.com</description>
+    <language>en-us</language>
+    <itunes:owner>
+      <itunes:email>tertioptus@gmail.com</itunes:email>
+      <itunes:name>Ben Paige</itunes:name>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Christianity" />
+    </itunes:category>
+    <itunes:author>Church of Greenville</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:keywords>Bible, KJV, King James Version, Plain Preaching, Wisdom, The Church of Greenville, Church, Greenville, SC</itunes:keywords>
+    <itunes:subtitle />
+    <itunes:summary />
+    <image>
+      <title>Proverbs Commentary</title>
+      <url>https://letgodbetrue.com/wp-content/uploads/2019/10/01-01-mp3-image.jpg</url>
+      <width>1446</width>
+      <height>1446</height>
+      <description>Proverbs commentary by LetGodBeTrue.com</description>
+    </image>
+    <item>
+      <title>Proverbs 1:1</title>
+      <description>[put scripture here]</description>
+      <pubDate>Sun, 25 Oct 2020 22:06:28 GMT</pubDate>
+      <itunes:duration>00:05:00</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible, KJV, King James Version, Plain Preaching, Wisdom, The Church of Greenville, Church, Greenville, SC</itunes:keywords>
+      <itunes:subtitle />
+      <itunes:summary />
+    </item>
+  </channel>
+</rss>
