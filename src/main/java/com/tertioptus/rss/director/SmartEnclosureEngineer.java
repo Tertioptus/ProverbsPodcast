@@ -1,4 +1,4 @@
-package com.tertioptus.rss;
+package com.tertioptus.rss.director;
 
 import com.rometools.rome.feed.rss.Enclosure;
 

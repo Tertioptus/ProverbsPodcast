@@ -5,7 +5,7 @@ import java.net.URLConnection;
 
 import com.rometools.rome.feed.rss.Enclosure;
 
-final class AnEnclosureEngineer implements EnclosureEngineer {
+public final class AnEnclosureEngineer implements EnclosureEngineer {
 
 	@Override
 	public Enclosure enclosure(String url) {

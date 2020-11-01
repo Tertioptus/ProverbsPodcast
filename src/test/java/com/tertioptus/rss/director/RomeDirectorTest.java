@@ -26,7 +26,7 @@ public class RomeDirectorTest {
 	
 		// Generate test content
 		final File tempTargetFile = tempFolder.newFile("ProverbsPodcast.rss");
-		Director spike = new RomeDirector(thePropertiesMapEngineer);
+		Director spike = new RomeDirector(thePropertiesMapEngineer,null,null);
 		spike.action(tempTargetFile, Collections.emptyList());
 		
 		// Verify generated content

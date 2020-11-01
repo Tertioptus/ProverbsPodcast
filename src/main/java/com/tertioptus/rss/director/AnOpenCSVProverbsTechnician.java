@@ -1,8 +1,10 @@
 package com.tertioptus.rss.director;
 
+import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
+import java.net.URL;
 import java.util.HashMap;
 import java.util.Map;
 
@@ -24,8 +26,9 @@ public class AnOpenCSVProverbsTechnician implements ProverbsTechnician {
 		return proverbsMap.get(chapterAndVerse);
 	}
 
-	private void loadCache() throws FileNotFoundException, IOException {
-		CSVReader reader = new CSVReader(new FileReader(RESOURCE), '\t', '"', 1);
+	private void loadCache() throws Exception {
+		URL resource = this.getClass().getResource(RESOURCE);
+		CSVReader reader = new CSVReader(new FileReader(new File(resource.toURI())), '\t', '"', 1);
 
 		// Read CSV line by line and use the string array as you want
 		String[] nextLine;

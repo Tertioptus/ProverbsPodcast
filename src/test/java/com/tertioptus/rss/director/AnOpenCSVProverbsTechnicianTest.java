@@ -9,8 +9,7 @@ public class AnOpenCSVProverbsTechnicianTest {
 	@Test
 	public void AProverbCanBeFetched() throws Exception {
 		ProverbsTechnician tech = new AnOpenCSVProverbsTechnician();
-		String first = tech.fetchProverb((byte) 1, (byte) 1);
+		String first = tech.fetchProverb((byte) 1, (byte) 7);
 		Assert.assertTrue(first.contains("fear"));
-		
 	}
 }

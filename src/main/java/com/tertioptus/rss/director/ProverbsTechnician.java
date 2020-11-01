@@ -7,7 +7,7 @@ package com.tertioptus.rss.director;
  *
  */
 public interface ProverbsTechnician {
-	static final String RESOURCE = "/proverbs.csv";
+	static final String RESOURCE = "proverbs.csv";
 
 	enum Columns {
 		CHAPTER,
