@@ -23,7 +23,7 @@ public class AProducer implements Producer {
 		verses.add(new byte[] {20,10,8,9,1});
 		verses.add(new byte[] {20,11,26,12,8});
 
-		director.action(new File ("Podcast.rss"), verses);
+		director.action(new File ("proverbs-commentary.rss"), verses);
 	}
 
 }
