@@ -29,7 +29,8 @@ public class RomeDirector implements Director {
 	private final MapEngineer<String, String> pe;
 	private final ProverbsTechnician tech;
 	private final EnclosureEngineer enclosureEngineer;
-
+	private Double bitRate;
+	
 	public RomeDirector(MapEngineer<String,String> thepropertiesmapengineer,
 			ProverbsTechnician tech, EnclosureEngineer enclosureEngineer) {
 		this.pe = thepropertiesmapengineer;
@@ -66,12 +67,19 @@ public class RomeDirector implements Director {
 		entryInfo.setAuthor(pe.value("author"));
 		entryInfo.setSummary(pe.value("summary"));
 		entryInfo.setSubtitle(pe.value("sub.title"));
-		//The duration is inexplicably separate from the enclosure
-		Duration duration = new Duration();
-		duration.setMilliseconds(enclosure.getLength()); //TODO
-		entryInfo.setDuration(duration);
+		entryInfo.setDuration(duration(enclosure));
 		item.getModules().add(entryInfo);
 		return item;
+	}
+
+	private Duration duration(Enclosure enclosure) throws Exception {
+		//The duration is inexplicably separate from the enclosure
+		Duration duration = new Duration();
+		if(bitRate == null) {
+			bitRate = Double.parseDouble(pe.value("bitRate"));
+		}
+		duration.setMilliseconds(enclosure.getLength());
+		return duration;
 	}
 	
 	private Channel loadChannel(List<Item> items) throws Exception {

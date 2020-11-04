@@ -6,6 +6,7 @@ import com.tertioptus.rss.Director;
 import com.tertioptus.rss.Producer;
 import com.tertioptus.rss.director.AnEnclosureEngineer;
 import com.tertioptus.rss.director.AnOpenCSVProverbsTechnician;
+import com.tertioptus.rss.director.ArgumentControlProverbsTechnician;
 import com.tertioptus.rss.director.LookupCacheEngineer;
 import com.tertioptus.rss.director.RomeDirector;
 import com.tertioptus.rss.director.SmartEnclosureEngineer;
@@ -27,7 +28,7 @@ public class Console
 
     	
     	producer(	thePropertiesMapEngineer,
-    				new RomeDirector(thePropertiesMapEngineer,new AnOpenCSVProverbsTechnician(), new SmartEnclosureEngineer(new AnEnclosureEngineer(), new LookupCacheEngineer())), 
+    				new RomeDirector(thePropertiesMapEngineer,new ArgumentControlProverbsTechnician(new AnOpenCSVProverbsTechnician()), new SmartEnclosureEngineer(new AnEnclosureEngineer(), new LookupCacheEngineer())), 
     				new SegmentedReverseTimeMachine())
     	.start();
     }

@@ -33,9 +33,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="2"
-     inkscape:cx="629.36067"
-     inkscape:cy="191.70509"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="470.0198"
+     inkscape:cy="565.09581"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -148,7 +148,7 @@
          id="tspan4491-6-2"
          x="-873.34082"
          y="31.295898"
-         style="font-size:15px;line-height:1.25">20201031</tspan></text>
+         style="font-size:15px;line-height:1.25">20201104</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 35.625,795.48721 C 17.329893,777.19212 17.582239,776.81361 17.582239,776.81361"
@@ -608,7 +608,7 @@
     </g>
     <g
        id="g908-6"
-       transform="matrix(0.80023542,0,0,0.80023542,981.1212,-382.13676)">
+       transform="matrix(0.80023542,0,0,0.80023542,981.1212,-429.01176)">
       <circle
          r="57.479401"
          cy="1107.0255"
@@ -640,7 +640,7 @@
     </g>
     <g
        id="g908-6-1"
-       transform="matrix(0.80023542,0,0,0.80023542,875.1837,-382.13676)">
+       transform="matrix(0.80023542,0,0,0.80023542,875.1837,-425.26176)">
       <circle
          r="57.479401"
          cy="1107.0255"
@@ -672,7 +672,7 @@
     </g>
     <g
        id="g908-6-4"
-       transform="matrix(0.80023542,0,0,0.80023542,769.2462,-380.26176)">
+       transform="matrix(0.80023542,0,0,0.80023542,769.2462,-421.51176)">
       <circle
          r="57.479401"
          cy="1107.0255"
@@ -1052,7 +1052,7 @@
     </g>
     <g
        id="g8341-4"
-       transform="matrix(0.48395431,0,0,0.48395431,-194.65273,177.79773)">
+       transform="matrix(0.99510759,0,0,0.99510759,-37.253438,-233.62623)">
       <rect
          ry="10.832375"
          y="769.96155"
@@ -1098,7 +1098,7 @@
            id="tspan4376-2-1-9-0-8-7"
            x="927.45166"
            y="782.48297"
-           style="font-size:14.9411px;line-height:1.25;text-align:center;text-anchor:middle">ProvTech</tspan></text>
+           style="font-size:14.9411px;line-height:1.25;text-align:center;text-anchor:middle">&lt;&lt;ProvTech&gt;&gt;</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:monospace;-inkscape-font-specification:monospace;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1601,7 +1601,7 @@
     </g>
     <g
        id="g4770-1-8"
-       transform="matrix(0.45450493,0,0,0.44811502,-241.58497,499.45482)">
+       transform="matrix(0.47581664,0,0,0.4691271,324.64263,504.59038)">
       <circle
          r="48.57143"
          cy="196.64793"
@@ -1630,6 +1630,124 @@
            id="tspan4380-6-05-1"
            sodipodi:role="line"
            style="font-size:20px;line-height:1.25">*</tspan></text>
+    </g>
+    <g
+       id="g4770-1-8-0"
+       transform="matrix(0.47581664,0,0,0.4691271,395.85634,544.24373)">
+      <circle
+         r="48.57143"
+         cy="196.64793"
+         cx="1088.5714"
+         id="path4330-0-3-7-6-1"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         id="text4374-8-2-1-0"
+         y="204.8996"
+         x="1087.4473"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:monospace;-inkscape-font-specification:monospace;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-size:30px;line-height:1.25;text-align:center;text-anchor:middle"
+           y="204.8996"
+           x="1087.4473"
+           id="tspan4376-2-2-4-1"
+           sodipodi:role="line">VC</tspan></text>
+      <text
+         id="text4378-7-0-2-8"
+         y="177.71191"
+         x="1104.7224"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="177.71191"
+           x="1104.7224"
+           id="tspan4380-6-05-1-5"
+           sodipodi:role="line"
+           style="font-size:20px;line-height:1.25">*</tspan></text>
+    </g>
+    <g
+       id="g908-6-4-6"
+       transform="matrix(0.80023542,0,0,0.80023542,879.94926,-329.64958)">
+      <circle
+         r="57.479401"
+         cy="1107.0255"
+         cx="-323.68134"
+         id="path4330-0-3-1-4-2"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.3668;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         id="text4374-8-3-6-5"
+         y="1116.7905"
+         x="-325.01166"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.2008px;line-height:0%;font-family:monospace;-inkscape-font-specification:monospace;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.1834px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-size:35.502px;line-height:1.25;text-align:center;text-anchor:middle;stroke-width:1.1834px"
+           y="1116.7905"
+           x="-325.01166"
+           id="tspan4376-2-9-5-8"
+           sodipodi:role="line">PT</tspan></text>
+      <text
+         id="text4378-7-2-5-9-5"
+         y="1084.6166"
+         x="-368.56918"
+         style="font-style:normal;font-weight:normal;font-size:14.2008px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.1834px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="1084.6166"
+           x="-368.56918"
+           id="tspan4380-6-8-92-6-9"
+           sodipodi:role="line"
+           style="font-size:17.5px;line-height:1.25;stroke-width:1.1834px">(Ch)</tspan></text>
+      <text
+         id="text4378-7-2-7-0-2-4"
+         y="1142.1311"
+         x="-365.98425"
+         style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="1142.1311"
+           x="-365.98425"
+           id="tspan4380-6-8-4-9-5-2"
+           sodipodi:role="line"
+           style="font-size:17.5px;line-height:1.25;stroke-width:1px">(VC)</tspan></text>
+    </g>
+    <g
+       id="g908-6-4-6-0"
+       transform="matrix(0.4273225,0,0,0.4273225,384.31845,114.2372)">
+      <circle
+         r="57.479401"
+         cy="1107.0255"
+         cx="-323.68134"
+         id="path4330-0-3-1-4-2-1"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.3668;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         id="text4374-8-3-6-5-4"
+         y="1116.7905"
+         x="-325.01166"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.2008px;line-height:0%;font-family:monospace;-inkscape-font-specification:monospace;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.1834px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-size:35.502px;line-height:1.25;text-align:center;text-anchor:middle;stroke-width:1.1834px"
+           y="1116.7905"
+           x="-325.01166"
+           id="tspan4376-2-9-5-8-2"
+           sodipodi:role="line">PT</tspan></text>
+      <text
+         id="text4378-7-2-5-9-5-4"
+         y="1084.6166"
+         x="-368.56918"
+         style="font-style:normal;font-weight:normal;font-size:14.2008px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.1834px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="1084.6166"
+           x="-368.56918"
+           id="tspan4380-6-8-92-6-9-6"
+           sodipodi:role="line"
+           style="font-size:17.5px;line-height:1.25;stroke-width:1.1834px">(v)</tspan></text>
+      <text
+         id="text4378-7-2-7-0-2-4-0"
+         y="1142.1311"
+         x="-365.98425"
+         style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="1142.1311"
+           x="-365.98425"
+           id="tspan4380-6-8-4-9-5-2-2"
+           sodipodi:role="line"
+           style="font-size:17.5px;line-height:1.25;stroke-width:1px">(sc)</tspan></text>
     </g>
   </g>
 </svg>
