@@ -1,14 +1,17 @@
 package com.tertioptus.rss.director;
 
 import java.io.File;
-import java.util.Collections;
+import java.util.ArrayList;
+import java.util.List;
 
 import org.apache.commons.io.FileUtils;
 import org.junit.Assert;
 import org.junit.Rule;
 import org.junit.Test;
 import org.junit.rules.TemporaryFolder;
+import static org.mockito.Mockito.*;
 
+import com.rometools.rome.feed.rss.Enclosure;
 import com.tertioptus.properties.PropertiesMapEngineer;
 import com.tertioptus.properties.PropertiesResourceStreamEngineer;
 import com.tertioptus.rss.Director;
@@ -26,12 +29,25 @@ public class RomeDirectorTest {
 	
 		// Generate test content
 		final File tempTargetFile = tempFolder.newFile("ProverbsPodcast.rss");
-		Director spike = new RomeDirector(thePropertiesMapEngineer,null,null);
-		spike.action(tempTargetFile, Collections.emptyList());
+		String myProverb = "Be patient.";
+		ProverbsTechnician proverbsTechnician = mock(ProverbsTechnician.class);
+		when(proverbsTechnician.fetchProverb((byte)8, (byte)1)).thenReturn(myProverb);
+		when(proverbsTechnician.fetchProverb((byte)26, (byte)8)).thenReturn(myProverb);
+		EnclosureEngineer enclosureEngineer = mock(EnclosureEngineer.class);
+		Enclosure testEnclosure = new Enclosure();
+		testEnclosure.setLength(1000);
+		testEnclosure.setUrl("some url");
+		when(enclosureEngineer.enclosure(anyString())).thenReturn(testEnclosure);
+		List<byte[]> verses = new ArrayList<>();
+		verses.add(new byte[] {20,10,8,9,1});
+		verses.add(new byte[] {20,11,26,12,8});
+		Director spike = new RomeDirector(thePropertiesMapEngineer,proverbsTechnician,enclosureEngineer);
+
+
+		spike.action(tempTargetFile, verses);
 		
 		// Verify generated content
 		final String content = FileUtils.readFileToString(tempTargetFile);
-		Assert.assertTrue(content.contains("Proverbs 1:1"));
-		//Assert.assertTrue(content.matches(".*Proverbs \\d:\\d.*"));
+		Assert.assertTrue(content.contains(myProverb));
 	}
 }

@@ -38,6 +38,23 @@ public class RomeDirector implements Director {
 		this.enclosureEngineer = enclosureEngineer;
 	}
 
+	/**
+	 *  proveThatTheRomeDirectorCanCreateAnRSSFile: 
+		final File tempTargetFile = tempFolder.newFile("ProverbsPodcast.rss");
+		ProverbsTechnician proverbsTechnician;
+		EnclosureEngineer enclosureEngineer;
+		List<byte[]> verses = new ArrayList<>();
+		verses.add(new byte[] {20,10,8,9,1});
+		verses.add(new byte[] {20,11,26,12,8});
+		Director spike = new RomeDirector(thePropertiesMapEngineer,proverbsTechnician,enclosureEngineer);
+
+
+		spike.action(tempTargetFile, verses);
+		
+		// Verify generated content
+		final String content = FileUtils.readFileToString(tempTargetFile);
+		Assert.assertTrue(content.contains("Proverbs")); 
+	 */
 	public void action(File target, List<byte[]> verses) throws Exception {
 		Writer writer = new FileWriter(target);
 		WireFeedOutput outputter = new WireFeedOutput();
