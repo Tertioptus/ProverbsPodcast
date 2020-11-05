@@ -78,7 +78,7 @@ public class RomeDirector implements Director {
 		if(bitRate == null) {
 			bitRate = Double.parseDouble(pe.value("bitRate"));
 		}
-		duration.setMilliseconds(enclosure.getLength());
+		duration.setMilliseconds((long)(enclosure.getLength() * bitRate));
 		return duration;
 	}
 	
