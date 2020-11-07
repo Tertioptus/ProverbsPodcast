@@ -51,8 +51,8 @@ public class SegmentedReverseTimeMachine implements TimeMachine {
 		 * "block of day" record out of the updated time.
 		 */
 		int currentBlock = blockOfDay[BlockOfDay.BLOCK.ordinal()];
-		LocalDate date = LocalDate.parse(String.format("20%s-%s-%s", blockOfDay[BlockOfDay.YEAR.ordinal()],
-				blockOfDay[BlockOfDay.MONTH.ordinal()], blockOfDay[BlockOfDay.DAY.ordinal()]));
+		LocalDate date = LocalDate.parse(String.format("20%s-%2s-%2s", blockOfDay[BlockOfDay.YEAR.ordinal()],
+				blockOfDay[BlockOfDay.MONTH.ordinal()], blockOfDay[BlockOfDay.DAY.ordinal()]).replace(' ', '0'));
 		LocalDateTime currentTime = date.atTime(currentBlock * segmentLength + segmentStartHour, 0);
 		int segmentsADay = (24 / segmentLength);
 		int lastBlock = (segmentsADay + currentBlock - 1) % segmentsADay;

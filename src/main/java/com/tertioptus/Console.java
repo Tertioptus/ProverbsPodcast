@@ -8,6 +8,7 @@ import com.tertioptus.rss.director.AnEnclosureEngineer;
 import com.tertioptus.rss.director.AnOpenCSVProverbsTechnician;
 import com.tertioptus.rss.director.ArgumentControlProverbsTechnician;
 import com.tertioptus.rss.director.LookupCacheEngineer;
+import com.tertioptus.rss.director.ProverbsTechnician;
 import com.tertioptus.rss.director.RomeDirector;
 import com.tertioptus.rss.director.SmartEnclosureEngineer;
 import com.tertioptus.rss.producer.AProducer;
@@ -26,14 +27,15 @@ public class Console
     public static void main( String[] args ) throws Exception
     {
 
-    	
+    	ProverbsTechnician proverbsTechnician = new ArgumentControlProverbsTechnician(new AnOpenCSVProverbsTechnician());
     	producer(	thePropertiesMapEngineer,
-    				new RomeDirector(thePropertiesMapEngineer,new ArgumentControlProverbsTechnician(new AnOpenCSVProverbsTechnician()), new SmartEnclosureEngineer(new AnEnclosureEngineer(), new LookupCacheEngineer())), 
-    				new SegmentedReverseTimeMachine())
+    				new RomeDirector(thePropertiesMapEngineer, proverbsTechnician, new SmartEnclosureEngineer(new AnEnclosureEngineer(), new LookupCacheEngineer())), 
+    				new SegmentedReverseTimeMachine(),
+    				proverbsTechnician)
     	.start();
     }
 
-	private static Producer producer(MapEngineer<String,String> mapEngineer, Director director, TimeMachine timeMachine) {
-		return new AProducer(mapEngineer, director, timeMachine);
+	private static Producer producer(MapEngineer<String,String> mapEngineer, Director director, TimeMachine timeMachine, ProverbsTechnician proverbsTechnician) {
+		return new AProducer(mapEngineer, director, timeMachine, proverbsTechnician);
 	}
 }
