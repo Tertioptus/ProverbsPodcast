@@ -3,10 +3,12 @@ package com.tertioptus.rss.director;
 import java.io.File;
 import java.io.FileWriter;
 import java.io.Writer;
+import java.text.DateFormat;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
+import java.util.TimeZone;
 
 import com.rometools.modules.itunes.EntryInformation;
 import com.rometools.modules.itunes.EntryInformationImpl;
@@ -26,6 +28,7 @@ import com.tertioptus.rss.Director;
 
 public class RomeDirector implements Director {
 
+	private static final int EST_OFFSET = 5;
 	private final MapEngineer<String, String> pe;
 	private final ProverbsTechnician tech;
 	private final EnclosureEngineer enclosureEngineer;
@@ -78,8 +81,9 @@ public class RomeDirector implements Director {
 		Enclosure enclosure = enclosureEngineer
 				.enclosure(String.format(pe.value("proverbs.root"), day, verse).replace(' ', '0'));
 		item.setEnclosures(Arrays.asList(new Enclosure[] { enclosure }));
-		item.setPubDate(new SimpleDateFormat("yyyy-MM-dd,HH:mm")
-				.parse(String.format("20%s-%2s-%2s,%2s:00:00", year, month, day, hour).replace(' ', '0')));
+		TimeZone.setDefault(TimeZone.getTimeZone("EST"));
+		DateFormat dateFormat = new SimpleDateFormat("yyyy-MM-dd,HH:mm");
+		item.setPubDate(dateFormat.parse(String.format("20%s-%2s-%2s,%2s:00:00", year, month, day, hour-EST_OFFSET).replace(' ', '0')));
 		EntryInformation entryInfo = new EntryInformationImpl();
 		entryInfo.setKeywords(pe.value("keywords").split(","));
 		entryInfo.setAuthor(pe.value("author"));
