@@ -40,7 +40,7 @@ public class AProducer implements Producer {
 			verses.add(loadVerse(segmentsADay, segmentLength, segmentsStartHour, currentBlock));
 			currentBlock = timeMachine.getPrevious(currentBlock, segmentsStartHour, segmentLength);
 		}
-		director.action(new File("proverbs-commentary.rss"), verses);
+		director.action(new File(mapEngineer.value("rss.target_directory") + "/" + mapEngineer.value("filename")), verses);
 	}
 
 	private byte[] loadVerse(int segmentsADay, int segmentLength, int segmentsStartHour, byte[] currentBlock) throws Exception {
