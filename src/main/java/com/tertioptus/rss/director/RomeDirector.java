@@ -3,9 +3,9 @@ package com.tertioptus.rss.director;
 import java.io.File;
 import java.io.FileWriter;
 import java.io.Writer;
+import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.Date;
 import java.util.List;
 
 import com.rometools.modules.itunes.EntryInformation;
@@ -25,47 +25,46 @@ import com.tertioptus.MapEngineer;
 import com.tertioptus.rss.Director;
 
 public class RomeDirector implements Director {
-	
+
 	private final MapEngineer<String, String> pe;
 	private final ProverbsTechnician tech;
 	private final EnclosureEngineer enclosureEngineer;
 	private Double bitRate;
-	
-	public RomeDirector(MapEngineer<String,String> thepropertiesmapengineer,
-			ProverbsTechnician tech, EnclosureEngineer enclosureEngineer) {
+
+	public RomeDirector(MapEngineer<String, String> thepropertiesmapengineer, ProverbsTechnician tech,
+			EnclosureEngineer enclosureEngineer) {
 		this.pe = thepropertiesmapengineer;
 		this.tech = tech;
 		this.enclosureEngineer = enclosureEngineer;
 	}
 
 	/**
-	 *  proveThatTheRomeDirectorCanCreateAnRSSFile: 
-		final File tempTargetFile = tempFolder.newFile("ProverbsPodcast.rss");
-		ProverbsTechnician proverbsTechnician;
-		EnclosureEngineer enclosureEngineer;
-		List<byte[]> verses = new ArrayList<>();
-		verses.add(new byte[] {20,10,8,9,1});
-		verses.add(new byte[] {20,11,26,12,8});
-		Director spike = new RomeDirector(thePropertiesMapEngineer,proverbsTechnician,enclosureEngineer);
-
-
-		spike.action(tempTargetFile, verses);
-		
-		// Verify generated content
-		final String content = FileUtils.readFileToString(tempTargetFile);
-		Assert.assertTrue(content.contains("Proverbs")); 
+	 * proveThatTheRomeDirectorCanCreateAnRSSFile: 
+	 * final File tempTargetFile =
+	 * tempFolder.newFile("ProverbsPodcast.rss"); ProverbsTechnician
+	 * proverbsTechnician; EnclosureEngineer enclosureEngineer; List<byte[]> verses
+	 * = new ArrayList<>(); verses.add(new byte[] {20,10,8,9,1}); verses.add(new
+	 * byte[] {20,11,26,12,8}); Director spike = new
+	 * RomeDirector(thePropertiesMapEngineer,proverbsTechnician,enclosureEngineer);
+	 * 
+	 * 
+	 * spike.action(tempTargetFile, verses);
+	 * 
+	 * // Verify generated content final String content =
+	 * FileUtils.readFileToString(tempTargetFile);
+	 * Assert.assertTrue(content.contains("Proverbs"));
 	 */
 	public void action(File target, List<byte[]> verses) throws Exception {
 		Writer writer = new FileWriter(target);
 		WireFeedOutput outputter = new WireFeedOutput();
 		List<Item> items = new ArrayList<>();
-		for(byte[] verse : verses) {
-			items.add(item(verse[0],verse[1],verse[2],verse[3],verse[4]));
+		for (byte[] verse : verses) {
+			items.add(item(verse[0], verse[1], verse[2], verse[3], verse[4]));
 		}
 		outputter.output(loadChannel(items), writer);
 		writer.close();
 	}
-	
+
 	private Item item(byte year, byte month, byte day, byte hour, byte verse) throws Exception {
 		Item item = new Item();
 		item.setTitle(String.format("Proverbs %s:%s", day, verse));
@@ -76,9 +75,11 @@ public class RomeDirector implements Director {
 		item.setDescription(description);
 		// Enclosure represents a media file via link with file attributes
 		// in the apple RSS spec
-		Enclosure enclosure = enclosureEngineer.enclosure(String.format(pe.value("proverbs.root"),day,verse).replace(' ', '0'));
-		item.setEnclosures(Arrays.asList(new Enclosure[]{enclosure}));
-		item.setPubDate(new Date()); 
+		Enclosure enclosure = enclosureEngineer
+				.enclosure(String.format(pe.value("proverbs.root"), day, verse).replace(' ', '0'));
+		item.setEnclosures(Arrays.asList(new Enclosure[] { enclosure }));
+		item.setPubDate(new SimpleDateFormat("yyyy-MM-dd,HH:mm")
+				.parse(String.format("20%s-%2s-%2s,%2s:00:00", year, month, day, hour).replace(' ', '0')));
 		EntryInformation entryInfo = new EntryInformationImpl();
 		entryInfo.setKeywords(pe.value("keywords").split(","));
 		entryInfo.setAuthor(pe.value("author"));
@@ -90,15 +91,15 @@ public class RomeDirector implements Director {
 	}
 
 	private Duration duration(Enclosure enclosure) throws Exception {
-		//The duration is inexplicably separate from the enclosure
+		// The duration is inexplicably separate from the enclosure
 		Duration duration = new Duration();
-		if(bitRate == null) {
+		if (bitRate == null) {
 			bitRate = Double.parseDouble(pe.value("bitRate"));
 		}
-		duration.setMilliseconds((long)(enclosure.getLength() * bitRate));
+		duration.setMilliseconds((long) (enclosure.getLength() * bitRate));
 		return duration;
 	}
-	
+
 	private Channel loadChannel(List<Item> items) throws Exception {
 		Channel channel = new Channel(pe.value("rss.spec"));
 		channel.setLanguage(pe.value("language"));
@@ -121,7 +122,7 @@ public class RomeDirector implements Director {
 		feedInfo.setExplicit(false);
 		return channel;
 	}
-	
+
 	private Image getImage() throws Exception {
 		Image image = new Image();
 		image.setUrl(pe.value("image"));

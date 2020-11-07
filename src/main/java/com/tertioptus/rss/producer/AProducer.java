@@ -37,18 +37,18 @@ public class AProducer implements Producer {
 		int segmentsADay = 24 / segmentLength;
 		byte[] currentBlock = timeMachine.getCurrent(currentTime, segmentsStartHour, segmentLength);
 		for (int block = 0; block < DAYS_IN_YEARS * segmentsADay; block++) {
-			verses.add(loadVerse(segmentsADay, currentBlock));
+			verses.add(loadVerse(segmentsADay, segmentLength, segmentsStartHour, currentBlock));
 			currentBlock = timeMachine.getPrevious(currentBlock, segmentsStartHour, segmentLength);
 		}
 		director.action(new File("proverbs-commentary.rss"), verses);
 	}
 
-	private byte[] loadVerse(int segmentsADay, byte[] currentBlock) throws Exception {
+	private byte[] loadVerse(int segmentsADay, int segmentLength, int segmentsStartHour, byte[] currentBlock) throws Exception {
 		return new byte[] { currentBlock[TimeMachine.BlockOfDay.YEAR.ordinal()],
 				currentBlock[TimeMachine.BlockOfDay.MONTH.ordinal()],
 				currentBlock[TimeMachine.BlockOfDay.DAY.ordinal()],
-				currentBlock[TimeMachine.BlockOfDay.BLOCK.ordinal()],
-				(byte) ((currentBlock[TimeMachine.BlockOfDay.DAY.ordinal()] * segmentsADay)
+				(byte)(currentBlock[TimeMachine.BlockOfDay.BLOCK.ordinal()] * segmentLength + segmentsStartHour),
+				(byte) ((currentBlock[TimeMachine.BlockOfDay.BLOCK.ordinal()] + currentBlock[TimeMachine.BlockOfDay.MONTH.ordinal()] * segmentsADay)
 						% this.proverbsTechnician.verseCount(currentBlock[TimeMachine.BlockOfDay.DAY.ordinal()])+1) };
 	}
 
