@@ -28,7 +28,6 @@ import com.tertioptus.rss.Director;
 
 public class RomeDirector implements Director {
 
-	private static final int EST_OFFSET = 5;
 	private final MapEngineer<String, String> pe;
 	private final ProverbsTechnician tech;
 	private final EnclosureEngineer enclosureEngineer;
@@ -83,7 +82,7 @@ public class RomeDirector implements Director {
 		item.setEnclosures(Arrays.asList(new Enclosure[] { enclosure }));
 		TimeZone.setDefault(TimeZone.getTimeZone("EST"));
 		DateFormat dateFormat = new SimpleDateFormat("yyyy-MM-dd,HH:mm");
-		item.setPubDate(dateFormat.parse(String.format("20%s-%2s-%2s,%2s:00:00", year, month, day, hour-EST_OFFSET).replace(' ', '0')));
+		item.setPubDate(dateFormat.parse(String.format("20%s-%2s-%2s,%2s:00:00", year, month, day, hour).replace(' ', '0')));
 		EntryInformation entryInfo = new EntryInformationImpl();
 		entryInfo.setKeywords(pe.value("keywords").split(","));
 		entryInfo.setAuthor(pe.value("author"));

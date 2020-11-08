@@ -1,8 +1,7 @@
 package com.tertioptus.rss.director;
 
-import java.io.File;
-import java.io.FileReader;
-import java.net.URL;
+import java.io.BufferedReader;
+import java.io.InputStreamReader;
 import java.util.HashMap;
 import java.util.Map;
 
@@ -34,18 +33,16 @@ public class AnOpenCSVProverbsTechnician implements ProverbsTechnician {
 	}
 
 	private void loadCache() throws Exception {
-		URL resource = this.getClass().getResource(RESOURCE);
-		CSVReader reader = new CSVReader(new FileReader(new File(resource.toURI())), '\t', '"', 1);
-
+		CSVReader reader = loadCSVReader();
 		String[] nextLine;
 		while ((nextLine = reader.readNext()) != null) {
 			if (nextLine != null) {
 				byte chapter = Byte.parseByte(nextLine[Columns.CHAPTER.ordinal()]);
 				byte verse = Byte.parseByte(nextLine[Columns.VERSE.ordinal()]);
+				byte verseCount = 0;
 				proverbsMap.put(generateVerseKey(chapter, verse), 
 						nextLine[Columns.TEXT.ordinal()]);
 				
-				byte verseCount = 0;
 				if(!proverbsVerseCount.containsKey(chapter)) {
 					proverbsVerseCount.put(chapter, verseCount);
 				}
@@ -53,6 +50,15 @@ public class AnOpenCSVProverbsTechnician implements ProverbsTechnician {
 				proverbsVerseCount.put(chapter, ++verseCount);
 			}
 		}
+	}
+
+	private CSVReader loadCSVReader() {
+		/*
+		 * "Resource as stream" must be used in order to load a file that's in the jar.
+		 */
+		return new CSVReader(
+				new BufferedReader(
+						new InputStreamReader(getClass().getResourceAsStream(RESOURCE))), '\t', '"', 1);
 	}
 	
 	private Integer generateVerseKey(byte chapter, byte verse) {
