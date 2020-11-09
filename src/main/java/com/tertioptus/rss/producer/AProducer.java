@@ -13,8 +13,6 @@ import com.tertioptus.time.TimeMachine;
 
 public class AProducer implements Producer {
 
-	private final int DAYS_IN_YEARS = 366;
-
 	private final Director director;
 	private final MapEngineer<String, String> mapEngineer;
 	private final TimeMachine timeMachine;
@@ -36,11 +34,23 @@ public class AProducer implements Producer {
 		int segmentLength = Integer.parseInt(mapEngineer.value("segment.length"));
 		int segmentsADay = 24 / segmentLength;
 		byte[] currentBlock = timeMachine.getCurrent(currentTime, segmentsStartHour, segmentLength);
-		for (int block = 0; block < DAYS_IN_YEARS * segmentsADay; block++) {
+		do {
 			verses.add(loadVerse(segmentsADay, segmentLength, segmentsStartHour, currentBlock));
 			currentBlock = timeMachine.getPrevious(currentBlock, segmentsStartHour, segmentLength);
-		}
+		} while(viable(currentBlock));
 		director.action(new File(mapEngineer.value("rss.target_directory") + "/" + mapEngineer.value("filename")), verses);
+	}
+
+	private boolean viable(byte[] currentBlock) {
+		if(	currentBlock[TimeMachine.BlockOfDay.YEAR.ordinal()] <= 19 &&
+			currentBlock[TimeMachine.BlockOfDay.MONTH.ordinal()] <= 11 &&
+			currentBlock[TimeMachine.BlockOfDay.DAY.ordinal()] <= 7 &&
+			currentBlock[TimeMachine.BlockOfDay.BLOCK.ordinal()] <= 0
+				) 
+		{
+			return false;
+		}
+		return true;
 	}
 
 	private byte[] loadVerse(int segmentsADay, int segmentLength, int segmentsStartHour, byte[] currentBlock) throws Exception {
