@@ -73,7 +73,8 @@ public class RomeDirector implements Director {
 
 		Description description = new Description();
 		description.setType("text");
-		description.setValue(tech.fetchProverb(day, verse));
+		String proverb = tech.fetchProverb(day, verse);
+		description.setValue(proverb);
 		item.setDescription(description);
 		// Enclosure represents a media file via link with file attributes
 		// in the apple RSS spec
@@ -87,7 +88,7 @@ public class RomeDirector implements Director {
 		entryInfo.setKeywords(pe.value("keywords").split(","));
 		entryInfo.setAuthor(pe.value("author"));
 		entryInfo.setSummary(pe.value("summary"));
-		entryInfo.setSubtitle(pe.value("sub.title"));
+		entryInfo.setSubtitle(proverb);
 		entryInfo.setDuration(duration(enclosure));
 		item.getModules().add(entryInfo);
 		return item;
