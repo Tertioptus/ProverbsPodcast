@@ -3,6 +3,8 @@ package com.tertioptus.rss.director;
 import java.io.File;
 import java.io.FileWriter;
 import java.io.Writer;
+import java.net.MalformedURLException;
+import java.net.URL;
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
@@ -124,6 +126,11 @@ public class RomeDirector implements Director {
 		feedInfo.setSubtitle(pe.value("sub.title"));
 		feedInfo.setSummary(pe.value("summary"));
 		feedInfo.setExplicit(false);
+		try {
+			feedInfo.setImage(new URL(pe.value("image")));
+		} catch (MalformedURLException e) {
+			e.printStackTrace();
+		}
 		return channel;
 	}
 
@@ -132,8 +139,8 @@ public class RomeDirector implements Director {
 		image.setUrl(pe.value("image"));
 		image.setTitle(pe.value("title"));
 		image.setDescription(pe.value("description"));
-		image.setHeight(350);
-		image.setWidth(350);
+		image.setHeight(1446);
+		image.setWidth(1446);
 		return image;
 	}
 }
