@@ -9,6 +9,7 @@ import com.tertioptus.rss.director.AnOpenCSVProverbsTechnician;
 import com.tertioptus.rss.director.ArgumentControlProverbsTechnician;
 import com.tertioptus.rss.director.LookupCacheEngineer;
 import com.tertioptus.rss.director.ProverbsTechnician;
+import com.tertioptus.rss.director.QualifyingDirector;
 import com.tertioptus.rss.director.RomeDirector;
 import com.tertioptus.rss.director.SmartEnclosureEngineer;
 import com.tertioptus.rss.producer.AProducer;
@@ -29,7 +30,12 @@ public class Console
 
     	ProverbsTechnician proverbsTechnician = new ArgumentControlProverbsTechnician(new AnOpenCSVProverbsTechnician());
     	producer(	thePropertiesMapEngineer,
-    				new RomeDirector(thePropertiesMapEngineer, proverbsTechnician, new SmartEnclosureEngineer(new AnEnclosureEngineer(), new LookupCacheEngineer())), 
+    				new QualifyingDirector(
+    						new RomeDirector(
+    								thePropertiesMapEngineer, 
+    								proverbsTechnician, 
+    								new SmartEnclosureEngineer(new AnEnclosureEngineer(), new LookupCacheEngineer()))
+    				), 
     				new SegmentedReverseTimeMachine(),
     				proverbsTechnician)
     	.start();
