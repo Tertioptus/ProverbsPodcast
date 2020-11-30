@@ -26,6 +26,17 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <title>Proverbs 30:3</title>
+      <description>I neither learned wisdom, nor have the knowledge of the holy.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/30-03.mp3" length="8057877" type="audio/mpeg" />
+      <pubDate>Tue, 01 Dec 2020 01:00:00 GMT</pubDate>
+      <itunes:duration>00:11:44</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible, KJV, King James Version, Plain Preaching, Wisdom, The Church of Greenville, Church, Greenville, SC</itunes:keywords>
+      <itunes:subtitle>I neither learned wisdom, nor have the knowledge of the holy.</itunes:subtitle>
+      <itunes:summary>The commentary is practical, hard-hitting, current, and spiritual.</itunes:summary>
+    </item>
+    <item>
       <title>Proverbs 30:2</title>
       <description>Surely I am more brutish than any man, and have not the understanding of a man.</description>
       <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/30-02.mp3" length="6404013" type="audio/mpeg" />
@@ -9923,17 +9934,6 @@
       <itunes:author>Church of Greenville</itunes:author>
       <itunes:keywords>Bible, KJV, King James Version, Plain Preaching, Wisdom, The Church of Greenville, Church, Greenville, SC</itunes:keywords>
       <itunes:subtitle>For length of days, and long life, and peace, shall they add to thee.</itunes:subtitle>
-      <itunes:summary>The commentary is practical, hard-hitting, current, and spiritual.</itunes:summary>
-    </item>
-    <item>
-      <title>Proverbs 30:3</title>
-      <description>I neither learned wisdom, nor have the knowledge of the holy.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/30-03.mp3" length="8057877" type="audio/mpeg" />
-      <pubDate>Sun, 01 Dec 2019 01:00:00 GMT</pubDate>
-      <itunes:duration>00:11:44</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible, KJV, King James Version, Plain Preaching, Wisdom, The Church of Greenville, Church, Greenville, SC</itunes:keywords>
-      <itunes:subtitle>I neither learned wisdom, nor have the knowledge of the holy.</itunes:subtitle>
       <itunes:summary>The commentary is practical, hard-hitting, current, and spiritual.</itunes:summary>
     </item>
   </channel>
