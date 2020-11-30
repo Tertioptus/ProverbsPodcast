@@ -26,6 +26,17 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <title>Proverbs 30:2</title>
+      <description>Surely I am more brutish than any man, and have not the understanding of a man.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/30-02.mp3" length="6404013" type="audio/mpeg" />
+      <pubDate>Mon, 30 Nov 2020 17:00:00 GMT</pubDate>
+      <itunes:duration>00:09:20</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible, KJV, King James Version, Plain Preaching, Wisdom, The Church of Greenville, Church, Greenville, SC</itunes:keywords>
+      <itunes:subtitle>Surely I am more brutish than any man, and have not the understanding of a man.</itunes:subtitle>
+      <itunes:summary>The commentary is practical, hard-hitting, current, and spiritual.</itunes:summary>
+    </item>
+    <item>
       <title>Proverbs 30:1</title>
       <description>The words of Agur the son of Jakeh, even the prophecy: the man spake unto Ithiel, even unto Ithiel and Ucal,</description>
       <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/30-01.mp3" length="4683693" type="audio/mpeg" />
@@ -9923,17 +9934,6 @@
       <itunes:author>Church of Greenville</itunes:author>
       <itunes:keywords>Bible, KJV, King James Version, Plain Preaching, Wisdom, The Church of Greenville, Church, Greenville, SC</itunes:keywords>
       <itunes:subtitle>I neither learned wisdom, nor have the knowledge of the holy.</itunes:subtitle>
-      <itunes:summary>The commentary is practical, hard-hitting, current, and spiritual.</itunes:summary>
-    </item>
-    <item>
-      <title>Proverbs 30:2</title>
-      <description>Surely I am more brutish than any man, and have not the understanding of a man.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/30-02.mp3" length="6404013" type="audio/mpeg" />
-      <pubDate>Sat, 30 Nov 2019 17:00:00 GMT</pubDate>
-      <itunes:duration>00:09:20</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible, KJV, King James Version, Plain Preaching, Wisdom, The Church of Greenville, Church, Greenville, SC</itunes:keywords>
-      <itunes:subtitle>Surely I am more brutish than any man, and have not the understanding of a man.</itunes:subtitle>
       <itunes:summary>The commentary is practical, hard-hitting, current, and spiritual.</itunes:summary>
     </item>
   </channel>
