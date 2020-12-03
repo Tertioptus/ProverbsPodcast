@@ -26,6 +26,17 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <title>Proverbs 3:2</title>
+      <description>For length of days, and long life, and peace, shall they add to thee.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/03-02.mp3" length="4683692" type="audio/mpeg" />
+      <pubDate>Thu, 03 Dec 2020 09:00:00 GMT</pubDate>
+      <itunes:duration>00:06:49</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible, KJV, King James Version, Plain Preaching, Wisdom, The Church of Greenville, Church, Greenville, SC</itunes:keywords>
+      <itunes:subtitle>For length of days, and long life, and peace, shall they add to thee.</itunes:subtitle>
+      <itunes:summary>The commentary is practical, hard-hitting, current, and spiritual.</itunes:summary>
+    </item>
+    <item>
       <title>Proverbs 2:17</title>
       <description>Which forsaketh the guide of her youth, and forgetteth the covenant of her God.</description>
       <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/02-17.mp3" length="9105701" type="audio/mpeg" />
@@ -9923,17 +9934,6 @@
       <itunes:author>Church of Greenville</itunes:author>
       <itunes:keywords>Bible, KJV, King James Version, Plain Preaching, Wisdom, The Church of Greenville, Church, Greenville, SC</itunes:keywords>
       <itunes:subtitle>Let not mercy and truth forsake thee: bind them about thy neck; write them upon the table of thine heart:</itunes:subtitle>
-      <itunes:summary>The commentary is practical, hard-hitting, current, and spiritual.</itunes:summary>
-    </item>
-    <item>
-      <title>Proverbs 3:2</title>
-      <description>For length of days, and long life, and peace, shall they add to thee.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/03-02.mp3" length="4683692" type="audio/mpeg" />
-      <pubDate>Tue, 03 Dec 2019 09:00:00 GMT</pubDate>
-      <itunes:duration>00:06:49</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible, KJV, King James Version, Plain Preaching, Wisdom, The Church of Greenville, Church, Greenville, SC</itunes:keywords>
-      <itunes:subtitle>For length of days, and long life, and peace, shall they add to thee.</itunes:subtitle>
       <itunes:summary>The commentary is practical, hard-hitting, current, and spiritual.</itunes:summary>
     </item>
   </channel>
