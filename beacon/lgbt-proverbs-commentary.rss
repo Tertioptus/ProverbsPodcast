@@ -26,6 +26,17 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <title>Proverbs 8:3</title>
+      <description>She crieth at the gates, at the entry of the city, at the coming in at the doors.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/08-03.mp3" length="8839042" type="audio/mpeg" />
+      <pubDate>Wed, 09 Dec 2020 01:00:00 GMT</pubDate>
+      <itunes:duration>00:12:52</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible, KJV, King James Version, Plain Preaching, Wisdom, The Church of Greenville, Church, Greenville, SC</itunes:keywords>
+      <itunes:subtitle>She crieth at the gates, at the entry of the city, at the coming in at the doors.</itunes:subtitle>
+      <itunes:summary>The commentary is practical, hard-hitting, current, and spiritual.</itunes:summary>
+    </item>
+    <item>
       <title>Proverbs 8:2</title>
       <description>She standeth in the top of high places, by the way in the places of the paths.</description>
       <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/08-02.mp3" length="4352250" type="audio/mpeg" />
@@ -9923,17 +9934,6 @@
       <itunes:author>Church of Greenville</itunes:author>
       <itunes:keywords>Bible, KJV, King James Version, Plain Preaching, Wisdom, The Church of Greenville, Church, Greenville, SC</itunes:keywords>
       <itunes:subtitle>He that walketh in his uprightness feareth the LORD: but he that is perverse in his ways despiseth him.</itunes:subtitle>
-      <itunes:summary>The commentary is practical, hard-hitting, current, and spiritual.</itunes:summary>
-    </item>
-    <item>
-      <title>Proverbs 8:3</title>
-      <description>She crieth at the gates, at the entry of the city, at the coming in at the doors.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/08-03.mp3" length="8839042" type="audio/mpeg" />
-      <pubDate>Mon, 09 Dec 2019 01:00:00 GMT</pubDate>
-      <itunes:duration>00:12:52</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible, KJV, King James Version, Plain Preaching, Wisdom, The Church of Greenville, Church, Greenville, SC</itunes:keywords>
-      <itunes:subtitle>She crieth at the gates, at the entry of the city, at the coming in at the doors.</itunes:subtitle>
       <itunes:summary>The commentary is practical, hard-hitting, current, and spiritual.</itunes:summary>
     </item>
   </channel>
