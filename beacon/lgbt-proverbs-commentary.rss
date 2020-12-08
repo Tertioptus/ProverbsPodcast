@@ -26,6 +26,17 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <title>Proverbs 8:1</title>
+      <description>Doth not wisdom cry? and understanding put forth her voice?</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/08-01.mp3" length="4197605" type="audio/mpeg" />
+      <pubDate>Tue, 08 Dec 2020 09:00:00 GMT</pubDate>
+      <itunes:duration>00:06:07</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible, KJV, King James Version, Plain Preaching, Wisdom, The Church of Greenville, Church, Greenville, SC</itunes:keywords>
+      <itunes:subtitle>Doth not wisdom cry? and understanding put forth her voice?</itunes:subtitle>
+      <itunes:summary>The commentary is practical, hard-hitting, current, and spiritual.</itunes:summary>
+    </item>
+    <item>
       <title>Proverbs 7:12</title>
       <description>Now is she without, now in the streets, and lieth in wait at every corner.)</description>
       <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/07-12.mp3" length="6459601" type="audio/mpeg" />
@@ -9923,17 +9934,6 @@
       <itunes:author>Church of Greenville</itunes:author>
       <itunes:keywords>Bible, KJV, King James Version, Plain Preaching, Wisdom, The Church of Greenville, Church, Greenville, SC</itunes:keywords>
       <itunes:subtitle>She standeth in the top of high places, by the way in the places of the paths.</itunes:subtitle>
-      <itunes:summary>The commentary is practical, hard-hitting, current, and spiritual.</itunes:summary>
-    </item>
-    <item>
-      <title>Proverbs 8:1</title>
-      <description>Doth not wisdom cry? and understanding put forth her voice?</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/08-01.mp3" length="4197605" type="audio/mpeg" />
-      <pubDate>Sun, 08 Dec 2019 09:00:00 GMT</pubDate>
-      <itunes:duration>00:06:07</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible, KJV, King James Version, Plain Preaching, Wisdom, The Church of Greenville, Church, Greenville, SC</itunes:keywords>
-      <itunes:subtitle>Doth not wisdom cry? and understanding put forth her voice?</itunes:subtitle>
       <itunes:summary>The commentary is practical, hard-hitting, current, and spiritual.</itunes:summary>
     </item>
   </channel>
