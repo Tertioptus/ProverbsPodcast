@@ -26,6 +26,17 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <title>Proverbs 14:3</title>
+      <description>In the mouth of the foolish is a rod of pride: but the lips of the wise shall preserve them.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/14-03.mp3" length="4339712" type="audio/mpeg" />
+      <pubDate>Mon, 14 Dec 2020 17:00:00 GMT</pubDate>
+      <itunes:duration>00:06:19</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible, KJV, King James Version, Plain Preaching, Wisdom, The Church of Greenville, Church, Greenville, SC</itunes:keywords>
+      <itunes:subtitle>In the mouth of the foolish is a rod of pride: but the lips of the wise shall preserve them.</itunes:subtitle>
+      <itunes:summary>The commentary is practical, hard-hitting, current, and spiritual.</itunes:summary>
+    </item>
+    <item>
       <title>Proverbs 14:2</title>
       <description>He that walketh in his uprightness feareth the LORD: but he that is perverse in his ways despiseth him.</description>
       <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/14-02.mp3" length="6995007" type="audio/mpeg" />
@@ -9923,17 +9934,6 @@
       <itunes:author>Church of Greenville</itunes:author>
       <itunes:keywords>Bible, KJV, King James Version, Plain Preaching, Wisdom, The Church of Greenville, Church, Greenville, SC</itunes:keywords>
       <itunes:subtitle>And put a knife to thy throat, if thou be a man given to appetite.</itunes:subtitle>
-      <itunes:summary>The commentary is practical, hard-hitting, current, and spiritual.</itunes:summary>
-    </item>
-    <item>
-      <title>Proverbs 14:3</title>
-      <description>In the mouth of the foolish is a rod of pride: but the lips of the wise shall preserve them.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/14-03.mp3" length="4339712" type="audio/mpeg" />
-      <pubDate>Sat, 14 Dec 2019 17:00:00 GMT</pubDate>
-      <itunes:duration>00:06:19</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible, KJV, King James Version, Plain Preaching, Wisdom, The Church of Greenville, Church, Greenville, SC</itunes:keywords>
-      <itunes:subtitle>In the mouth of the foolish is a rod of pride: but the lips of the wise shall preserve them.</itunes:subtitle>
       <itunes:summary>The commentary is practical, hard-hitting, current, and spiritual.</itunes:summary>
     </item>
   </channel>
