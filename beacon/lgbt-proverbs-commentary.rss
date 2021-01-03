@@ -26,6 +26,17 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <title>Proverbs 3:6</title>
+      <description>In all thy ways acknowledge him, and he shall direct thy paths.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/03-06.mp3" length="4254448" type="audio/mpeg" />
+      <pubDate>Mon, 04 Jan 2021 01:00:00 GMT</pubDate>
+      <itunes:duration>00:06:12</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible, KJV, King James Version, Plain Preaching, Wisdom, The Church of Greenville, Church, Greenville, SC</itunes:keywords>
+      <itunes:subtitle>In all thy ways acknowledge him, and he shall direct thy paths.</itunes:subtitle>
+      <itunes:summary>The commentary is practical, hard-hitting, current, and spiritual.</itunes:summary>
+    </item>
+    <item>
       <title>Proverbs 3:5</title>
       <description>Trust in the LORD with all thine heart; and lean not unto thine own understanding.</description>
       <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/03-05.mp3" length="7712224" type="audio/mpeg" />
@@ -9923,17 +9934,6 @@
       <itunes:author>Church of Greenville</itunes:author>
       <itunes:keywords>Bible, KJV, King James Version, Plain Preaching, Wisdom, The Church of Greenville, Church, Greenville, SC</itunes:keywords>
       <itunes:subtitle>Deliver thyself as a roe from the hand of the hunter, and as a bird from the hand of the fowler.</itunes:subtitle>
-      <itunes:summary>The commentary is practical, hard-hitting, current, and spiritual.</itunes:summary>
-    </item>
-    <item>
-      <title>Proverbs 3:6</title>
-      <description>In all thy ways acknowledge him, and he shall direct thy paths.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/03-06.mp3" length="4254448" type="audio/mpeg" />
-      <pubDate>Sat, 04 Jan 2020 01:00:00 GMT</pubDate>
-      <itunes:duration>00:06:12</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible, KJV, King James Version, Plain Preaching, Wisdom, The Church of Greenville, Church, Greenville, SC</itunes:keywords>
-      <itunes:subtitle>In all thy ways acknowledge him, and he shall direct thy paths.</itunes:subtitle>
       <itunes:summary>The commentary is practical, hard-hitting, current, and spiritual.</itunes:summary>
     </item>
   </channel>
