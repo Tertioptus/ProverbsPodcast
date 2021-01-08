@@ -26,6 +26,17 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <title>Proverbs 8:4</title>
+      <description>Unto you, O men, I call; and my voice is to the sons of man.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/08-04.mp3" length="4111925" type="audio/mpeg" />
+      <pubDate>Fri, 08 Jan 2021 09:00:00 GMT</pubDate>
+      <itunes:duration>00:05:59</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible, KJV, King James Version, Plain Preaching, Wisdom, The Church of Greenville, Church, Greenville, SC</itunes:keywords>
+      <itunes:subtitle>Unto you, O men, I call; and my voice is to the sons of man.</itunes:subtitle>
+      <itunes:summary>The commentary is practical, hard-hitting, current, and spiritual.</itunes:summary>
+    </item>
+    <item>
       <title>Proverbs 7:6</title>
       <description>For at the window of my house I looked through my casement,</description>
       <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/07-06.mp3" length="8936008" type="audio/mpeg" />
@@ -9923,17 +9934,6 @@
       <itunes:author>Church of Greenville</itunes:author>
       <itunes:keywords>Bible, KJV, King James Version, Plain Preaching, Wisdom, The Church of Greenville, Church, Greenville, SC</itunes:keywords>
       <itunes:subtitle>O ye simple, understand wisdom: and, ye fools, be ye of an understanding heart.</itunes:subtitle>
-      <itunes:summary>The commentary is practical, hard-hitting, current, and spiritual.</itunes:summary>
-    </item>
-    <item>
-      <title>Proverbs 8:4</title>
-      <description>Unto you, O men, I call; and my voice is to the sons of man.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/08-04.mp3" length="4111925" type="audio/mpeg" />
-      <pubDate>Wed, 08 Jan 2020 09:00:00 GMT</pubDate>
-      <itunes:duration>00:05:59</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible, KJV, King James Version, Plain Preaching, Wisdom, The Church of Greenville, Church, Greenville, SC</itunes:keywords>
-      <itunes:subtitle>Unto you, O men, I call; and my voice is to the sons of man.</itunes:subtitle>
       <itunes:summary>The commentary is practical, hard-hitting, current, and spiritual.</itunes:summary>
     </item>
   </channel>
