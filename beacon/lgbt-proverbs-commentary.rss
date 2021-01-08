@@ -26,6 +26,17 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <title>Proverbs 8:5</title>
+      <description>O ye simple, understand wisdom: and, ye fools, be ye of an understanding heart.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/08-05.mp3" length="4592159" type="audio/mpeg" />
+      <pubDate>Fri, 08 Jan 2021 17:00:00 GMT</pubDate>
+      <itunes:duration>00:06:41</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible, KJV, King James Version, Plain Preaching, Wisdom, The Church of Greenville, Church, Greenville, SC</itunes:keywords>
+      <itunes:subtitle>O ye simple, understand wisdom: and, ye fools, be ye of an understanding heart.</itunes:subtitle>
+      <itunes:summary>The commentary is practical, hard-hitting, current, and spiritual.</itunes:summary>
+    </item>
+    <item>
       <title>Proverbs 8:4</title>
       <description>Unto you, O men, I call; and my voice is to the sons of man.</description>
       <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/08-04.mp3" length="4111925" type="audio/mpeg" />
@@ -9923,17 +9934,6 @@
       <itunes:author>Church of Greenville</itunes:author>
       <itunes:keywords>Bible, KJV, King James Version, Plain Preaching, Wisdom, The Church of Greenville, Church, Greenville, SC</itunes:keywords>
       <itunes:subtitle>Hear; for I will speak of excellent things; and the opening of my lips shall be right things.</itunes:subtitle>
-      <itunes:summary>The commentary is practical, hard-hitting, current, and spiritual.</itunes:summary>
-    </item>
-    <item>
-      <title>Proverbs 8:5</title>
-      <description>O ye simple, understand wisdom: and, ye fools, be ye of an understanding heart.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/08-05.mp3" length="4592159" type="audio/mpeg" />
-      <pubDate>Wed, 08 Jan 2020 17:00:00 GMT</pubDate>
-      <itunes:duration>00:06:41</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible, KJV, King James Version, Plain Preaching, Wisdom, The Church of Greenville, Church, Greenville, SC</itunes:keywords>
-      <itunes:subtitle>O ye simple, understand wisdom: and, ye fools, be ye of an understanding heart.</itunes:subtitle>
       <itunes:summary>The commentary is practical, hard-hitting, current, and spiritual.</itunes:summary>
     </item>
   </channel>
