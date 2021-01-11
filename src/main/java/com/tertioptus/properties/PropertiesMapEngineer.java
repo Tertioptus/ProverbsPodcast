@@ -1,5 +1,8 @@
 package com.tertioptus.properties;
 
+import java.util.HashMap;
+import java.util.Map;
+import java.util.Map.Entry;
 import java.util.Properties;
 
 import com.tertioptus.MapEngineer;
@@ -27,5 +30,13 @@ public final class PropertiesMapEngineer implements MapEngineer<String, String>{
 	public String value(String key) throws Exception {
 		resourceStreamEngineer.load(propertiesFileName, properties);
 		return properties.getProperty(key);
+	}
+
+	@Override
+	public Map<String, String> generateMap() throws Exception {
+		resourceStreamEngineer.load(propertiesFileName, properties);
+		Map<String, String> map = new HashMap<>();
+		this.properties.forEach((key,value) -> map.put((String)key, (String)value));
+		return map;
 	}
 }

@@ -12,6 +12,8 @@ import com.tertioptus.rss.director.ProverbsTechnician;
 import com.tertioptus.rss.director.QualifyingDirector;
 import com.tertioptus.rss.director.RomeDirector;
 import com.tertioptus.rss.director.SmartEnclosureEngineer;
+import com.tertioptus.rss.director.xml.ATextFileEngineer;
+import com.tertioptus.rss.director.xml.XmlDirector;
 import com.tertioptus.rss.producer.AProducer;
 import com.tertioptus.time.TimeMachine;
 import com.tertioptus.time.timemachine.SegmentedReverseTimeMachine;
@@ -31,10 +33,11 @@ public class Console
     	ProverbsTechnician proverbsTechnician = new ArgumentControlProverbsTechnician(new AnOpenCSVProverbsTechnician());
     	producer(	thePropertiesMapEngineer,
     				new QualifyingDirector(
-    						new RomeDirector(
+    						new XmlDirector(
     								thePropertiesMapEngineer, 
     								proverbsTechnician, 
-    								new SmartEnclosureEngineer(new AnEnclosureEngineer(), new LookupCacheEngineer()))
+    								new SmartEnclosureEngineer(new AnEnclosureEngineer(), new LookupCacheEngineer()),
+    								new ATextFileEngineer())
     				), 
     				new SegmentedReverseTimeMachine(),
     				proverbsTechnician)

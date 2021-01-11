@@ -1,0 +1,12 @@
+    <item>
+      <guid isPermaLink="true">${guid}</guid>
+      <title>${title}</title>
+      <description>${description}</description>
+      <enclosure url="${url}" length="${length}" type="audio/mpeg" />
+      <pubDate>${pubDate}</pubDate>
+      <itunes:duration>${duration}</itunes:duration>
+      <itunes:author>${author}</itunes:author>
+      <itunes:keywords>${keywords}</itunes:keywords>
+      <itunes:subtitle>${subtitle}</itunes:subtitle>
+      <itunes:summary>${summary}</itunes:summary>
+    </item>

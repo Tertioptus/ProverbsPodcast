@@ -1,5 +1,7 @@
 package com.tertioptus;
 
+import java.util.Map;
+
 /**
  * Technician of data structure maps.
  *
@@ -18,4 +20,6 @@ public interface MapEngineer<T,K> {
 	 * @throws Exception
 	 */
 	K value(T key) throws Exception;
+	
+	Map<T,K> generateMap() throws Exception;
 }

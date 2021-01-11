@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>${title}</title>
+    <link>${host}</link>
+    <description>${description}</description>
+    <language>${language}</language>
+    <itunes:owner>
+      <itunes:email>${owner.email}</itunes:email>
+      <itunes:name>${owner.name}</itunes:name>
+    </itunes:owner>
+    <itunes:category text="${category}">
+      <itunes:category text="${sub.category}" />
+    </itunes:category>
+    <itunes:author>${author}</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="${image}" />
+    <itunes:keywords>${keywords}</itunes:keywords>
+    <itunes:subtitle>${sub.title}</itunes:subtitle>
+    <itunes:summary>${summary}</itunes:summary>
+    <image>
+      <title>${title}</title>
+      <url>${image}</url>
+      <width>1446</width>
+      <height>1446</height>
+      <description>${description}</description>
+    </image>
+    <items/>
+  </channel>
+</rss>
