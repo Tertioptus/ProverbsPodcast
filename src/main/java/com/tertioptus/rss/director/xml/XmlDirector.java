@@ -51,7 +51,7 @@ public class XmlDirector implements Director {
 		 * one by one. Finally, the process ends with writing the remaining lines in the
 		 * template file to the output file.
 		 */
-		BufferedReader reader = new BufferedReader(new InputStreamReader(this.getClass().getResourceAsStream("Feed-Template.xml")));
+		BufferedReader reader = new BufferedReader(new InputStreamReader(XmlDirector.class.getResourceAsStream("Feed-Template.xml")));
 		Writer writer = new FileWriter(target);
 		String line;
 		Phase phase = Phase.HEADER;
@@ -63,7 +63,7 @@ public class XmlDirector implements Director {
 					phase = Phase.EPISODES;
 					continue;
 				}
-				headerBuffer.append(line);
+				headerBuffer.append(line + "\r\n");
 				break;
 			case EPISODES:
 				writer.write(resolve(headerBuffer.toString()));
@@ -86,7 +86,7 @@ public class XmlDirector implements Director {
 	private void writeItems(Writer writer, List<byte[]> verses) throws Exception {
 		String itemTemplate = this.textFileEngineer.readAll(this.getClass(),"Item-Template.xml");
 		for (byte[] verse : verses) {
-			writer.write(item(itemTemplate, verse[0], verse[1], verse[2], verse[3], verse[4]));
+			writer.write(item(itemTemplate, verse[0], verse[1], verse[2], verse[3], verse[4]) + "\r\n");
 		}
 	}
 
