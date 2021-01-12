@@ -59,7 +59,7 @@ public class XmlDirector implements Director {
 		while ((line = reader.readLine()) != null) {
 			switch (phase) {
 			case HEADER:
-				if (line.contains("<items/>")) {
+				if (line.contains("<items>")) {
 					phase = Phase.EPISODES;
 					continue;
 				}
@@ -71,7 +71,7 @@ public class XmlDirector implements Director {
 				phase = Phase.FOOTER;
 				break;
 			case FOOTER:
-				writer.write(line);
+				writer.write(line + "\r\n");
 				break;
 			}
 		}

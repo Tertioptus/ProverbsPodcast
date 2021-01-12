@@ -25,6 +25,7 @@
       <height>1446</height>
       <description>${description}</description>
     </image>
-    <items/>
+    <items>
+    </items>
   </channel>
 </rss>
