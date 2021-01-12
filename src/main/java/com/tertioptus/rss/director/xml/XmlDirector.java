@@ -92,7 +92,7 @@ public class XmlDirector implements Director {
 
 	private String item(String itemTemplate, byte year, byte month, byte day, byte hour, byte verse) throws Exception {
 		Map<String, String> valueMap = new HashMap<>();
-		String proverb = proverbsTechnician.fetchProverb(day, verse);
+		String proverb = proverbsTechnician.fetchProverb(day, verse).trim().replace("\n", "").replace("\r", "");
 		valueMap.put("description", proverb);
 		valueMap.put("subtitle", proverb);
 		valueMap.put("title", String.format("Proverbs %s:%s", day, verse));
