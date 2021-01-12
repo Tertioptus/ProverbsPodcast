@@ -103,8 +103,9 @@ public class XmlDirector implements Director {
 		valueMap.put("author", thePropertiesEngineer.value("author"));
 		valueMap.put("summary", thePropertiesEngineer.value("summary"));
 		TimeZone.setDefault(TimeZone.getTimeZone("EST"));
-		DateFormat dateFormat = new SimpleDateFormat("yyyy-MM-dd,HH:mm");
-		valueMap.put("pubDate",dateFormat.parse(String.format("20%s-%2s-%2s,%2s:00:00", year, month, day, hour).replace(' ', '0')).toString());
+		DateFormat dateFormatSource = new SimpleDateFormat("yyyy-MM-dd,HH:mm"); //Wed, 15 Jun 2014 19:00:00 GMT
+		DateFormat dateFormatTarget = new SimpleDateFormat("EEE, dd MMM yyyy HH:mm:ss zzz");
+		valueMap.put("pubDate",dateFormatTarget.format(dateFormatSource.parse(String.format("20%s-%2s-%2s,%2s:00:00", year, month, day, hour).replace(' ', '0'))).toString());
 		valueMap.put("guid",  generateGuid(year,month,day, url));
 		valueMap.put("keywords",  thePropertiesEngineer.value("keywords"));
 		valueMap.put("duration",duration(enclosure));
