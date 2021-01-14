@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/14-06.mp3?pubDate=2021-01-14</guid>
+      <title>Proverbs 14:6</title>
+      <description>A scorner seeketh wisdom, and findeth it not: but knowledge is easy unto him that understandeth.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/14-06.mp3" length="3589894" type="audio/mpeg" />
+      <pubDate>Thu, 14 Jan 2021 16:00:00 EST</pubDate>
+      <itunes:duration>00:05:13</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>A scorner seeketh wisdom, and findeth it not: but knowledge is easy unto him that understandeth.</itunes:subtitle>
+      <itunes:summary>The commentary is practical, hard-hitting, current, and spiritual.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/14-05.mp3?pubDate=2021-01-14</guid>
       <title>Proverbs 14:5</title>
       <description>A faithful witness will not lie: but a false witness will utter lies.</description>
@@ -10823,18 +10835,6 @@
       <itunes:author>Church of Greenville</itunes:author>
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>Wilt thou set thine eyes upon that which is not? for riches certainly make themselves wings; they fly away as an eagle toward heaven.</itunes:subtitle>
-      <itunes:summary>The commentary is practical, hard-hitting, current, and spiritual.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/14-06.mp3?pubDate=2020-01-14</guid>
-      <title>Proverbs 14:6</title>
-      <description>A scorner seeketh wisdom, and findeth it not: but knowledge is easy unto him that understandeth.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/14-06.mp3" length="3589894" type="audio/mpeg" />
-      <pubDate>Tue, 14 Jan 2020 16:00:00 EST</pubDate>
-      <itunes:duration>00:05:13</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>A scorner seeketh wisdom, and findeth it not: but knowledge is easy unto him that understandeth.</itunes:subtitle>
       <itunes:summary>The commentary is practical, hard-hitting, current, and spiritual.</itunes:summary>
     </item>
   </channel>
