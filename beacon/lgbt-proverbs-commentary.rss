@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/15-05.mp3?pubDate=2021-01-15</guid>
+      <title>Proverbs 15:5</title>
+      <description>A fool despiseth his father's instruction: but he that regardeth reproof is prudent.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/15-05.mp3" length="8571967" type="audio/mpeg" />
+      <pubDate>Fri, 15 Jan 2021 08:00:00 EST</pubDate>
+      <itunes:duration>00:12:28</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>A fool despiseth his father's instruction: but he that regardeth reproof is prudent.</itunes:subtitle>
+      <itunes:summary>The commentary is practical, hard-hitting, current, and spiritual.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/15-04.mp3?pubDate=2021-01-15</guid>
       <title>Proverbs 15:4</title>
       <description>A wholesome tongue is a tree of life: but perverseness therein is a breach in the spirit.</description>
@@ -1127,18 +1139,6 @@
       <itunes:author>Church of Greenville</itunes:author>
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>In the house of the righteous is much treasure: but in the revenues of the wicked is trouble.</itunes:subtitle>
-      <itunes:summary>The commentary is practical, hard-hitting, current, and spiritual.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/15-05.mp3?pubDate=2020-12-15</guid>
-      <title>Proverbs 15:5</title>
-      <description>A fool despiseth his father's instruction: but he that regardeth reproof is prudent.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/15-05.mp3" length="8571967" type="audio/mpeg" />
-      <pubDate>Tue, 15 Dec 2020 08:00:00 EST</pubDate>
-      <itunes:duration>00:12:28</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>A fool despiseth his father's instruction: but he that regardeth reproof is prudent.</itunes:subtitle>
       <itunes:summary>The commentary is practical, hard-hitting, current, and spiritual.</itunes:summary>
     </item>
     <item>
