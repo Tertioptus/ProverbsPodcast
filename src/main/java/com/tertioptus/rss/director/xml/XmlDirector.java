@@ -101,7 +101,7 @@ public class XmlDirector implements Director {
 		Enclosure enclosure = this.enclosureEngineer.enclosure(url);
 		valueMap.put("length", Long.toString(enclosure.getLength()));
 		valueMap.put("author", thePropertiesEngineer.value("author"));
-		valueMap.put("summary", thePropertiesEngineer.value("summary"));
+		valueMap.put("summary", proverb);
 		TimeZone.setDefault(TimeZone.getTimeZone("EST"));
 		DateFormat dateFormatSource = new SimpleDateFormat("yyyy-MM-dd,HH:mm"); //Wed, 15 Jun 2014 19:00:00 GMT  TODO clean up
 		DateFormat dateFormatTarget = new SimpleDateFormat("EEE, dd MMM yyyy HH:mm:ss zzz");
