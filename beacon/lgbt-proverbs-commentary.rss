@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/31-05.mp3?pubDate=2021-01-31</guid>
+      <title>Proverbs 31:5</title>
+      <description>Lest they drink, and forget the law, and pervert the judgment of any of the afflicted.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/31-05.mp3" length="5412196" type="audio/mpeg" />
+      <pubDate>Sun, 31 Jan 2021 08:00:00 EST</pubDate>
+      <itunes:duration>00:07:52</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>Lest they drink, and forget the law, and pervert the judgment of any of the afflicted.</itunes:subtitle>
+      <itunes:summary>Lest they drink, and forget the law, and pervert the judgment of any of the afflicted.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/31-04.mp3?pubDate=2021-01-31</guid>
       <title>Proverbs 31:4</title>
       <description>It is not for kings, O Lemuel, it is not for kings to drink wine; nor for princes strong drink:</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>The fear of the LORD is the beginning of knowledge: but fools despise wisdom and instruction.</itunes:subtitle>
       <itunes:summary>The fear of the LORD is the beginning of knowledge: but fools despise wisdom and instruction.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/31-05.mp3?pubDate=2020-01-31</guid>
-      <title>Proverbs 31:5</title>
-      <description>Lest they drink, and forget the law, and pervert the judgment of any of the afflicted.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/31-05.mp3" length="5412196" type="audio/mpeg" />
-      <pubDate>Fri, 31 Jan 2020 08:00:00 EST</pubDate>
-      <itunes:duration>00:07:52</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>Lest they drink, and forget the law, and pervert the judgment of any of the afflicted.</itunes:subtitle>
-      <itunes:summary>Lest they drink, and forget the law, and pervert the judgment of any of the afflicted.</itunes:summary>
     </item>
   </channel>
 </rss>
