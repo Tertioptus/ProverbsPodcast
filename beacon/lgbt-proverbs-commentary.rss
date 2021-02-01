@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/01-07.mp3?pubDate=2021-02-01</guid>
+      <title>Proverbs 1:7</title>
+      <description>The fear of the LORD is the beginning of knowledge: but fools despise wisdom and instruction.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/01-07.mp3" length="10778811" type="audio/mpeg" />
+      <pubDate>Mon, 01 Feb 2021 00:00:00 EST</pubDate>
+      <itunes:duration>00:15:41</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>The fear of the LORD is the beginning of knowledge: but fools despise wisdom and instruction.</itunes:subtitle>
+      <itunes:summary>The fear of the LORD is the beginning of knowledge: but fools despise wisdom and instruction.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/31-06.mp3?pubDate=2021-01-31</guid>
       <title>Proverbs 31:6</title>
       <description>Give strong drink unto him that is ready to perish, and wine unto those that be of heavy hearts.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>My son, hear the instruction of thy father, and forsake not the law of thy mother:</itunes:subtitle>
       <itunes:summary>My son, hear the instruction of thy father, and forsake not the law of thy mother:</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/01-07.mp3?pubDate=2020-02-01</guid>
-      <title>Proverbs 1:7</title>
-      <description>The fear of the LORD is the beginning of knowledge: but fools despise wisdom and instruction.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/01-07.mp3" length="10778811" type="audio/mpeg" />
-      <pubDate>Sat, 01 Feb 2020 00:00:00 EST</pubDate>
-      <itunes:duration>00:15:41</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>The fear of the LORD is the beginning of knowledge: but fools despise wisdom and instruction.</itunes:subtitle>
-      <itunes:summary>The fear of the LORD is the beginning of knowledge: but fools despise wisdom and instruction.</itunes:summary>
     </item>
   </channel>
 </rss>
