@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/02-08.mp3?pubDate=2021-02-02</guid>
+      <title>Proverbs 2:8</title>
+      <description>He keepeth the paths of judgment, and preserveth the way of his saints.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/02-08.mp3" length="6374337" type="audio/mpeg" />
+      <pubDate>Tue, 02 Feb 2021 08:00:00 EST</pubDate>
+      <itunes:duration>00:09:16</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>He keepeth the paths of judgment, and preserveth the way of his saints.</itunes:subtitle>
+      <itunes:summary>He keepeth the paths of judgment, and preserveth the way of his saints.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/02-07.mp3?pubDate=2021-02-02</guid>
       <title>Proverbs 2:7</title>
       <description>He layeth up sound wisdom for the righteous: he is a buckler to them that walk uprightly.</description>
@@ -4644,18 +4656,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>Say not unto thy neighbour, Go, and come again, and to morrow I will give; when thou hast it by thee.</itunes:subtitle>
       <itunes:summary>Say not unto thy neighbour, Go, and come again, and to morrow I will give; when thou hast it by thee.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/02-08.mp3?pubDate=2020-09-02</guid>
-      <title>Proverbs 2:8</title>
-      <description>He keepeth the paths of judgment, and preserveth the way of his saints.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/02-08.mp3" length="6374337" type="audio/mpeg" />
-      <pubDate>Wed, 02 Sep 2020 16:00:00 EST</pubDate>
-      <itunes:duration>00:09:16</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>He keepeth the paths of judgment, and preserveth the way of his saints.</itunes:subtitle>
-      <itunes:summary>He keepeth the paths of judgment, and preserveth the way of his saints.</itunes:summary>
     </item>
     <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/01-30.mp3?pubDate=2020-09-01</guid>
