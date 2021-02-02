@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/02-09.mp3?pubDate=2021-02-02</guid>
+      <title>Proverbs 2:9</title>
+      <description>Then shalt thou understand righteousness, and judgment, and equity; yea, every good path.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/02-09.mp3" length="6336302" type="audio/mpeg" />
+      <pubDate>Tue, 02 Feb 2021 16:00:00 EST</pubDate>
+      <itunes:duration>00:09:13</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>Then shalt thou understand righteousness, and judgment, and equity; yea, every good path.</itunes:subtitle>
+      <itunes:summary>Then shalt thou understand righteousness, and judgment, and equity; yea, every good path.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/02-08.mp3?pubDate=2021-02-02</guid>
       <title>Proverbs 2:8</title>
       <description>He keepeth the paths of judgment, and preserveth the way of his saints.</description>
@@ -3684,18 +3696,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>When wisdom entereth into thine heart, and knowledge is pleasant unto thy soul;</itunes:subtitle>
       <itunes:summary>When wisdom entereth into thine heart, and knowledge is pleasant unto thy soul;</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/02-09.mp3?pubDate=2020-10-02</guid>
-      <title>Proverbs 2:9</title>
-      <description>Then shalt thou understand righteousness, and judgment, and equity; yea, every good path.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/02-09.mp3" length="6336302" type="audio/mpeg" />
-      <pubDate>Fri, 02 Oct 2020 00:00:00 EST</pubDate>
-      <itunes:duration>00:09:13</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>Then shalt thou understand righteousness, and judgment, and equity; yea, every good path.</itunes:subtitle>
-      <itunes:summary>Then shalt thou understand righteousness, and judgment, and equity; yea, every good path.</itunes:summary>
     </item>
     <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/01-33.mp3?pubDate=2020-10-01</guid>
