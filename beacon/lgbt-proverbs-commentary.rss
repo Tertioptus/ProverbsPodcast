@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/03-09.mp3?pubDate=2021-02-03</guid>
+      <title>Proverbs 3:9</title>
+      <description>Honour the LORD with thy substance, and with the firstfruits of all thine increase:</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/03-09.mp3" length="4211816" type="audio/mpeg" />
+      <pubDate>Wed, 03 Feb 2021 16:00:00 EST</pubDate>
+      <itunes:duration>00:06:07</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>Honour the LORD with thy substance, and with the firstfruits of all thine increase:</itunes:subtitle>
+      <itunes:summary>Honour the LORD with thy substance, and with the firstfruits of all thine increase:</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/03-08.mp3?pubDate=2021-02-03</guid>
       <title>Proverbs 3:8</title>
       <description>It shall be health to thy navel, and marrow to thy bones.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>Which having no guide, overseer, or ruler,</itunes:subtitle>
       <itunes:summary>Which having no guide, overseer, or ruler,</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/03-09.mp3?pubDate=2020-02-03</guid>
-      <title>Proverbs 3:9</title>
-      <description>Honour the LORD with thy substance, and with the firstfruits of all thine increase:</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/03-09.mp3" length="4211816" type="audio/mpeg" />
-      <pubDate>Mon, 03 Feb 2020 16:00:00 EST</pubDate>
-      <itunes:duration>00:06:07</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>Honour the LORD with thy substance, and with the firstfruits of all thine increase:</itunes:subtitle>
-      <itunes:summary>Honour the LORD with thy substance, and with the firstfruits of all thine increase:</itunes:summary>
     </item>
   </channel>
 </rss>
