@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/03-07.mp3?pubDate=2021-02-03</guid>
+      <title>Proverbs 3:7</title>
+      <description>Be not wise in thine own eyes: fear the LORD, and depart from evil.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/03-07.mp3" length="3651333" type="audio/mpeg" />
+      <pubDate>Wed, 03 Feb 2021 00:00:00 EST</pubDate>
+      <itunes:duration>00:05:19</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>Be not wise in thine own eyes: fear the LORD, and depart from evil.</itunes:subtitle>
+      <itunes:summary>Be not wise in thine own eyes: fear the LORD, and depart from evil.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/02-09.mp3?pubDate=2021-02-02</guid>
       <title>Proverbs 2:9</title>
       <description>Then shalt thou understand righteousness, and judgment, and equity; yea, every good path.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>It shall be health to thy navel, and marrow to thy bones.</itunes:subtitle>
       <itunes:summary>It shall be health to thy navel, and marrow to thy bones.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/03-07.mp3?pubDate=2020-02-03</guid>
-      <title>Proverbs 3:7</title>
-      <description>Be not wise in thine own eyes: fear the LORD, and depart from evil.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/03-07.mp3" length="3651333" type="audio/mpeg" />
-      <pubDate>Mon, 03 Feb 2020 00:00:00 EST</pubDate>
-      <itunes:duration>00:05:19</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>Be not wise in thine own eyes: fear the LORD, and depart from evil.</itunes:subtitle>
-      <itunes:summary>Be not wise in thine own eyes: fear the LORD, and depart from evil.</itunes:summary>
     </item>
   </channel>
 </rss>
