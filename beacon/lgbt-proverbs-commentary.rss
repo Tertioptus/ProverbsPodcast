@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/05-07.mp3?pubDate=2021-02-05</guid>
+      <title>Proverbs 5:7</title>
+      <description>Hear me now therefore, O ye children, and depart not from the words of my mouth.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/05-07.mp3" length="5402582" type="audio/mpeg" />
+      <pubDate>Fri, 05 Feb 2021 00:00:00 EST</pubDate>
+      <itunes:duration>00:07:52</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>Hear me now therefore, O ye children, and depart not from the words of my mouth.</itunes:subtitle>
+      <itunes:summary>Hear me now therefore, O ye children, and depart not from the words of my mouth.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/04-09.mp3?pubDate=2021-02-04</guid>
       <title>Proverbs 4:9</title>
       <description>She shall give to thine head an ornament of grace: a crown of glory shall she deliver to thee.</description>
@@ -4608,18 +4620,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>Can one go upon hot coals, and his feet not be burned?</itunes:subtitle>
       <itunes:summary>Can one go upon hot coals, and his feet not be burned?</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/05-07.mp3?pubDate=2020-09-05</guid>
-      <title>Proverbs 5:7</title>
-      <description>Hear me now therefore, O ye children, and depart not from the words of my mouth.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/05-07.mp3" length="5402582" type="audio/mpeg" />
-      <pubDate>Sat, 05 Sep 2020 16:00:00 EST</pubDate>
-      <itunes:duration>00:07:52</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>Hear me now therefore, O ye children, and depart not from the words of my mouth.</itunes:subtitle>
-      <itunes:summary>Hear me now therefore, O ye children, and depart not from the words of my mouth.</itunes:summary>
     </item>
     <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/04-03.mp3?pubDate=2020-09-04</guid>
