@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/06-09.mp3?pubDate=2021-02-06</guid>
+      <title>Proverbs 6:9</title>
+      <description>How long wilt thou sleep, O sluggard? when wilt thou arise out of thy sleep?</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/06-09.mp3" length="5929210" type="audio/mpeg" />
+      <pubDate>Sat, 06 Feb 2021 16:00:00 EST</pubDate>
+      <itunes:duration>00:08:38</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>How long wilt thou sleep, O sluggard? when wilt thou arise out of thy sleep?</itunes:subtitle>
+      <itunes:summary>How long wilt thou sleep, O sluggard? when wilt thou arise out of thy sleep?</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/06-08.mp3?pubDate=2021-02-06</guid>
       <title>Proverbs 6:8</title>
       <description>Provideth her meat in the summer, and gathereth her food in the harvest.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>For my mouth shall speak truth; and wickedness is an abomination to my lips.</itunes:subtitle>
       <itunes:summary>For my mouth shall speak truth; and wickedness is an abomination to my lips.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/06-09.mp3?pubDate=2020-02-06</guid>
-      <title>Proverbs 6:9</title>
-      <description>How long wilt thou sleep, O sluggard? when wilt thou arise out of thy sleep?</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/06-09.mp3" length="5929210" type="audio/mpeg" />
-      <pubDate>Thu, 06 Feb 2020 16:00:00 EST</pubDate>
-      <itunes:duration>00:08:38</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>How long wilt thou sleep, O sluggard? when wilt thou arise out of thy sleep?</itunes:subtitle>
-      <itunes:summary>How long wilt thou sleep, O sluggard? when wilt thou arise out of thy sleep?</itunes:summary>
     </item>
   </channel>
 </rss>
