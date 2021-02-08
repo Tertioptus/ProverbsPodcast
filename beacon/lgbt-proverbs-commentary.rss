@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/08-09.mp3?pubDate=2021-02-08</guid>
+      <title>Proverbs 8:9</title>
+      <description>They are all plain to him that understandeth, and right to them that find knowledge.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/08-09.mp3" length="8553158" type="audio/mpeg" />
+      <pubDate>Mon, 08 Feb 2021 16:00:00 EST</pubDate>
+      <itunes:duration>00:12:27</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>They are all plain to him that understandeth, and right to them that find knowledge.</itunes:subtitle>
+      <itunes:summary>They are all plain to him that understandeth, and right to them that find knowledge.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/08-08.mp3?pubDate=2021-02-08</guid>
       <title>Proverbs 8:8</title>
       <description>All the words of my mouth are in righteousness; there is nothing froward or perverse in them.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>The wise in heart will receive commandments: but a prating fool shall fall.</itunes:subtitle>
       <itunes:summary>The wise in heart will receive commandments: but a prating fool shall fall.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/08-09.mp3?pubDate=2020-02-08</guid>
-      <title>Proverbs 8:9</title>
-      <description>They are all plain to him that understandeth, and right to them that find knowledge.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/08-09.mp3" length="8553158" type="audio/mpeg" />
-      <pubDate>Sat, 08 Feb 2020 16:00:00 EST</pubDate>
-      <itunes:duration>00:12:27</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>They are all plain to him that understandeth, and right to them that find knowledge.</itunes:subtitle>
-      <itunes:summary>They are all plain to him that understandeth, and right to them that find knowledge.</itunes:summary>
     </item>
   </channel>
 </rss>
