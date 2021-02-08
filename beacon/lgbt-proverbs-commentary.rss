@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/08-07.mp3?pubDate=2021-02-08</guid>
+      <title>Proverbs 8:7</title>
+      <description>For my mouth shall speak truth; and wickedness is an abomination to my lips.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/08-07.mp3" length="6202555" type="audio/mpeg" />
+      <pubDate>Mon, 08 Feb 2021 00:00:00 EST</pubDate>
+      <itunes:duration>00:09:01</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>For my mouth shall speak truth; and wickedness is an abomination to my lips.</itunes:subtitle>
+      <itunes:summary>For my mouth shall speak truth; and wickedness is an abomination to my lips.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/07-09.mp3?pubDate=2021-02-07</guid>
       <title>Proverbs 7:9</title>
       <description>In the twilight, in the evening, in the black and dark night:</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>All the words of my mouth are in righteousness; there is nothing froward or perverse in them.</itunes:subtitle>
       <itunes:summary>All the words of my mouth are in righteousness; there is nothing froward or perverse in them.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/08-07.mp3?pubDate=2020-02-08</guid>
-      <title>Proverbs 8:7</title>
-      <description>For my mouth shall speak truth; and wickedness is an abomination to my lips.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/08-07.mp3" length="6202555" type="audio/mpeg" />
-      <pubDate>Sat, 08 Feb 2020 00:00:00 EST</pubDate>
-      <itunes:duration>00:09:01</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>For my mouth shall speak truth; and wickedness is an abomination to my lips.</itunes:subtitle>
-      <itunes:summary>For my mouth shall speak truth; and wickedness is an abomination to my lips.</itunes:summary>
     </item>
   </channel>
 </rss>
