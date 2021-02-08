@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/08-08.mp3?pubDate=2021-02-08</guid>
+      <title>Proverbs 8:8</title>
+      <description>All the words of my mouth are in righteousness; there is nothing froward or perverse in them.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/08-08.mp3" length="8890451" type="audio/mpeg" />
+      <pubDate>Mon, 08 Feb 2021 08:00:00 EST</pubDate>
+      <itunes:duration>00:12:56</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>All the words of my mouth are in righteousness; there is nothing froward or perverse in them.</itunes:subtitle>
+      <itunes:summary>All the words of my mouth are in righteousness; there is nothing froward or perverse in them.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/08-07.mp3?pubDate=2021-02-08</guid>
       <title>Proverbs 8:7</title>
       <description>For my mouth shall speak truth; and wickedness is an abomination to my lips.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>They are all plain to him that understandeth, and right to them that find knowledge.</itunes:subtitle>
       <itunes:summary>They are all plain to him that understandeth, and right to them that find knowledge.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/08-08.mp3?pubDate=2020-02-08</guid>
-      <title>Proverbs 8:8</title>
-      <description>All the words of my mouth are in righteousness; there is nothing froward or perverse in them.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/08-08.mp3" length="8890451" type="audio/mpeg" />
-      <pubDate>Sat, 08 Feb 2020 08:00:00 EST</pubDate>
-      <itunes:duration>00:12:56</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>All the words of my mouth are in righteousness; there is nothing froward or perverse in them.</itunes:subtitle>
-      <itunes:summary>All the words of my mouth are in righteousness; there is nothing froward or perverse in them.</itunes:summary>
     </item>
   </channel>
 </rss>
