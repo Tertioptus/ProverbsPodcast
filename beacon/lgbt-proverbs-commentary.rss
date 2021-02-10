@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/10-08.mp3?pubDate=2021-02-10</guid>
+      <title>Proverbs 10:8</title>
+      <description>The wise in heart will receive commandments: but a prating fool shall fall.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/10-08.mp3" length="9157110" type="audio/mpeg" />
+      <pubDate>Wed, 10 Feb 2021 08:00:00 EST</pubDate>
+      <itunes:duration>00:13:20</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>The wise in heart will receive commandments: but a prating fool shall fall.</itunes:subtitle>
+      <itunes:summary>The wise in heart will receive commandments: but a prating fool shall fall.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/10-07.mp3?pubDate=2021-02-10</guid>
       <title>Proverbs 10:7</title>
       <description>The memory of the just is blessed: but the name of the wicked shall rot.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>He that walketh uprightly walketh surely: but he that perverteth his ways shall be known.</itunes:subtitle>
       <itunes:summary>He that walketh uprightly walketh surely: but he that perverteth his ways shall be known.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/10-08.mp3?pubDate=2020-02-10</guid>
-      <title>Proverbs 10:8</title>
-      <description>The wise in heart will receive commandments: but a prating fool shall fall.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/10-08.mp3" length="9157110" type="audio/mpeg" />
-      <pubDate>Mon, 10 Feb 2020 08:00:00 EST</pubDate>
-      <itunes:duration>00:13:20</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>The wise in heart will receive commandments: but a prating fool shall fall.</itunes:subtitle>
-      <itunes:summary>The wise in heart will receive commandments: but a prating fool shall fall.</itunes:summary>
     </item>
   </channel>
 </rss>
