@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/11-09.mp3?pubDate=2021-02-11</guid>
+      <title>Proverbs 11:9</title>
+      <description>An hypocrite with his mouth destroyeth his neighbour: but through knowledge shall the just be delivered.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/11-09.mp3" length="3657603" type="audio/mpeg" />
+      <pubDate>Thu, 11 Feb 2021 16:00:00 EST</pubDate>
+      <itunes:duration>00:05:19</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>An hypocrite with his mouth destroyeth his neighbour: but through knowledge shall the just be delivered.</itunes:subtitle>
+      <itunes:summary>An hypocrite with his mouth destroyeth his neighbour: but through knowledge shall the just be delivered.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/11-08.mp3?pubDate=2021-02-11</guid>
       <title>Proverbs 11:8</title>
       <description>The righteous is delivered out of trouble, and the wicked cometh in his stead.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>Go from the presence of a foolish man, when thou perceivest not in him the lips of knowledge.</itunes:subtitle>
       <itunes:summary>Go from the presence of a foolish man, when thou perceivest not in him the lips of knowledge.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/11-09.mp3?pubDate=2020-02-11</guid>
-      <title>Proverbs 11:9</title>
-      <description>An hypocrite with his mouth destroyeth his neighbour: but through knowledge shall the just be delivered.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/11-09.mp3" length="3657603" type="audio/mpeg" />
-      <pubDate>Tue, 11 Feb 2020 16:00:00 EST</pubDate>
-      <itunes:duration>00:05:19</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>An hypocrite with his mouth destroyeth his neighbour: but through knowledge shall the just be delivered.</itunes:subtitle>
-      <itunes:summary>An hypocrite with his mouth destroyeth his neighbour: but through knowledge shall the just be delivered.</itunes:summary>
     </item>
   </channel>
 </rss>
