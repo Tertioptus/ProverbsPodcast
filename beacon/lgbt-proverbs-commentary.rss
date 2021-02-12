@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/12-08.mp3?pubDate=2021-02-12</guid>
+      <title>Proverbs 12:8</title>
+      <description>A man shall be commended according to his wisdom: but he that is of a perverse heart shall be despised.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/12-08.mp3" length="7889440" type="audio/mpeg" />
+      <pubDate>Fri, 12 Feb 2021 08:00:00 EST</pubDate>
+      <itunes:duration>00:11:29</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>A man shall be commended according to his wisdom: but he that is of a perverse heart shall be despised.</itunes:subtitle>
+      <itunes:summary>A man shall be commended according to his wisdom: but he that is of a perverse heart shall be despised.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/12-07.mp3?pubDate=2021-02-12</guid>
       <title>Proverbs 12:7</title>
       <description>The wicked are overthrown, and are not: but the house of the righteous shall stand.</description>
@@ -2844,18 +2856,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>The light of the righteous rejoiceth: but the lamp of the wicked shall be put out.</itunes:subtitle>
       <itunes:summary>The light of the righteous rejoiceth: but the lamp of the wicked shall be put out.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/12-08.mp3?pubDate=2020-11-12</guid>
-      <title>Proverbs 12:8</title>
-      <description>A man shall be commended according to his wisdom: but he that is of a perverse heart shall be despised.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/12-08.mp3" length="7889440" type="audio/mpeg" />
-      <pubDate>Thu, 12 Nov 2020 16:00:00 EST</pubDate>
-      <itunes:duration>00:11:29</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>A man shall be commended according to his wisdom: but he that is of a perverse heart shall be despised.</itunes:subtitle>
-      <itunes:summary>A man shall be commended according to his wisdom: but he that is of a perverse heart shall be despised.</itunes:summary>
     </item>
     <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/11-03.mp3?pubDate=2020-11-11</guid>
