@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/14-07.mp3?pubDate=2021-02-14</guid>
+      <title>Proverbs 14:7</title>
+      <description>Go from the presence of a foolish man, when thou perceivest not in him the lips of knowledge.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/14-07.mp3" length="10624147" type="audio/mpeg" />
+      <pubDate>Sun, 14 Feb 2021 00:00:00 EST</pubDate>
+      <itunes:duration>00:15:28</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>Go from the presence of a foolish man, when thou perceivest not in him the lips of knowledge.</itunes:subtitle>
+      <itunes:summary>Go from the presence of a foolish man, when thou perceivest not in him the lips of knowledge.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/13-09.mp3?pubDate=2021-02-13</guid>
       <title>Proverbs 13:9</title>
       <description>The light of the righteous rejoiceth: but the lamp of the wicked shall be put out.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>The wisdom of the prudent is to understand his way: but the folly of fools is deceit.</itunes:subtitle>
       <itunes:summary>The wisdom of the prudent is to understand his way: but the folly of fools is deceit.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/14-07.mp3?pubDate=2020-02-14</guid>
-      <title>Proverbs 14:7</title>
-      <description>Go from the presence of a foolish man, when thou perceivest not in him the lips of knowledge.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/14-07.mp3" length="10624147" type="audio/mpeg" />
-      <pubDate>Fri, 14 Feb 2020 00:00:00 EST</pubDate>
-      <itunes:duration>00:15:28</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>Go from the presence of a foolish man, when thou perceivest not in him the lips of knowledge.</itunes:subtitle>
-      <itunes:summary>Go from the presence of a foolish man, when thou perceivest not in him the lips of knowledge.</itunes:summary>
     </item>
   </channel>
 </rss>
