@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/15-09.mp3?pubDate=2021-02-15</guid>
+      <title>Proverbs 15:9</title>
+      <description>The way of the wicked is an abomination unto the LORD: but he loveth him that followeth after righteousness.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/15-09.mp3" length="10061156" type="audio/mpeg" />
+      <pubDate>Mon, 15 Feb 2021 16:00:00 EST</pubDate>
+      <itunes:duration>00:14:39</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>The way of the wicked is an abomination unto the LORD: but he loveth him that followeth after righteousness.</itunes:subtitle>
+      <itunes:summary>The way of the wicked is an abomination unto the LORD: but he loveth him that followeth after righteousness.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/15-08.mp3?pubDate=2021-02-15</guid>
       <title>Proverbs 15:8</title>
       <description>The sacrifice of the wicked is an abomination to the LORD: but the prayer of the upright is his delight.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>When a man's ways please the LORD, he maketh even his enemies to be at peace with him.</itunes:subtitle>
       <itunes:summary>When a man's ways please the LORD, he maketh even his enemies to be at peace with him.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/15-09.mp3?pubDate=2020-02-15</guid>
-      <title>Proverbs 15:9</title>
-      <description>The way of the wicked is an abomination unto the LORD: but he loveth him that followeth after righteousness.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/15-09.mp3" length="10061156" type="audio/mpeg" />
-      <pubDate>Sat, 15 Feb 2020 16:00:00 EST</pubDate>
-      <itunes:duration>00:14:39</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>The way of the wicked is an abomination unto the LORD: but he loveth him that followeth after righteousness.</itunes:subtitle>
-      <itunes:summary>The way of the wicked is an abomination unto the LORD: but he loveth him that followeth after righteousness.</itunes:summary>
     </item>
   </channel>
 </rss>
