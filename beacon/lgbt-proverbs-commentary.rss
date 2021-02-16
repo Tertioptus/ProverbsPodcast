@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/16-08.mp3?pubDate=2021-02-16</guid>
+      <title>Proverbs 16:8</title>
+      <description>Better is a little with righteousness than great revenues without right.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/16-08.mp3" length="8222971" type="audio/mpeg" />
+      <pubDate>Tue, 16 Feb 2021 08:00:00 EST</pubDate>
+      <itunes:duration>00:11:58</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>Better is a little with righteousness than great revenues without right.</itunes:subtitle>
+      <itunes:summary>Better is a little with righteousness than great revenues without right.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/16-07.mp3?pubDate=2021-02-16</guid>
       <title>Proverbs 16:7</title>
       <description>When a man's ways please the LORD, he maketh even his enemies to be at peace with him.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>A man's heart deviseth his way: but the LORD directeth his steps.</itunes:subtitle>
       <itunes:summary>A man's heart deviseth his way: but the LORD directeth his steps.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/16-08.mp3?pubDate=2020-02-16</guid>
-      <title>Proverbs 16:8</title>
-      <description>Better is a little with righteousness than great revenues without right.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/16-08.mp3" length="8222971" type="audio/mpeg" />
-      <pubDate>Sun, 16 Feb 2020 08:00:00 EST</pubDate>
-      <itunes:duration>00:11:58</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>Better is a little with righteousness than great revenues without right.</itunes:subtitle>
-      <itunes:summary>Better is a little with righteousness than great revenues without right.</itunes:summary>
     </item>
   </channel>
 </rss>
