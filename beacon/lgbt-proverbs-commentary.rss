@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/16-09.mp3?pubDate=2021-02-16</guid>
+      <title>Proverbs 16:9</title>
+      <description>A man's heart deviseth his way: but the LORD directeth his steps.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/16-09.mp3" length="7328538" type="audio/mpeg" />
+      <pubDate>Tue, 16 Feb 2021 16:00:00 EST</pubDate>
+      <itunes:duration>00:10:40</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>A man's heart deviseth his way: but the LORD directeth his steps.</itunes:subtitle>
+      <itunes:summary>A man's heart deviseth his way: but the LORD directeth his steps.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/16-08.mp3?pubDate=2021-02-16</guid>
       <title>Proverbs 16:8</title>
       <description>Better is a little with righteousness than great revenues without right.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>It is better to dwell in a corner of the housetop, than with a brawling woman in a wide house.</itunes:subtitle>
       <itunes:summary>It is better to dwell in a corner of the housetop, than with a brawling woman in a wide house.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/16-09.mp3?pubDate=2020-02-16</guid>
-      <title>Proverbs 16:9</title>
-      <description>A man's heart deviseth his way: but the LORD directeth his steps.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/16-09.mp3" length="7328538" type="audio/mpeg" />
-      <pubDate>Sun, 16 Feb 2020 16:00:00 EST</pubDate>
-      <itunes:duration>00:10:40</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>A man's heart deviseth his way: but the LORD directeth his steps.</itunes:subtitle>
-      <itunes:summary>A man's heart deviseth his way: but the LORD directeth his steps.</itunes:summary>
     </item>
   </channel>
 </rss>
