@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/17-07.mp3?pubDate=2021-02-17</guid>
+      <title>Proverbs 17:7</title>
+      <description>Excellent speech becometh not a fool: much less do lying lips a prince.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/17-07.mp3" length="6227216" type="audio/mpeg" />
+      <pubDate>Wed, 17 Feb 2021 00:00:00 EST</pubDate>
+      <itunes:duration>00:09:04</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>Excellent speech becometh not a fool: much less do lying lips a prince.</itunes:subtitle>
+      <itunes:summary>Excellent speech becometh not a fool: much less do lying lips a prince.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/16-09.mp3?pubDate=2021-02-16</guid>
       <title>Proverbs 16:9</title>
       <description>A man's heart deviseth his way: but the LORD directeth his steps.</description>
@@ -2844,18 +2856,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>A gift is as a precious stone in the eyes of him that hath it: whithersoever it turneth, it prospereth.</itunes:subtitle>
       <itunes:summary>A gift is as a precious stone in the eyes of him that hath it: whithersoever it turneth, it prospereth.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/17-07.mp3?pubDate=2020-11-17</guid>
-      <title>Proverbs 17:7</title>
-      <description>Excellent speech becometh not a fool: much less do lying lips a prince.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/17-07.mp3" length="6227216" type="audio/mpeg" />
-      <pubDate>Tue, 17 Nov 2020 08:00:00 EST</pubDate>
-      <itunes:duration>00:09:04</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>Excellent speech becometh not a fool: much less do lying lips a prince.</itunes:subtitle>
-      <itunes:summary>Excellent speech becometh not a fool: much less do lying lips a prince.</itunes:summary>
     </item>
     <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/16-03.mp3?pubDate=2020-11-16</guid>
