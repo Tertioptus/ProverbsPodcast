@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/17-09.mp3?pubDate=2021-02-17</guid>
+      <title>Proverbs 17:9</title>
+      <description>He that covereth a transgression seeketh love; but he that repeateth a matter separateth very friends.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/17-09.mp3" length="7008382" type="audio/mpeg" />
+      <pubDate>Wed, 17 Feb 2021 16:00:00 EST</pubDate>
+      <itunes:duration>00:10:12</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>He that covereth a transgression seeketh love; but he that repeateth a matter separateth very friends.</itunes:subtitle>
+      <itunes:summary>He that covereth a transgression seeketh love; but he that repeateth a matter separateth very friends.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/17-08.mp3?pubDate=2021-02-17</guid>
       <title>Proverbs 17:8</title>
       <description>A gift is as a precious stone in the eyes of him that hath it: whithersoever it turneth, it prospereth.</description>
@@ -2172,18 +2184,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>A reproof entereth more into a wise man than an hundred stripes into a fool.</itunes:subtitle>
       <itunes:summary>A reproof entereth more into a wise man than an hundred stripes into a fool.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/17-09.mp3?pubDate=2020-12-17</guid>
-      <title>Proverbs 17:9</title>
-      <description>He that covereth a transgression seeketh love; but he that repeateth a matter separateth very friends.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/17-09.mp3" length="7008382" type="audio/mpeg" />
-      <pubDate>Thu, 17 Dec 2020 00:00:00 EST</pubDate>
-      <itunes:duration>00:10:12</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>He that covereth a transgression seeketh love; but he that repeateth a matter separateth very friends.</itunes:subtitle>
-      <itunes:summary>He that covereth a transgression seeketh love; but he that repeateth a matter separateth very friends.</itunes:summary>
     </item>
     <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/14-03.mp3?pubDate=2020-12-14</guid>
