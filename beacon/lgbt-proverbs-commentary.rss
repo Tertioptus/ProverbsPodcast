@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/19-08.mp3?pubDate=2021-02-19</guid>
+      <title>Proverbs 19:8</title>
+      <description>He that getteth wisdom loveth his own soul: he that keepeth understanding shall find good.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/19-08.mp3" length="4096460" type="audio/mpeg" />
+      <pubDate>Fri, 19 Feb 2021 08:00:00 EST</pubDate>
+      <itunes:duration>00:05:57</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>He that getteth wisdom loveth his own soul: he that keepeth understanding shall find good.</itunes:subtitle>
+      <itunes:summary>He that getteth wisdom loveth his own soul: he that keepeth understanding shall find good.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/19-07.mp3?pubDate=2021-02-19</guid>
       <title>Proverbs 19:7</title>
       <description>All the brethren of the poor do hate him: how much more do his friends go far from him? he pursueth them with words, yet they are wanting to him.</description>
@@ -2160,18 +2172,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>A false witness shall not be unpunished, and he that speaketh lies shall perish.</itunes:subtitle>
       <itunes:summary>A false witness shall not be unpunished, and he that speaketh lies shall perish.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/19-08.mp3?pubDate=2020-12-19</guid>
-      <title>Proverbs 19:8</title>
-      <description>He that getteth wisdom loveth his own soul: he that keepeth understanding shall find good.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/19-08.mp3" length="4096460" type="audio/mpeg" />
-      <pubDate>Sat, 19 Dec 2020 00:00:00 EST</pubDate>
-      <itunes:duration>00:05:57</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>He that getteth wisdom loveth his own soul: he that keepeth understanding shall find good.</itunes:subtitle>
-      <itunes:summary>He that getteth wisdom loveth his own soul: he that keepeth understanding shall find good.</itunes:summary>
     </item>
     <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/18-15.mp3?pubDate=2020-12-18</guid>
