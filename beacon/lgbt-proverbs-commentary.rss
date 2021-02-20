@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/20-07.mp3?pubDate=2021-02-20</guid>
+      <title>Proverbs 20:7</title>
+      <description>The just man walketh in his integrity: his children are blessed after him.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/20-07.mp3" length="6035373" type="audio/mpeg" />
+      <pubDate>Sat, 20 Feb 2021 00:00:00 EST</pubDate>
+      <itunes:duration>00:08:47</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>The just man walketh in his integrity: his children are blessed after him.</itunes:subtitle>
+      <itunes:summary>The just man walketh in his integrity: his children are blessed after him.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/19-09.mp3?pubDate=2021-02-19</guid>
       <title>Proverbs 19:9</title>
       <description>A false witness shall not be unpunished, and he that speaketh lies shall perish.</description>
@@ -2148,18 +2160,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>A king that sitteth in the throne of judgment scattereth away all evil with his eyes.</itunes:subtitle>
       <itunes:summary>A king that sitteth in the throne of judgment scattereth away all evil with his eyes.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/20-07.mp3?pubDate=2020-12-20</guid>
-      <title>Proverbs 20:7</title>
-      <description>The just man walketh in his integrity: his children are blessed after him.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/20-07.mp3" length="6035373" type="audio/mpeg" />
-      <pubDate>Sun, 20 Dec 2020 00:00:00 EST</pubDate>
-      <itunes:duration>00:08:47</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>The just man walketh in his integrity: his children are blessed after him.</itunes:subtitle>
-      <itunes:summary>The just man walketh in his integrity: his children are blessed after him.</itunes:summary>
     </item>
     <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/19-10.mp3?pubDate=2020-12-19</guid>
