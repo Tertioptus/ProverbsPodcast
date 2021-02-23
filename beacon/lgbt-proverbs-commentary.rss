@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/23-09.mp3?pubDate=2021-02-23</guid>
+      <title>Proverbs 23:9</title>
+      <description>Speak not in the ears of a fool: for he will despise the wisdom of thy words.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/23-09.mp3" length="12053567" type="audio/mpeg" />
+      <pubDate>Tue, 23 Feb 2021 16:00:00 EST</pubDate>
+      <itunes:duration>00:17:33</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>Speak not in the ears of a fool: for he will despise the wisdom of thy words.</itunes:subtitle>
+      <itunes:summary>Speak not in the ears of a fool: for he will despise the wisdom of thy words.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/23-08.mp3?pubDate=2021-02-23</guid>
       <title>Proverbs 23:8</title>
       <description>The morsel which thou hast eaten shalt thou vomit up, and lose thy sweet words.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>Wisdom is too high for a fool: he openeth not his mouth in the gate.</itunes:subtitle>
       <itunes:summary>Wisdom is too high for a fool: he openeth not his mouth in the gate.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/23-09.mp3?pubDate=2020-02-23</guid>
-      <title>Proverbs 23:9</title>
-      <description>Speak not in the ears of a fool: for he will despise the wisdom of thy words.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/23-09.mp3" length="12053567" type="audio/mpeg" />
-      <pubDate>Sun, 23 Feb 2020 16:00:00 EST</pubDate>
-      <itunes:duration>00:17:33</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>Speak not in the ears of a fool: for he will despise the wisdom of thy words.</itunes:subtitle>
-      <itunes:summary>Speak not in the ears of a fool: for he will despise the wisdom of thy words.</itunes:summary>
     </item>
   </channel>
 </rss>
