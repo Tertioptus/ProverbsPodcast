@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/23-07.mp3?pubDate=2021-02-23</guid>
+      <title>Proverbs 23:7</title>
+      <description>For as he thinketh in his heart, so is he: Eat and drink, saith he to thee; but his heart is not with thee.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/23-07.mp3" length="4791526" type="audio/mpeg" />
+      <pubDate>Tue, 23 Feb 2021 00:00:00 EST</pubDate>
+      <itunes:duration>00:06:58</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>For as he thinketh in his heart, so is he: Eat and drink, saith he to thee; but his heart is not with thee.</itunes:subtitle>
+      <itunes:summary>For as he thinketh in his heart, so is he: Eat and drink, saith he to thee; but his heart is not with thee.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/22-09.mp3?pubDate=2021-02-22</guid>
       <title>Proverbs 22:9</title>
       <description>He that hath a bountiful eye shall be blessed; for he giveth of his bread to the poor.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>The morsel which thou hast eaten shalt thou vomit up, and lose thy sweet words.</itunes:subtitle>
       <itunes:summary>The morsel which thou hast eaten shalt thou vomit up, and lose thy sweet words.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/23-07.mp3?pubDate=2020-02-23</guid>
-      <title>Proverbs 23:7</title>
-      <description>For as he thinketh in his heart, so is he: Eat and drink, saith he to thee; but his heart is not with thee.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/23-07.mp3" length="4791526" type="audio/mpeg" />
-      <pubDate>Sun, 23 Feb 2020 00:00:00 EST</pubDate>
-      <itunes:duration>00:06:58</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>For as he thinketh in his heart, so is he: Eat and drink, saith he to thee; but his heart is not with thee.</itunes:subtitle>
-      <itunes:summary>For as he thinketh in his heart, so is he: Eat and drink, saith he to thee; but his heart is not with thee.</itunes:summary>
     </item>
   </channel>
 </rss>
