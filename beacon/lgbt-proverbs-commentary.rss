@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/01-11.mp3?pubDate=2021-03-01</guid>
+      <title>Proverbs 1:11</title>
+      <description>If they say, Come with us, let us lay wait for blood, let us lurk privily for the innocent without cause:</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/01-11.mp3" length="4788601" type="audio/mpeg" />
+      <pubDate>Mon, 01 Mar 2021 08:00:00 EST</pubDate>
+      <itunes:duration>00:06:58</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>If they say, Come with us, let us lay wait for blood, let us lurk privily for the innocent without cause:</itunes:subtitle>
+      <itunes:summary>If they say, Come with us, let us lay wait for blood, let us lurk privily for the innocent without cause:</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/01-10.mp3?pubDate=2021-03-01</guid>
       <title>Proverbs 1:10</title>
       <description>My son, if sinners entice thee, consent thou not.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>Let us swallow them up alive as the grave; and whole, as those that go down into the pit:</itunes:subtitle>
       <itunes:summary>Let us swallow them up alive as the grave; and whole, as those that go down into the pit:</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/01-11.mp3?pubDate=2020-03-01</guid>
-      <title>Proverbs 1:11</title>
-      <description>If they say, Come with us, let us lay wait for blood, let us lurk privily for the innocent without cause:</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/01-11.mp3" length="4788601" type="audio/mpeg" />
-      <pubDate>Sun, 01 Mar 2020 08:00:00 EST</pubDate>
-      <itunes:duration>00:06:58</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>If they say, Come with us, let us lay wait for blood, let us lurk privily for the innocent without cause:</itunes:subtitle>
-      <itunes:summary>If they say, Come with us, let us lay wait for blood, let us lurk privily for the innocent without cause:</itunes:summary>
     </item>
   </channel>
 </rss>
