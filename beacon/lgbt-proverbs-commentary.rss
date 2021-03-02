@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/02-12.mp3?pubDate=2021-03-02</guid>
+      <title>Proverbs 2:12</title>
+      <description>To deliver thee from the way of the evil man, from the man that speaketh froward things;</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/02-12.mp3" length="4014540" type="audio/mpeg" />
+      <pubDate>Tue, 02 Mar 2021 16:00:00 EST</pubDate>
+      <itunes:duration>00:05:50</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>To deliver thee from the way of the evil man, from the man that speaketh froward things;</itunes:subtitle>
+      <itunes:summary>To deliver thee from the way of the evil man, from the man that speaketh froward things;</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/02-11.mp3?pubDate=2021-03-02</guid>
       <title>Proverbs 2:11</title>
       <description>Discretion shall preserve thee, understanding shall keep thee:</description>
@@ -3408,18 +3420,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>Who leave the paths of uprightness, to walk in the ways of darkness;</itunes:subtitle>
       <itunes:summary>Who leave the paths of uprightness, to walk in the ways of darkness;</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/02-12.mp3?pubDate=2020-11-02</guid>
-      <title>Proverbs 2:12</title>
-      <description>To deliver thee from the way of the evil man, from the man that speaketh froward things;</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/02-12.mp3" length="4014540" type="audio/mpeg" />
-      <pubDate>Mon, 02 Nov 2020 00:00:00 EST</pubDate>
-      <itunes:duration>00:05:50</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>To deliver thee from the way of the evil man, from the man that speaketh froward things;</itunes:subtitle>
-      <itunes:summary>To deliver thee from the way of the evil man, from the man that speaketh froward things;</itunes:summary>
     </item>
     <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/01-03.mp3?pubDate=2020-11-01</guid>
