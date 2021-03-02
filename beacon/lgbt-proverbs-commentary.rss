@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/02-10.mp3?pubDate=2021-03-02</guid>
+      <title>Proverbs 2:10</title>
+      <description>When wisdom entereth into thine heart, and knowledge is pleasant unto thy soul;</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/02-10.mp3" length="3963131" type="audio/mpeg" />
+      <pubDate>Tue, 02 Mar 2021 00:00:00 EST</pubDate>
+      <itunes:duration>00:05:46</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>When wisdom entereth into thine heart, and knowledge is pleasant unto thy soul;</itunes:subtitle>
+      <itunes:summary>When wisdom entereth into thine heart, and knowledge is pleasant unto thy soul;</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/01-12.mp3?pubDate=2021-03-01</guid>
       <title>Proverbs 1:12</title>
       <description>Let us swallow them up alive as the grave; and whole, as those that go down into the pit:</description>
@@ -4104,18 +4116,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>Discretion shall preserve thee, understanding shall keep thee:</itunes:subtitle>
       <itunes:summary>Discretion shall preserve thee, understanding shall keep thee:</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/02-10.mp3?pubDate=2020-10-02</guid>
-      <title>Proverbs 2:10</title>
-      <description>When wisdom entereth into thine heart, and knowledge is pleasant unto thy soul;</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/02-10.mp3" length="3963131" type="audio/mpeg" />
-      <pubDate>Fri, 02 Oct 2020 08:00:00 EST</pubDate>
-      <itunes:duration>00:05:46</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>When wisdom entereth into thine heart, and knowledge is pleasant unto thy soul;</itunes:subtitle>
-      <itunes:summary>When wisdom entereth into thine heart, and knowledge is pleasant unto thy soul;</itunes:summary>
     </item>
     <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/01-33.mp3?pubDate=2020-10-01</guid>
