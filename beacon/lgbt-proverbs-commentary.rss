@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/03-11.mp3?pubDate=2021-03-03</guid>
+      <title>Proverbs 3:11</title>
+      <description>My son, despise not the chastening of the LORD; neither be weary of his correction:</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/03-11.mp3" length="5992323" type="audio/mpeg" />
+      <pubDate>Wed, 03 Mar 2021 08:00:00 EST</pubDate>
+      <itunes:duration>00:08:43</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>My son, despise not the chastening of the LORD; neither be weary of his correction:</itunes:subtitle>
+      <itunes:summary>My son, despise not the chastening of the LORD; neither be weary of his correction:</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/03-10.mp3?pubDate=2021-03-03</guid>
       <title>Proverbs 3:10</title>
       <description>So shall thy barns be filled with plenty, and thy presses shall burst out with new wine.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>For whom the LORD loveth he correcteth; even as a father the son in whom he delighteth.</itunes:subtitle>
       <itunes:summary>For whom the LORD loveth he correcteth; even as a father the son in whom he delighteth.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/03-11.mp3?pubDate=2020-03-03</guid>
-      <title>Proverbs 3:11</title>
-      <description>My son, despise not the chastening of the LORD; neither be weary of his correction:</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/03-11.mp3" length="5992323" type="audio/mpeg" />
-      <pubDate>Tue, 03 Mar 2020 08:00:00 EST</pubDate>
-      <itunes:duration>00:08:43</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>My son, despise not the chastening of the LORD; neither be weary of his correction:</itunes:subtitle>
-      <itunes:summary>My son, despise not the chastening of the LORD; neither be weary of his correction:</itunes:summary>
     </item>
   </channel>
 </rss>
