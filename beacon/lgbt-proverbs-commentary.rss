@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/04-12.mp3?pubDate=2021-03-04</guid>
+      <title>Proverbs 4:12</title>
+      <description>When thou goest, thy steps shall not be straitened; and when thou runnest, thou shalt not stumble.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/04-12.mp3" length="5351592" type="audio/mpeg" />
+      <pubDate>Thu, 04 Mar 2021 16:00:00 EST</pubDate>
+      <itunes:duration>00:07:47</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>When thou goest, thy steps shall not be straitened; and when thou runnest, thou shalt not stumble.</itunes:subtitle>
+      <itunes:summary>When thou goest, thy steps shall not be straitened; and when thou runnest, thou shalt not stumble.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/04-11.mp3?pubDate=2021-03-04</guid>
       <title>Proverbs 4:11</title>
       <description>I have taught thee in the way of wisdom; I have led thee in right paths.</description>
@@ -2820,18 +2832,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>I was almost in all evil in the midst of the congregation and assembly.</itunes:subtitle>
       <itunes:summary>I was almost in all evil in the midst of the congregation and assembly.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/04-12.mp3?pubDate=2020-12-04</guid>
-      <title>Proverbs 4:12</title>
-      <description>When thou goest, thy steps shall not be straitened; and when thou runnest, thou shalt not stumble.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/04-12.mp3" length="5351592" type="audio/mpeg" />
-      <pubDate>Fri, 04 Dec 2020 16:00:00 EST</pubDate>
-      <itunes:duration>00:07:47</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>When thou goest, thy steps shall not be straitened; and when thou runnest, thou shalt not stumble.</itunes:subtitle>
-      <itunes:summary>When thou goest, thy steps shall not be straitened; and when thou runnest, thou shalt not stumble.</itunes:summary>
     </item>
     <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/03-03.mp3?pubDate=2020-12-03</guid>
