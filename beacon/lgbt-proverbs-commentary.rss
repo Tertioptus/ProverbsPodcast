@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/05-10.mp3?pubDate=2021-03-05</guid>
+      <title>Proverbs 5:10</title>
+      <description>Lest strangers be filled with thy wealth; and thy labours be in the house of a stranger;</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/05-10.mp3" length="7731869" type="audio/mpeg" />
+      <pubDate>Fri, 05 Mar 2021 00:00:00 EST</pubDate>
+      <itunes:duration>00:11:15</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>Lest strangers be filled with thy wealth; and thy labours be in the house of a stranger;</itunes:subtitle>
+      <itunes:summary>Lest strangers be filled with thy wealth; and thy labours be in the house of a stranger;</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/04-12.mp3?pubDate=2021-03-04</guid>
       <title>Proverbs 4:12</title>
       <description>When thou goest, thy steps shall not be straitened; and when thou runnest, thou shalt not stumble.</description>
@@ -4104,18 +4116,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>But if he be found, he shall restore sevenfold; he shall give all the substance of his house.</itunes:subtitle>
       <itunes:summary>But if he be found, he shall restore sevenfold; he shall give all the substance of his house.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/05-10.mp3?pubDate=2020-10-05</guid>
-      <title>Proverbs 5:10</title>
-      <description>Lest strangers be filled with thy wealth; and thy labours be in the house of a stranger;</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/05-10.mp3" length="7731869" type="audio/mpeg" />
-      <pubDate>Mon, 05 Oct 2020 16:00:00 EST</pubDate>
-      <itunes:duration>00:11:15</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>Lest strangers be filled with thy wealth; and thy labours be in the house of a stranger;</itunes:subtitle>
-      <itunes:summary>Lest strangers be filled with thy wealth; and thy labours be in the house of a stranger;</itunes:summary>
     </item>
     <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/03-33.mp3?pubDate=2020-10-03</guid>
