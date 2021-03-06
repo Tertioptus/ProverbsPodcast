@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/06-12.mp3?pubDate=2021-03-06</guid>
+      <title>Proverbs 6:12</title>
+      <description>A naughty person, a wicked man, walketh with a froward mouth.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/06-12.mp3" length="4176708" type="audio/mpeg" />
+      <pubDate>Sat, 06 Mar 2021 16:00:00 EST</pubDate>
+      <itunes:duration>00:06:04</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>A naughty person, a wicked man, walketh with a froward mouth.</itunes:subtitle>
+      <itunes:summary>A naughty person, a wicked man, walketh with a froward mouth.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/06-11.mp3?pubDate=2021-03-06</guid>
       <title>Proverbs 6:11</title>
       <description>So shall thy poverty come as one that travelleth, and thy want as an armed man.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>Receive my instruction, and not silver; and knowledge rather than choice gold.</itunes:subtitle>
       <itunes:summary>Receive my instruction, and not silver; and knowledge rather than choice gold.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/06-12.mp3?pubDate=2020-03-06</guid>
-      <title>Proverbs 6:12</title>
-      <description>A naughty person, a wicked man, walketh with a froward mouth.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/06-12.mp3" length="4176708" type="audio/mpeg" />
-      <pubDate>Fri, 06 Mar 2020 16:00:00 EST</pubDate>
-      <itunes:duration>00:06:04</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>A naughty person, a wicked man, walketh with a froward mouth.</itunes:subtitle>
-      <itunes:summary>A naughty person, a wicked man, walketh with a froward mouth.</itunes:summary>
     </item>
   </channel>
 </rss>
