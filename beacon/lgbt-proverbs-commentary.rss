@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/08-10.mp3?pubDate=2021-03-08</guid>
+      <title>Proverbs 8:10</title>
+      <description>Receive my instruction, and not silver; and knowledge rather than choice gold.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/08-10.mp3" length="5585649" type="audio/mpeg" />
+      <pubDate>Mon, 08 Mar 2021 00:00:00 EST</pubDate>
+      <itunes:duration>00:08:08</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>Receive my instruction, and not silver; and knowledge rather than choice gold.</itunes:subtitle>
+      <itunes:summary>Receive my instruction, and not silver; and knowledge rather than choice gold.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/07-12.mp3?pubDate=2021-03-07</guid>
       <title>Proverbs 7:12</title>
       <description>Now is she without, now in the streets, and lieth in wait at every corner.)</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>For wisdom is better than rubies; and all the things that may be desired are not to be compared to it.</itunes:subtitle>
       <itunes:summary>For wisdom is better than rubies; and all the things that may be desired are not to be compared to it.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/08-10.mp3?pubDate=2020-03-08</guid>
-      <title>Proverbs 8:10</title>
-      <description>Receive my instruction, and not silver; and knowledge rather than choice gold.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/08-10.mp3" length="5585649" type="audio/mpeg" />
-      <pubDate>Sun, 08 Mar 2020 00:00:00 EST</pubDate>
-      <itunes:duration>00:08:08</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>Receive my instruction, and not silver; and knowledge rather than choice gold.</itunes:subtitle>
-      <itunes:summary>Receive my instruction, and not silver; and knowledge rather than choice gold.</itunes:summary>
     </item>
   </channel>
 </rss>
