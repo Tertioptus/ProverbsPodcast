@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/09-10.mp3?pubDate=2021-03-09</guid>
+      <title>Proverbs 9:10</title>
+      <description>The fear of the LORD is the beginning of wisdom: and the knowledge of the holy is understanding.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/09-10.mp3" length="6592512" type="audio/mpeg" />
+      <pubDate>Tue, 09 Mar 2021 00:00:00 EST</pubDate>
+      <itunes:duration>00:09:35</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>The fear of the LORD is the beginning of wisdom: and the knowledge of the holy is understanding.</itunes:subtitle>
+      <itunes:summary>The fear of the LORD is the beginning of wisdom: and the knowledge of the holy is understanding.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/08-12.mp3?pubDate=2021-03-08</guid>
       <title>Proverbs 8:12</title>
       <description>I wisdom dwell with prudence, and find out knowledge of witty inventions.</description>
@@ -4980,18 +4992,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>For by me thy days shall be multiplied, and the years of thy life shall be increased.</itunes:subtitle>
       <itunes:summary>For by me thy days shall be multiplied, and the years of thy life shall be increased.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/09-10.mp3?pubDate=2020-09-09</guid>
-      <title>Proverbs 9:10</title>
-      <description>The fear of the LORD is the beginning of wisdom: and the knowledge of the holy is understanding.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/09-10.mp3" length="6592512" type="audio/mpeg" />
-      <pubDate>Wed, 09 Sep 2020 00:00:00 EST</pubDate>
-      <itunes:duration>00:09:35</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>The fear of the LORD is the beginning of wisdom: and the knowledge of the holy is understanding.</itunes:subtitle>
-      <itunes:summary>The fear of the LORD is the beginning of wisdom: and the knowledge of the holy is understanding.</itunes:summary>
     </item>
     <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/08-30.mp3?pubDate=2020-09-08</guid>
