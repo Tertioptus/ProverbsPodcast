@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/10-10.mp3?pubDate=2021-03-10</guid>
+      <title>Proverbs 10:10</title>
+      <description>He that winketh with the eye causeth sorrow: but a prating fool shall fall.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/10-10.mp3" length="4398646" type="audio/mpeg" />
+      <pubDate>Wed, 10 Mar 2021 00:00:00 EST</pubDate>
+      <itunes:duration>00:06:24</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>He that winketh with the eye causeth sorrow: but a prating fool shall fall.</itunes:subtitle>
+      <itunes:summary>He that winketh with the eye causeth sorrow: but a prating fool shall fall.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/09-12.mp3?pubDate=2021-03-09</guid>
       <title>Proverbs 9:12</title>
       <description>If thou be wise, thou shalt be wise for thyself: but if thou scornest, thou alone shalt bear it.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>The mouth of a righteous man is a well of life: but violence covereth the mouth of the wicked.</itunes:subtitle>
       <itunes:summary>The mouth of a righteous man is a well of life: but violence covereth the mouth of the wicked.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/10-10.mp3?pubDate=2020-03-10</guid>
-      <title>Proverbs 10:10</title>
-      <description>He that winketh with the eye causeth sorrow: but a prating fool shall fall.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/10-10.mp3" length="4398646" type="audio/mpeg" />
-      <pubDate>Tue, 10 Mar 2020 00:00:00 EST</pubDate>
-      <itunes:duration>00:06:24</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>He that winketh with the eye causeth sorrow: but a prating fool shall fall.</itunes:subtitle>
-      <itunes:summary>He that winketh with the eye causeth sorrow: but a prating fool shall fall.</itunes:summary>
     </item>
   </channel>
 </rss>
