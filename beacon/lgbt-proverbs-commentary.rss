@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/11-10.mp3?pubDate=2021-03-11</guid>
+      <title>Proverbs 11:10</title>
+      <description>When it goeth well with the righteous, the city rejoiceth: and when the wicked perish, there is shouting.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/11-10.mp3" length="4590071" type="audio/mpeg" />
+      <pubDate>Thu, 11 Mar 2021 00:00:00 EST</pubDate>
+      <itunes:duration>00:06:41</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>When it goeth well with the righteous, the city rejoiceth: and when the wicked perish, there is shouting.</itunes:subtitle>
+      <itunes:summary>When it goeth well with the righteous, the city rejoiceth: and when the wicked perish, there is shouting.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/10-12.mp3?pubDate=2021-03-10</guid>
       <title>Proverbs 10:12</title>
       <description>Hatred stirreth up strifes: but love covereth all sins.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>By the blessing of the upright the city is exalted: but it is overthrown by the mouth of the wicked.</itunes:subtitle>
       <itunes:summary>By the blessing of the upright the city is exalted: but it is overthrown by the mouth of the wicked.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/11-10.mp3?pubDate=2020-03-11</guid>
-      <title>Proverbs 11:10</title>
-      <description>When it goeth well with the righteous, the city rejoiceth: and when the wicked perish, there is shouting.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/11-10.mp3" length="4590071" type="audio/mpeg" />
-      <pubDate>Wed, 11 Mar 2020 00:00:00 EST</pubDate>
-      <itunes:duration>00:06:41</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>When it goeth well with the righteous, the city rejoiceth: and when the wicked perish, there is shouting.</itunes:subtitle>
-      <itunes:summary>When it goeth well with the righteous, the city rejoiceth: and when the wicked perish, there is shouting.</itunes:summary>
     </item>
   </channel>
 </rss>
