@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/11-11.mp3?pubDate=2021-03-11</guid>
+      <title>Proverbs 11:11</title>
+      <description>By the blessing of the upright the city is exalted: but it is overthrown by the mouth of the wicked.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/11-11.mp3" length="9989268" type="audio/mpeg" />
+      <pubDate>Thu, 11 Mar 2021 08:00:00 EST</pubDate>
+      <itunes:duration>00:14:32</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>By the blessing of the upright the city is exalted: but it is overthrown by the mouth of the wicked.</itunes:subtitle>
+      <itunes:summary>By the blessing of the upright the city is exalted: but it is overthrown by the mouth of the wicked.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/11-10.mp3?pubDate=2021-03-11</guid>
       <title>Proverbs 11:10</title>
       <description>When it goeth well with the righteous, the city rejoiceth: and when the wicked perish, there is shouting.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>He that is void of wisdom despiseth his neighbour: but a man of understanding holdeth his peace.</itunes:subtitle>
       <itunes:summary>He that is void of wisdom despiseth his neighbour: but a man of understanding holdeth his peace.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/11-11.mp3?pubDate=2020-03-11</guid>
-      <title>Proverbs 11:11</title>
-      <description>By the blessing of the upright the city is exalted: but it is overthrown by the mouth of the wicked.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/11-11.mp3" length="9989268" type="audio/mpeg" />
-      <pubDate>Wed, 11 Mar 2020 08:00:00 EST</pubDate>
-      <itunes:duration>00:14:32</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>By the blessing of the upright the city is exalted: but it is overthrown by the mouth of the wicked.</itunes:subtitle>
-      <itunes:summary>By the blessing of the upright the city is exalted: but it is overthrown by the mouth of the wicked.</itunes:summary>
     </item>
   </channel>
 </rss>
