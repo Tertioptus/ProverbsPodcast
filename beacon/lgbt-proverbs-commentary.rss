@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/12-12.mp3?pubDate=2021-03-12</guid>
+      <title>Proverbs 12:12</title>
+      <description>The wicked desireth the net of evil men: but the root of the righteous yieldeth fruit.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/12-12.mp3" length="4863834" type="audio/mpeg" />
+      <pubDate>Fri, 12 Mar 2021 16:00:00 EST</pubDate>
+      <itunes:duration>00:07:04</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>The wicked desireth the net of evil men: but the root of the righteous yieldeth fruit.</itunes:subtitle>
+      <itunes:summary>The wicked desireth the net of evil men: but the root of the righteous yieldeth fruit.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/12-11.mp3?pubDate=2021-03-12</guid>
       <title>Proverbs 12:11</title>
       <description>He that tilleth his land shall be satisfied with bread: but he that followeth vain persons is void of understanding.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>The heart knoweth his own bitterness; and a stranger doth not intermeddle with his joy.</itunes:subtitle>
       <itunes:summary>The heart knoweth his own bitterness; and a stranger doth not intermeddle with his joy.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/12-12.mp3?pubDate=2020-03-12</guid>
-      <title>Proverbs 12:12</title>
-      <description>The wicked desireth the net of evil men: but the root of the righteous yieldeth fruit.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/12-12.mp3" length="4863834" type="audio/mpeg" />
-      <pubDate>Thu, 12 Mar 2020 16:00:00 EST</pubDate>
-      <itunes:duration>00:07:04</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>The wicked desireth the net of evil men: but the root of the righteous yieldeth fruit.</itunes:subtitle>
-      <itunes:summary>The wicked desireth the net of evil men: but the root of the righteous yieldeth fruit.</itunes:summary>
     </item>
   </channel>
 </rss>
