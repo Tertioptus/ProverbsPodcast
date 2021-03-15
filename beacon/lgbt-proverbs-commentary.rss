@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/15-12.mp3?pubDate=2021-03-15</guid>
+      <title>Proverbs 15:12</title>
+      <description>A scorner loveth not one that reproveth him: neither will he go unto the wise.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/15-12.mp3" length="5741966" type="audio/mpeg" />
+      <pubDate>Mon, 15 Mar 2021 16:00:00 EST</pubDate>
+      <itunes:duration>00:08:21</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>A scorner loveth not one that reproveth him: neither will he go unto the wise.</itunes:subtitle>
+      <itunes:summary>A scorner loveth not one that reproveth him: neither will he go unto the wise.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/15-11.mp3?pubDate=2021-03-15</guid>
       <title>Proverbs 15:11</title>
       <description>Hell and destruction are before the LORD: how much more then the hearts of the children of men?</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>A divine sentence is in the lips of the king: his mouth transgresseth not in judgment.</itunes:subtitle>
       <itunes:summary>A divine sentence is in the lips of the king: his mouth transgresseth not in judgment.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/15-12.mp3?pubDate=2020-03-15</guid>
-      <title>Proverbs 15:12</title>
-      <description>A scorner loveth not one that reproveth him: neither will he go unto the wise.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/15-12.mp3" length="5741966" type="audio/mpeg" />
-      <pubDate>Sun, 15 Mar 2020 16:00:00 EST</pubDate>
-      <itunes:duration>00:08:21</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>A scorner loveth not one that reproveth him: neither will he go unto the wise.</itunes:subtitle>
-      <itunes:summary>A scorner loveth not one that reproveth him: neither will he go unto the wise.</itunes:summary>
     </item>
   </channel>
 </rss>
