@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/15-10.mp3?pubDate=2021-03-15</guid>
+      <title>Proverbs 15:10</title>
+      <description>Correction is grievous unto him that forsaketh the way: and he that hateth reproof shall die.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/15-10.mp3" length="6239756" type="audio/mpeg" />
+      <pubDate>Mon, 15 Mar 2021 00:00:00 EST</pubDate>
+      <itunes:duration>00:09:05</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>Correction is grievous unto him that forsaketh the way: and he that hateth reproof shall die.</itunes:subtitle>
+      <itunes:summary>Correction is grievous unto him that forsaketh the way: and he that hateth reproof shall die.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/14-12.mp3?pubDate=2021-03-14</guid>
       <title>Proverbs 14:12</title>
       <description>There is a way which seemeth right unto a man, but the end thereof are the ways of death.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>Hell and destruction are before the LORD: how much more then the hearts of the children of men?</itunes:subtitle>
       <itunes:summary>Hell and destruction are before the LORD: how much more then the hearts of the children of men?</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/15-10.mp3?pubDate=2020-03-15</guid>
-      <title>Proverbs 15:10</title>
-      <description>Correction is grievous unto him that forsaketh the way: and he that hateth reproof shall die.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/15-10.mp3" length="6239756" type="audio/mpeg" />
-      <pubDate>Sun, 15 Mar 2020 00:00:00 EST</pubDate>
-      <itunes:duration>00:09:05</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>Correction is grievous unto him that forsaketh the way: and he that hateth reproof shall die.</itunes:subtitle>
-      <itunes:summary>Correction is grievous unto him that forsaketh the way: and he that hateth reproof shall die.</itunes:summary>
     </item>
   </channel>
 </rss>
