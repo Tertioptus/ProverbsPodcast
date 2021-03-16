@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/16-12.mp3?pubDate=2021-03-16</guid>
+      <title>Proverbs 16:12</title>
+      <description>It is an abomination to kings to commit wickedness: for the throne is established by righteousness.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/16-12.mp3" length="6289911" type="audio/mpeg" />
+      <pubDate>Tue, 16 Mar 2021 16:00:00 EST</pubDate>
+      <itunes:duration>00:09:09</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>It is an abomination to kings to commit wickedness: for the throne is established by righteousness.</itunes:subtitle>
+      <itunes:summary>It is an abomination to kings to commit wickedness: for the throne is established by righteousness.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/16-11.mp3?pubDate=2021-03-16</guid>
       <title>Proverbs 16:11</title>
       <description>A just weight and balance are the LORD's: all the weights of the bag are his work.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>Let a bear robbed of her whelps meet a man, rather than a fool in his folly.</itunes:subtitle>
       <itunes:summary>Let a bear robbed of her whelps meet a man, rather than a fool in his folly.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/16-12.mp3?pubDate=2020-03-16</guid>
-      <title>Proverbs 16:12</title>
-      <description>It is an abomination to kings to commit wickedness: for the throne is established by righteousness.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/16-12.mp3" length="6289911" type="audio/mpeg" />
-      <pubDate>Mon, 16 Mar 2020 16:00:00 EST</pubDate>
-      <itunes:duration>00:09:09</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>It is an abomination to kings to commit wickedness: for the throne is established by righteousness.</itunes:subtitle>
-      <itunes:summary>It is an abomination to kings to commit wickedness: for the throne is established by righteousness.</itunes:summary>
     </item>
   </channel>
 </rss>
