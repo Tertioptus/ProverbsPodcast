@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/17-12.mp3?pubDate=2021-03-17</guid>
+      <title>Proverbs 17:12</title>
+      <description>Let a bear robbed of her whelps meet a man, rather than a fool in his folly.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/17-12.mp3" length="6356366" type="audio/mpeg" />
+      <pubDate>Wed, 17 Mar 2021 16:00:00 EST</pubDate>
+      <itunes:duration>00:09:15</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>Let a bear robbed of her whelps meet a man, rather than a fool in his folly.</itunes:subtitle>
+      <itunes:summary>Let a bear robbed of her whelps meet a man, rather than a fool in his folly.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/17-11.mp3?pubDate=2021-03-17</guid>
       <title>Proverbs 17:11</title>
       <description>An evil man seeketh only rebellion: therefore a cruel messenger shall be sent against him.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>The discretion of a man deferreth his anger; and it is his glory to pass over a transgression.</itunes:subtitle>
       <itunes:summary>The discretion of a man deferreth his anger; and it is his glory to pass over a transgression.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/17-12.mp3?pubDate=2020-03-17</guid>
-      <title>Proverbs 17:12</title>
-      <description>Let a bear robbed of her whelps meet a man, rather than a fool in his folly.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/17-12.mp3" length="6356366" type="audio/mpeg" />
-      <pubDate>Tue, 17 Mar 2020 16:00:00 EST</pubDate>
-      <itunes:duration>00:09:15</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>Let a bear robbed of her whelps meet a man, rather than a fool in his folly.</itunes:subtitle>
-      <itunes:summary>Let a bear robbed of her whelps meet a man, rather than a fool in his folly.</itunes:summary>
     </item>
   </channel>
 </rss>
