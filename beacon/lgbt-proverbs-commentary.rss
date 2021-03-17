@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/17-11.mp3?pubDate=2021-03-17</guid>
+      <title>Proverbs 17:11</title>
+      <description>An evil man seeketh only rebellion: therefore a cruel messenger shall be sent against him.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/17-11.mp3" length="7677117" type="audio/mpeg" />
+      <pubDate>Wed, 17 Mar 2021 08:00:00 EST</pubDate>
+      <itunes:duration>00:11:10</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>An evil man seeketh only rebellion: therefore a cruel messenger shall be sent against him.</itunes:subtitle>
+      <itunes:summary>An evil man seeketh only rebellion: therefore a cruel messenger shall be sent against him.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/17-10.mp3?pubDate=2021-03-17</guid>
       <title>Proverbs 17:10</title>
       <description>A reproof entereth more into a wise man than an hundred stripes into a fool.</description>
@@ -3000,18 +3012,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>He that answereth a matter before he heareth it, it is folly and shame unto him.</itunes:subtitle>
       <itunes:summary>He that answereth a matter before he heareth it, it is folly and shame unto him.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/17-11.mp3?pubDate=2020-12-17</guid>
-      <title>Proverbs 17:11</title>
-      <description>An evil man seeketh only rebellion: therefore a cruel messenger shall be sent against him.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/17-11.mp3" length="7677117" type="audio/mpeg" />
-      <pubDate>Thu, 17 Dec 2020 16:00:00 EST</pubDate>
-      <itunes:duration>00:11:10</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>An evil man seeketh only rebellion: therefore a cruel messenger shall be sent against him.</itunes:subtitle>
-      <itunes:summary>An evil man seeketh only rebellion: therefore a cruel messenger shall be sent against him.</itunes:summary>
     </item>
     <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/14-03.mp3?pubDate=2020-12-14</guid>
