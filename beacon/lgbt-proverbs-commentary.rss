@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/19-12.mp3?pubDate=2021-03-19</guid>
+      <title>Proverbs 19:12</title>
+      <description>The king's wrath is as the roaring of a lion; but his favour is as dew upon the grass.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/19-12.mp3" length="6742979" type="audio/mpeg" />
+      <pubDate>Fri, 19 Mar 2021 16:00:00 EST</pubDate>
+      <itunes:duration>00:09:49</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>The king's wrath is as the roaring of a lion; but his favour is as dew upon the grass.</itunes:subtitle>
+      <itunes:summary>The king's wrath is as the roaring of a lion; but his favour is as dew upon the grass.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/19-11.mp3?pubDate=2021-03-19</guid>
       <title>Proverbs 19:11</title>
       <description>The discretion of a man deferreth his anger; and it is his glory to pass over a transgression.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>Divers weights, and divers measures, both of them are alike abomination to the LORD.</itunes:subtitle>
       <itunes:summary>Divers weights, and divers measures, both of them are alike abomination to the LORD.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/19-12.mp3?pubDate=2020-03-19</guid>
-      <title>Proverbs 19:12</title>
-      <description>The king's wrath is as the roaring of a lion; but his favour is as dew upon the grass.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/19-12.mp3" length="6742979" type="audio/mpeg" />
-      <pubDate>Thu, 19 Mar 2020 16:00:00 EST</pubDate>
-      <itunes:duration>00:09:49</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>The king's wrath is as the roaring of a lion; but his favour is as dew upon the grass.</itunes:subtitle>
-      <itunes:summary>The king's wrath is as the roaring of a lion; but his favour is as dew upon the grass.</itunes:summary>
     </item>
   </channel>
 </rss>
