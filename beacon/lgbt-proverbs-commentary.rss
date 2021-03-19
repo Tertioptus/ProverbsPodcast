@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/19-11.mp3?pubDate=2021-03-19</guid>
+      <title>Proverbs 19:11</title>
+      <description>The discretion of a man deferreth his anger; and it is his glory to pass over a transgression.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/19-11.mp3" length="8660157" type="audio/mpeg" />
+      <pubDate>Fri, 19 Mar 2021 08:00:00 EST</pubDate>
+      <itunes:duration>00:12:36</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>The discretion of a man deferreth his anger; and it is his glory to pass over a transgression.</itunes:subtitle>
+      <itunes:summary>The discretion of a man deferreth his anger; and it is his glory to pass over a transgression.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/19-10.mp3?pubDate=2021-03-19</guid>
       <title>Proverbs 19:10</title>
       <description>Delight is not seemly for a fool; much less for a servant to have rule over princes.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>The king's wrath is as the roaring of a lion; but his favour is as dew upon the grass.</itunes:subtitle>
       <itunes:summary>The king's wrath is as the roaring of a lion; but his favour is as dew upon the grass.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/19-11.mp3?pubDate=2020-03-19</guid>
-      <title>Proverbs 19:11</title>
-      <description>The discretion of a man deferreth his anger; and it is his glory to pass over a transgression.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/19-11.mp3" length="8660157" type="audio/mpeg" />
-      <pubDate>Thu, 19 Mar 2020 08:00:00 EST</pubDate>
-      <itunes:duration>00:12:36</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>The discretion of a man deferreth his anger; and it is his glory to pass over a transgression.</itunes:subtitle>
-      <itunes:summary>The discretion of a man deferreth his anger; and it is his glory to pass over a transgression.</itunes:summary>
     </item>
   </channel>
 </rss>
