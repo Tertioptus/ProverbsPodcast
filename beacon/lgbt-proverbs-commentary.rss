@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/20-12.mp3?pubDate=2021-03-20</guid>
+      <title>Proverbs 20:12</title>
+      <description>The hearing ear, and the seeing eye, the LORD hath made even both of them.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/20-12.mp3" length="10050708" type="audio/mpeg" />
+      <pubDate>Sat, 20 Mar 2021 16:00:00 EST</pubDate>
+      <itunes:duration>00:14:38</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>The hearing ear, and the seeing eye, the LORD hath made even both of them.</itunes:subtitle>
+      <itunes:summary>The hearing ear, and the seeing eye, the LORD hath made even both of them.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/20-11.mp3?pubDate=2021-03-20</guid>
       <title>Proverbs 20:11</title>
       <description>Even a child is known by his doings, whether his work be pure, and whether it be right.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>The soul of the wicked desireth evil: his neighbour findeth no favour in his eyes.</itunes:subtitle>
       <itunes:summary>The soul of the wicked desireth evil: his neighbour findeth no favour in his eyes.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/20-12.mp3?pubDate=2020-03-20</guid>
-      <title>Proverbs 20:12</title>
-      <description>The hearing ear, and the seeing eye, the LORD hath made even both of them.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/20-12.mp3" length="10050708" type="audio/mpeg" />
-      <pubDate>Fri, 20 Mar 2020 16:00:00 EST</pubDate>
-      <itunes:duration>00:14:38</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>The hearing ear, and the seeing eye, the LORD hath made even both of them.</itunes:subtitle>
-      <itunes:summary>The hearing ear, and the seeing eye, the LORD hath made even both of them.</itunes:summary>
     </item>
   </channel>
 </rss>
