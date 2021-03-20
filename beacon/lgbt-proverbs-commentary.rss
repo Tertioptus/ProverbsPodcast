@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/20-10.mp3?pubDate=2021-03-20</guid>
+      <title>Proverbs 20:10</title>
+      <description>Divers weights, and divers measures, both of them are alike abomination to the LORD.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/20-10.mp3" length="7258740" type="audio/mpeg" />
+      <pubDate>Sat, 20 Mar 2021 00:00:00 EST</pubDate>
+      <itunes:duration>00:10:34</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>Divers weights, and divers measures, both of them are alike abomination to the LORD.</itunes:subtitle>
+      <itunes:summary>Divers weights, and divers measures, both of them are alike abomination to the LORD.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/19-12.mp3?pubDate=2021-03-19</guid>
       <title>Proverbs 19:12</title>
       <description>The king's wrath is as the roaring of a lion; but his favour is as dew upon the grass.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>Even a child is known by his doings, whether his work be pure, and whether it be right.</itunes:subtitle>
       <itunes:summary>Even a child is known by his doings, whether his work be pure, and whether it be right.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/20-10.mp3?pubDate=2020-03-20</guid>
-      <title>Proverbs 20:10</title>
-      <description>Divers weights, and divers measures, both of them are alike abomination to the LORD.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/20-10.mp3" length="7258740" type="audio/mpeg" />
-      <pubDate>Fri, 20 Mar 2020 00:00:00 EST</pubDate>
-      <itunes:duration>00:10:34</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>Divers weights, and divers measures, both of them are alike abomination to the LORD.</itunes:subtitle>
-      <itunes:summary>Divers weights, and divers measures, both of them are alike abomination to the LORD.</itunes:summary>
     </item>
   </channel>
 </rss>
