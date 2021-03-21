@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/21-10.mp3?pubDate=2021-03-21</guid>
+      <title>Proverbs 21:10</title>
+      <description>The soul of the wicked desireth evil: his neighbour findeth no favour in his eyes.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/21-10.mp3" length="4478058" type="audio/mpeg" />
+      <pubDate>Sun, 21 Mar 2021 00:00:00 EST</pubDate>
+      <itunes:duration>00:06:31</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>The soul of the wicked desireth evil: his neighbour findeth no favour in his eyes.</itunes:subtitle>
+      <itunes:summary>The soul of the wicked desireth evil: his neighbour findeth no favour in his eyes.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/20-12.mp3?pubDate=2021-03-20</guid>
       <title>Proverbs 20:12</title>
       <description>The hearing ear, and the seeing eye, the LORD hath made even both of them.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>When the scorner is punished, the simple is made wise: and when the wise is instructed, he receiveth knowledge.</itunes:subtitle>
       <itunes:summary>When the scorner is punished, the simple is made wise: and when the wise is instructed, he receiveth knowledge.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/21-10.mp3?pubDate=2020-03-21</guid>
-      <title>Proverbs 21:10</title>
-      <description>The soul of the wicked desireth evil: his neighbour findeth no favour in his eyes.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/21-10.mp3" length="4478058" type="audio/mpeg" />
-      <pubDate>Sat, 21 Mar 2020 00:00:00 EST</pubDate>
-      <itunes:duration>00:06:31</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>The soul of the wicked desireth evil: his neighbour findeth no favour in his eyes.</itunes:subtitle>
-      <itunes:summary>The soul of the wicked desireth evil: his neighbour findeth no favour in his eyes.</itunes:summary>
     </item>
   </channel>
 </rss>
