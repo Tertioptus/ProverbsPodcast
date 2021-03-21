@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/21-11.mp3?pubDate=2021-03-21</guid>
+      <title>Proverbs 21:11</title>
+      <description>When the scorner is punished, the simple is made wise: and when the wise is instructed, he receiveth knowledge.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/21-11.mp3" length="4036275" type="audio/mpeg" />
+      <pubDate>Sun, 21 Mar 2021 08:00:00 EST</pubDate>
+      <itunes:duration>00:05:52</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>When the scorner is punished, the simple is made wise: and when the wise is instructed, he receiveth knowledge.</itunes:subtitle>
+      <itunes:summary>When the scorner is punished, the simple is made wise: and when the wise is instructed, he receiveth knowledge.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/21-10.mp3?pubDate=2021-03-21</guid>
       <title>Proverbs 21:10</title>
       <description>The soul of the wicked desireth evil: his neighbour findeth no favour in his eyes.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>The righteous man wisely considereth the house of the wicked: but God overthroweth the wicked for their wickedness.</itunes:subtitle>
       <itunes:summary>The righteous man wisely considereth the house of the wicked: but God overthroweth the wicked for their wickedness.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/21-11.mp3?pubDate=2020-03-21</guid>
-      <title>Proverbs 21:11</title>
-      <description>When the scorner is punished, the simple is made wise: and when the wise is instructed, he receiveth knowledge.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/21-11.mp3" length="4036275" type="audio/mpeg" />
-      <pubDate>Sat, 21 Mar 2020 08:00:00 EST</pubDate>
-      <itunes:duration>00:05:52</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>When the scorner is punished, the simple is made wise: and when the wise is instructed, he receiveth knowledge.</itunes:subtitle>
-      <itunes:summary>When the scorner is punished, the simple is made wise: and when the wise is instructed, he receiveth knowledge.</itunes:summary>
     </item>
   </channel>
 </rss>
