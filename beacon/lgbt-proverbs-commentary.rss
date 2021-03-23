@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/23-10.mp3?pubDate=2021-03-23</guid>
+      <title>Proverbs 23:10</title>
+      <description>Remove not the old landmark; and enter not into the fields of the fatherless:</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/23-10.mp3" length="4942828" type="audio/mpeg" />
+      <pubDate>Tue, 23 Mar 2021 00:00:00 EST</pubDate>
+      <itunes:duration>00:07:11</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>Remove not the old landmark; and enter not into the fields of the fatherless:</itunes:subtitle>
+      <itunes:summary>Remove not the old landmark; and enter not into the fields of the fatherless:</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/22-12.mp3?pubDate=2021-03-22</guid>
       <title>Proverbs 22:12</title>
       <description>The eyes of the LORD preserve knowledge, and he overthroweth the words of the transgressor.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>For their redeemer is mighty; he shall plead their cause with thee.</itunes:subtitle>
       <itunes:summary>For their redeemer is mighty; he shall plead their cause with thee.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/23-10.mp3?pubDate=2020-03-23</guid>
-      <title>Proverbs 23:10</title>
-      <description>Remove not the old landmark; and enter not into the fields of the fatherless:</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/23-10.mp3" length="4942828" type="audio/mpeg" />
-      <pubDate>Mon, 23 Mar 2020 00:00:00 EST</pubDate>
-      <itunes:duration>00:07:11</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>Remove not the old landmark; and enter not into the fields of the fatherless:</itunes:subtitle>
-      <itunes:summary>Remove not the old landmark; and enter not into the fields of the fatherless:</itunes:summary>
     </item>
   </channel>
 </rss>
