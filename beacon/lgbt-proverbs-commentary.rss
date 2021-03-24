@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/24-10.mp3?pubDate=2021-03-24</guid>
+      <title>Proverbs 24:10</title>
+      <description>If thou faint in the day of adversity, thy strength is small.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/24-10.mp3" length="8033637" type="audio/mpeg" />
+      <pubDate>Wed, 24 Mar 2021 00:00:00 EST</pubDate>
+      <itunes:duration>00:11:41</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>If thou faint in the day of adversity, thy strength is small.</itunes:subtitle>
+      <itunes:summary>If thou faint in the day of adversity, thy strength is small.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/23-12.mp3?pubDate=2021-03-23</guid>
       <title>Proverbs 23:12</title>
       <description>Apply thine heart unto instruction, and thine ears to the words of knowledge.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>If thou forbear to deliver them that are drawn unto death, and those that are ready to be slain;</itunes:subtitle>
       <itunes:summary>If thou forbear to deliver them that are drawn unto death, and those that are ready to be slain;</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/24-10.mp3?pubDate=2020-03-24</guid>
-      <title>Proverbs 24:10</title>
-      <description>If thou faint in the day of adversity, thy strength is small.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/24-10.mp3" length="8033637" type="audio/mpeg" />
-      <pubDate>Tue, 24 Mar 2020 00:00:00 EST</pubDate>
-      <itunes:duration>00:11:41</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>If thou faint in the day of adversity, thy strength is small.</itunes:subtitle>
-      <itunes:summary>If thou faint in the day of adversity, thy strength is small.</itunes:summary>
     </item>
   </channel>
 </rss>
