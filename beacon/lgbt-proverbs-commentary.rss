@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/25-12.mp3?pubDate=2021-03-25</guid>
+      <title>Proverbs 25:12</title>
+      <description>As an earring of gold, and an ornament of fine gold, so is a wise reprover upon an obedient ear.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/25-12.mp3" length="10667615" type="audio/mpeg" />
+      <pubDate>Thu, 25 Mar 2021 16:00:00 EST</pubDate>
+      <itunes:duration>00:15:32</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>As an earring of gold, and an ornament of fine gold, so is a wise reprover upon an obedient ear.</itunes:subtitle>
+      <itunes:summary>As an earring of gold, and an ornament of fine gold, so is a wise reprover upon an obedient ear.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/25-11.mp3?pubDate=2021-03-25</guid>
       <title>Proverbs 25:11</title>
       <description>A word fitly spoken is like apples of gold in pictures of silver.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>Seest thou a man wise in his own conceit? there is more hope of a fool than of him.</itunes:subtitle>
       <itunes:summary>Seest thou a man wise in his own conceit? there is more hope of a fool than of him.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/25-12.mp3?pubDate=2020-03-25</guid>
-      <title>Proverbs 25:12</title>
-      <description>As an earring of gold, and an ornament of fine gold, so is a wise reprover upon an obedient ear.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/25-12.mp3" length="10667615" type="audio/mpeg" />
-      <pubDate>Wed, 25 Mar 2020 16:00:00 EST</pubDate>
-      <itunes:duration>00:15:32</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>As an earring of gold, and an ornament of fine gold, so is a wise reprover upon an obedient ear.</itunes:subtitle>
-      <itunes:summary>As an earring of gold, and an ornament of fine gold, so is a wise reprover upon an obedient ear.</itunes:summary>
     </item>
   </channel>
 </rss>
