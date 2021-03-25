@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/25-10.mp3?pubDate=2021-03-25</guid>
+      <title>Proverbs 25:10</title>
+      <description>Lest he that heareth it put thee to shame, and thine infamy turn not away.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/25-10.mp3" length="4275766" type="audio/mpeg" />
+      <pubDate>Thu, 25 Mar 2021 00:00:00 EST</pubDate>
+      <itunes:duration>00:06:13</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>Lest he that heareth it put thee to shame, and thine infamy turn not away.</itunes:subtitle>
+      <itunes:summary>Lest he that heareth it put thee to shame, and thine infamy turn not away.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/24-12.mp3?pubDate=2021-03-24</guid>
       <title>Proverbs 24:12</title>
       <description>If thou sayest, Behold, we knew it not; doth not he that pondereth the heart consider it? and he that keepeth thy soul, doth not he know it? and shall not he render to every man according to his works?</description>
@@ -3168,18 +3180,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>A word fitly spoken is like apples of gold in pictures of silver.</itunes:subtitle>
       <itunes:summary>A word fitly spoken is like apples of gold in pictures of silver.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/25-10.mp3?pubDate=2020-12-25</guid>
-      <title>Proverbs 25:10</title>
-      <description>Lest he that heareth it put thee to shame, and thine infamy turn not away.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/25-10.mp3" length="4275766" type="audio/mpeg" />
-      <pubDate>Fri, 25 Dec 2020 08:00:00 EST</pubDate>
-      <itunes:duration>00:06:13</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>Lest he that heareth it put thee to shame, and thine infamy turn not away.</itunes:subtitle>
-      <itunes:summary>Lest he that heareth it put thee to shame, and thine infamy turn not away.</itunes:summary>
     </item>
     <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/24-03.mp3?pubDate=2020-12-24</guid>
