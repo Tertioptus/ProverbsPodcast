@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/28-12.mp3?pubDate=2021-03-28</guid>
+      <title>Proverbs 28:12</title>
+      <description>When righteous men do rejoice, there is great glory: but when the wicked rise, a man is hidden.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/28-12.mp3" length="6352605" type="audio/mpeg" />
+      <pubDate>Sun, 28 Mar 2021 16:00:00 EST</pubDate>
+      <itunes:duration>00:09:15</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>When righteous men do rejoice, there is great glory: but when the wicked rise, a man is hidden.</itunes:subtitle>
+      <itunes:summary>When righteous men do rejoice, there is great glory: but when the wicked rise, a man is hidden.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/28-11.mp3?pubDate=2021-03-28</guid>
       <title>Proverbs 28:11</title>
       <description>The rich man is wise in his own conceit; but the poor that hath understanding searcheth him out.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>Accuse not a servant unto his master, lest he curse thee, and thou be found guilty.</itunes:subtitle>
       <itunes:summary>Accuse not a servant unto his master, lest he curse thee, and thou be found guilty.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/28-12.mp3?pubDate=2020-03-28</guid>
-      <title>Proverbs 28:12</title>
-      <description>When righteous men do rejoice, there is great glory: but when the wicked rise, a man is hidden.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/28-12.mp3" length="6352605" type="audio/mpeg" />
-      <pubDate>Sat, 28 Mar 2020 16:00:00 EST</pubDate>
-      <itunes:duration>00:09:15</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>When righteous men do rejoice, there is great glory: but when the wicked rise, a man is hidden.</itunes:subtitle>
-      <itunes:summary>When righteous men do rejoice, there is great glory: but when the wicked rise, a man is hidden.</itunes:summary>
     </item>
   </channel>
 </rss>
