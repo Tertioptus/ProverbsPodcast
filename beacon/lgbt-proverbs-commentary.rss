@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/30-10.mp3?pubDate=2021-03-30</guid>
+      <title>Proverbs 30:10</title>
+      <description>Accuse not a servant unto his master, lest he curse thee, and thou be found guilty.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/30-10.mp3" length="7621111" type="audio/mpeg" />
+      <pubDate>Tue, 30 Mar 2021 00:00:00 EST</pubDate>
+      <itunes:duration>00:11:05</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>Accuse not a servant unto his master, lest he curse thee, and thou be found guilty.</itunes:subtitle>
+      <itunes:summary>Accuse not a servant unto his master, lest he curse thee, and thou be found guilty.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/29-12.mp3?pubDate=2021-03-29</guid>
       <title>Proverbs 29:12</title>
       <description>If a ruler hearken to lies, all his servants are wicked.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>There is a generation that curseth their father, and doth not bless their mother.</itunes:subtitle>
       <itunes:summary>There is a generation that curseth their father, and doth not bless their mother.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/30-10.mp3?pubDate=2020-03-30</guid>
-      <title>Proverbs 30:10</title>
-      <description>Accuse not a servant unto his master, lest he curse thee, and thou be found guilty.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/30-10.mp3" length="7621111" type="audio/mpeg" />
-      <pubDate>Mon, 30 Mar 2020 00:00:00 EST</pubDate>
-      <itunes:duration>00:11:05</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>Accuse not a servant unto his master, lest he curse thee, and thou be found guilty.</itunes:subtitle>
-      <itunes:summary>Accuse not a servant unto his master, lest he curse thee, and thou be found guilty.</itunes:summary>
     </item>
   </channel>
 </rss>
