@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/30-12.mp3?pubDate=2021-03-30</guid>
+      <title>Proverbs 30:12</title>
+      <description>There is a generation that are pure in their own eyes, and yet is not washed from their filthiness.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/30-12.mp3" length="7137114" type="audio/mpeg" />
+      <pubDate>Tue, 30 Mar 2021 16:00:00 EST</pubDate>
+      <itunes:duration>00:10:23</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>There is a generation that are pure in their own eyes, and yet is not washed from their filthiness.</itunes:subtitle>
+      <itunes:summary>There is a generation that are pure in their own eyes, and yet is not washed from their filthiness.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/30-11.mp3?pubDate=2021-03-30</guid>
       <title>Proverbs 30:11</title>
       <description>There is a generation that curseth their father, and doth not bless their mother.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>Who can find a virtuous woman? for her price is far above rubies.</itunes:subtitle>
       <itunes:summary>Who can find a virtuous woman? for her price is far above rubies.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/30-12.mp3?pubDate=2020-03-30</guid>
-      <title>Proverbs 30:12</title>
-      <description>There is a generation that are pure in their own eyes, and yet is not washed from their filthiness.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/30-12.mp3" length="7137114" type="audio/mpeg" />
-      <pubDate>Mon, 30 Mar 2020 16:00:00 EST</pubDate>
-      <itunes:duration>00:10:23</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>There is a generation that are pure in their own eyes, and yet is not washed from their filthiness.</itunes:subtitle>
-      <itunes:summary>There is a generation that are pure in their own eyes, and yet is not washed from their filthiness.</itunes:summary>
     </item>
   </channel>
 </rss>
