@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/31-12.mp3?pubDate=2021-03-31</guid>
+      <title>Proverbs 31:12</title>
+      <description>She will do him good and not evil all the days of her life.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/31-12.mp3" length="12078646" type="audio/mpeg" />
+      <pubDate>Wed, 31 Mar 2021 16:00:00 EST</pubDate>
+      <itunes:duration>00:17:35</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>She will do him good and not evil all the days of her life.</itunes:subtitle>
+      <itunes:summary>She will do him good and not evil all the days of her life.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/31-11.mp3?pubDate=2021-03-31</guid>
       <title>Proverbs 31:11</title>
       <description>The heart of her husband doth safely trust in her, so that he shall have no need of spoil.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>We shall find all precious substance, we shall fill our houses with spoil:</itunes:subtitle>
       <itunes:summary>We shall find all precious substance, we shall fill our houses with spoil:</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/31-12.mp3?pubDate=2020-03-31</guid>
-      <title>Proverbs 31:12</title>
-      <description>She will do him good and not evil all the days of her life.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/31-12.mp3" length="12078646" type="audio/mpeg" />
-      <pubDate>Tue, 31 Mar 2020 16:00:00 EST</pubDate>
-      <itunes:duration>00:17:35</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>She will do him good and not evil all the days of her life.</itunes:subtitle>
-      <itunes:summary>She will do him good and not evil all the days of her life.</itunes:summary>
     </item>
   </channel>
 </rss>
