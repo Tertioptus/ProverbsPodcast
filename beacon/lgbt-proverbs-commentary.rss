@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/01-13.mp3?pubDate=2021-04-01</guid>
+      <title>Proverbs 1:13</title>
+      <description>We shall find all precious substance, we shall fill our houses with spoil:</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/01-13.mp3" length="5477836" type="audio/mpeg" />
+      <pubDate>Thu, 01 Apr 2021 00:00:00 EST</pubDate>
+      <itunes:duration>00:07:58</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>We shall find all precious substance, we shall fill our houses with spoil:</itunes:subtitle>
+      <itunes:summary>We shall find all precious substance, we shall fill our houses with spoil:</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/31-12.mp3?pubDate=2021-03-31</guid>
       <title>Proverbs 31:12</title>
       <description>She will do him good and not evil all the days of her life.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>Cast in thy lot among us; let us all have one purse:</itunes:subtitle>
       <itunes:summary>Cast in thy lot among us; let us all have one purse:</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/01-13.mp3?pubDate=2020-04-01</guid>
-      <title>Proverbs 1:13</title>
-      <description>We shall find all precious substance, we shall fill our houses with spoil:</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/01-13.mp3" length="5477836" type="audio/mpeg" />
-      <pubDate>Wed, 01 Apr 2020 00:00:00 EST</pubDate>
-      <itunes:duration>00:07:58</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>We shall find all precious substance, we shall fill our houses with spoil:</itunes:subtitle>
-      <itunes:summary>We shall find all precious substance, we shall fill our houses with spoil:</itunes:summary>
     </item>
   </channel>
 </rss>
