@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/02-14.mp3?pubDate=2021-04-02</guid>
+      <title>Proverbs 2:14</title>
+      <description>Who rejoice to do evil, and delight in the frowardness of the wicked;</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/02-14.mp3" length="4217668" type="audio/mpeg" />
+      <pubDate>Fri, 02 Apr 2021 08:00:00 EST</pubDate>
+      <itunes:duration>00:06:08</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>Who rejoice to do evil, and delight in the frowardness of the wicked;</itunes:subtitle>
+      <itunes:summary>Who rejoice to do evil, and delight in the frowardness of the wicked;</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/02-13.mp3?pubDate=2021-04-02</guid>
       <title>Proverbs 2:13</title>
       <description>Who leave the paths of uprightness, to walk in the ways of darkness;</description>
@@ -4104,18 +4116,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>Surely he scorneth the scorners: but he giveth grace unto the lowly.</itunes:subtitle>
       <itunes:summary>Surely he scorneth the scorners: but he giveth grace unto the lowly.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/02-14.mp3?pubDate=2020-11-02</guid>
-      <title>Proverbs 2:14</title>
-      <description>Who rejoice to do evil, and delight in the frowardness of the wicked;</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/02-14.mp3" length="4217668" type="audio/mpeg" />
-      <pubDate>Mon, 02 Nov 2020 16:00:00 EST</pubDate>
-      <itunes:duration>00:06:08</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>Who rejoice to do evil, and delight in the frowardness of the wicked;</itunes:subtitle>
-      <itunes:summary>Who rejoice to do evil, and delight in the frowardness of the wicked;</itunes:summary>
     </item>
     <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/01-03.mp3?pubDate=2020-11-01</guid>
