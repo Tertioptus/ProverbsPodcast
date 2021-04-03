@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/03-13.mp3?pubDate=2021-04-03</guid>
+      <title>Proverbs 3:13</title>
+      <description>Happy is the man that findeth wisdom, and the man that getteth understanding.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/03-13.mp3" length="4580875" type="audio/mpeg" />
+      <pubDate>Sat, 03 Apr 2021 00:00:00 EST</pubDate>
+      <itunes:duration>00:06:40</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>Happy is the man that findeth wisdom, and the man that getteth understanding.</itunes:subtitle>
+      <itunes:summary>Happy is the man that findeth wisdom, and the man that getteth understanding.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/02-15.mp3?pubDate=2021-04-02</guid>
       <title>Proverbs 2:15</title>
       <description>Whose ways are crooked, and they froward in their paths:</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>For the merchandise of it is better than the merchandise of silver, and the gain thereof than fine gold.</itunes:subtitle>
       <itunes:summary>For the merchandise of it is better than the merchandise of silver, and the gain thereof than fine gold.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/03-13.mp3?pubDate=2020-04-03</guid>
-      <title>Proverbs 3:13</title>
-      <description>Happy is the man that findeth wisdom, and the man that getteth understanding.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/03-13.mp3" length="4580875" type="audio/mpeg" />
-      <pubDate>Fri, 03 Apr 2020 00:00:00 EST</pubDate>
-      <itunes:duration>00:06:40</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>Happy is the man that findeth wisdom, and the man that getteth understanding.</itunes:subtitle>
-      <itunes:summary>Happy is the man that findeth wisdom, and the man that getteth understanding.</itunes:summary>
     </item>
   </channel>
 </rss>
