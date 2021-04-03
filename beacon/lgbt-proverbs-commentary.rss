@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/03-14.mp3?pubDate=2021-04-03</guid>
+      <title>Proverbs 3:14</title>
+      <description>For the merchandise of it is better than the merchandise of silver, and the gain thereof than fine gold.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/03-14.mp3" length="3788006" type="audio/mpeg" />
+      <pubDate>Sat, 03 Apr 2021 08:00:00 EST</pubDate>
+      <itunes:duration>00:05:30</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>For the merchandise of it is better than the merchandise of silver, and the gain thereof than fine gold.</itunes:subtitle>
+      <itunes:summary>For the merchandise of it is better than the merchandise of silver, and the gain thereof than fine gold.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/03-13.mp3?pubDate=2021-04-03</guid>
       <title>Proverbs 3:13</title>
       <description>Happy is the man that findeth wisdom, and the man that getteth understanding.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>She is more precious than rubies: and all the things thou canst desire are not to be compared unto her.</itunes:subtitle>
       <itunes:summary>She is more precious than rubies: and all the things thou canst desire are not to be compared unto her.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/03-14.mp3?pubDate=2020-04-03</guid>
-      <title>Proverbs 3:14</title>
-      <description>For the merchandise of it is better than the merchandise of silver, and the gain thereof than fine gold.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/03-14.mp3" length="3788006" type="audio/mpeg" />
-      <pubDate>Fri, 03 Apr 2020 08:00:00 EST</pubDate>
-      <itunes:duration>00:05:30</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>For the merchandise of it is better than the merchandise of silver, and the gain thereof than fine gold.</itunes:subtitle>
-      <itunes:summary>For the merchandise of it is better than the merchandise of silver, and the gain thereof than fine gold.</itunes:summary>
     </item>
   </channel>
 </rss>
