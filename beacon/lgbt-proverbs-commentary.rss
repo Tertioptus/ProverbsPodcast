@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/04-13.mp3?pubDate=2021-04-04</guid>
+      <title>Proverbs 4:13</title>
+      <description>Take fast hold of instruction; let her not go: keep her; for she is thy life.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/04-13.mp3" length="7333972" type="audio/mpeg" />
+      <pubDate>Sun, 04 Apr 2021 00:00:00 EST</pubDate>
+      <itunes:duration>00:10:40</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>Take fast hold of instruction; let her not go: keep her; for she is thy life.</itunes:subtitle>
+      <itunes:summary>Take fast hold of instruction; let her not go: keep her; for she is thy life.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/03-15.mp3?pubDate=2021-04-03</guid>
       <title>Proverbs 3:15</title>
       <description>She is more precious than rubies: and all the things thou canst desire are not to be compared unto her.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>Enter not into the path of the wicked, and go not in the way of evil men.</itunes:subtitle>
       <itunes:summary>Enter not into the path of the wicked, and go not in the way of evil men.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/04-13.mp3?pubDate=2020-04-04</guid>
-      <title>Proverbs 4:13</title>
-      <description>Take fast hold of instruction; let her not go: keep her; for she is thy life.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/04-13.mp3" length="7333972" type="audio/mpeg" />
-      <pubDate>Sat, 04 Apr 2020 00:00:00 EST</pubDate>
-      <itunes:duration>00:10:40</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>Take fast hold of instruction; let her not go: keep her; for she is thy life.</itunes:subtitle>
-      <itunes:summary>Take fast hold of instruction; let her not go: keep her; for she is thy life.</itunes:summary>
     </item>
   </channel>
 </rss>
