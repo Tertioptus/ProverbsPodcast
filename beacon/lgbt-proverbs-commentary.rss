@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/04-15.mp3?pubDate=2021-04-04</guid>
+      <title>Proverbs 4:15</title>
+      <description>Avoid it, pass not by it, turn from it, and pass away.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/04-15.mp3" length="9375285" type="audio/mpeg" />
+      <pubDate>Sun, 04 Apr 2021 16:00:00 EST</pubDate>
+      <itunes:duration>00:13:39</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>Avoid it, pass not by it, turn from it, and pass away.</itunes:subtitle>
+      <itunes:summary>Avoid it, pass not by it, turn from it, and pass away.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/04-14.mp3?pubDate=2021-04-04</guid>
       <title>Proverbs 4:14</title>
       <description>Enter not into the path of the wicked, and go not in the way of evil men.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>He winketh with his eyes, he speaketh with his feet, he teacheth with his fingers;</itunes:subtitle>
       <itunes:summary>He winketh with his eyes, he speaketh with his feet, he teacheth with his fingers;</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/04-15.mp3?pubDate=2020-04-04</guid>
-      <title>Proverbs 4:15</title>
-      <description>Avoid it, pass not by it, turn from it, and pass away.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/04-15.mp3" length="9375285" type="audio/mpeg" />
-      <pubDate>Sat, 04 Apr 2020 16:00:00 EST</pubDate>
-      <itunes:duration>00:13:39</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>Avoid it, pass not by it, turn from it, and pass away.</itunes:subtitle>
-      <itunes:summary>Avoid it, pass not by it, turn from it, and pass away.</itunes:summary>
     </item>
   </channel>
 </rss>
