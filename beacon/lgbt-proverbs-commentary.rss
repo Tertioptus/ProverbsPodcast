@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/06-15.mp3?pubDate=2021-04-06</guid>
+      <title>Proverbs 6:15</title>
+      <description>Therefore shall his calamity come suddenly; suddenly shall he be broken without remedy.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/06-15.mp3" length="4818276" type="audio/mpeg" />
+      <pubDate>Tue, 06 Apr 2021 16:00:00 EST</pubDate>
+      <itunes:duration>00:07:00</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>Therefore shall his calamity come suddenly; suddenly shall he be broken without remedy.</itunes:subtitle>
+      <itunes:summary>Therefore shall his calamity come suddenly; suddenly shall he be broken without remedy.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/06-14.mp3?pubDate=2021-04-06</guid>
       <title>Proverbs 6:14</title>
       <description>Frowardness is in his heart, he deviseth mischief continually; he soweth discord.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>So she caught him, and kissed him, and with an impudent face said unto him,</itunes:subtitle>
       <itunes:summary>So she caught him, and kissed him, and with an impudent face said unto him,</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/06-15.mp3?pubDate=2020-04-06</guid>
-      <title>Proverbs 6:15</title>
-      <description>Therefore shall his calamity come suddenly; suddenly shall he be broken without remedy.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/06-15.mp3" length="4818276" type="audio/mpeg" />
-      <pubDate>Mon, 06 Apr 2020 16:00:00 EST</pubDate>
-      <itunes:duration>00:07:00</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>Therefore shall his calamity come suddenly; suddenly shall he be broken without remedy.</itunes:subtitle>
-      <itunes:summary>Therefore shall his calamity come suddenly; suddenly shall he be broken without remedy.</itunes:summary>
     </item>
   </channel>
 </rss>
