@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/06-13.mp3?pubDate=2021-04-06</guid>
+      <title>Proverbs 6:13</title>
+      <description>He winketh with his eyes, he speaketh with his feet, he teacheth with his fingers;</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/06-13.mp3" length="4483908" type="audio/mpeg" />
+      <pubDate>Tue, 06 Apr 2021 00:00:00 EST</pubDate>
+      <itunes:duration>00:06:31</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>He winketh with his eyes, he speaketh with his feet, he teacheth with his fingers;</itunes:subtitle>
+      <itunes:summary>He winketh with his eyes, he speaketh with his feet, he teacheth with his fingers;</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/05-15.mp3?pubDate=2021-04-05</guid>
       <title>Proverbs 5:15</title>
       <description>Drink waters out of thine own cistern, and running waters out of thine own well.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>Frowardness is in his heart, he deviseth mischief continually; he soweth discord.</itunes:subtitle>
       <itunes:summary>Frowardness is in his heart, he deviseth mischief continually; he soweth discord.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/06-13.mp3?pubDate=2020-04-06</guid>
-      <title>Proverbs 6:13</title>
-      <description>He winketh with his eyes, he speaketh with his feet, he teacheth with his fingers;</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/06-13.mp3" length="4483908" type="audio/mpeg" />
-      <pubDate>Mon, 06 Apr 2020 00:00:00 EST</pubDate>
-      <itunes:duration>00:06:31</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>He winketh with his eyes, he speaketh with his feet, he teacheth with his fingers;</itunes:subtitle>
-      <itunes:summary>He winketh with his eyes, he speaketh with his feet, he teacheth with his fingers;</itunes:summary>
     </item>
   </channel>
 </rss>
