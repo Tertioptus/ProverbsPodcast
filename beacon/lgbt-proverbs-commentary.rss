@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/06-14.mp3?pubDate=2021-04-06</guid>
+      <title>Proverbs 6:14</title>
+      <description>Frowardness is in his heart, he deviseth mischief continually; he soweth discord.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/06-14.mp3" length="6413208" type="audio/mpeg" />
+      <pubDate>Tue, 06 Apr 2021 08:00:00 EST</pubDate>
+      <itunes:duration>00:09:20</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>Frowardness is in his heart, he deviseth mischief continually; he soweth discord.</itunes:subtitle>
+      <itunes:summary>Frowardness is in his heart, he deviseth mischief continually; he soweth discord.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/06-13.mp3?pubDate=2021-04-06</guid>
       <title>Proverbs 6:13</title>
       <description>He winketh with his eyes, he speaketh with his feet, he teacheth with his fingers;</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>Therefore shall his calamity come suddenly; suddenly shall he be broken without remedy.</itunes:subtitle>
       <itunes:summary>Therefore shall his calamity come suddenly; suddenly shall he be broken without remedy.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/06-14.mp3?pubDate=2020-04-06</guid>
-      <title>Proverbs 6:14</title>
-      <description>Frowardness is in his heart, he deviseth mischief continually; he soweth discord.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/06-14.mp3" length="6413208" type="audio/mpeg" />
-      <pubDate>Mon, 06 Apr 2020 08:00:00 EST</pubDate>
-      <itunes:duration>00:09:20</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>Frowardness is in his heart, he deviseth mischief continually; he soweth discord.</itunes:subtitle>
-      <itunes:summary>Frowardness is in his heart, he deviseth mischief continually; he soweth discord.</itunes:summary>
     </item>
   </channel>
 </rss>
