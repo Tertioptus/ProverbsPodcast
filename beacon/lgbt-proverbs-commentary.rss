@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/07-13.mp3?pubDate=2021-04-07</guid>
+      <title>Proverbs 7:13</title>
+      <description>So she caught him, and kissed him, and with an impudent face said unto him,</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/07-13.mp3" length="8348777" type="audio/mpeg" />
+      <pubDate>Wed, 07 Apr 2021 00:00:00 EST</pubDate>
+      <itunes:duration>00:12:09</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>So she caught him, and kissed him, and with an impudent face said unto him,</itunes:subtitle>
+      <itunes:summary>So she caught him, and kissed him, and with an impudent face said unto him,</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/06-15.mp3?pubDate=2021-04-06</guid>
       <title>Proverbs 6:15</title>
       <description>Therefore shall his calamity come suddenly; suddenly shall he be broken without remedy.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>I have peace offerings with me; this day have I payed my vows.</itunes:subtitle>
       <itunes:summary>I have peace offerings with me; this day have I payed my vows.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/07-13.mp3?pubDate=2020-04-07</guid>
-      <title>Proverbs 7:13</title>
-      <description>So she caught him, and kissed him, and with an impudent face said unto him,</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/07-13.mp3" length="8348777" type="audio/mpeg" />
-      <pubDate>Tue, 07 Apr 2020 00:00:00 EST</pubDate>
-      <itunes:duration>00:12:09</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>So she caught him, and kissed him, and with an impudent face said unto him,</itunes:subtitle>
-      <itunes:summary>So she caught him, and kissed him, and with an impudent face said unto him,</itunes:summary>
     </item>
   </channel>
 </rss>
