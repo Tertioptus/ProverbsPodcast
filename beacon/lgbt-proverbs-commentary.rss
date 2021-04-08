@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/08-13.mp3?pubDate=2021-04-08</guid>
+      <title>Proverbs 8:13</title>
+      <description>The fear of the LORD is to hate evil: pride, and arrogancy, and the evil way, and the froward mouth, do I hate.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/08-13.mp3" length="5467784" type="audio/mpeg" />
+      <pubDate>Thu, 08 Apr 2021 00:00:00 EST</pubDate>
+      <itunes:duration>00:07:57</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>The fear of the LORD is to hate evil: pride, and arrogancy, and the evil way, and the froward mouth, do I hate.</itunes:subtitle>
+      <itunes:summary>The fear of the LORD is to hate evil: pride, and arrogancy, and the evil way, and the froward mouth, do I hate.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/07-15.mp3?pubDate=2021-04-07</guid>
       <title>Proverbs 7:15</title>
       <description>Therefore came I forth to meet thee, diligently to seek thy face, and I have found thee.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>Counsel is mine, and sound wisdom: I am understanding; I have strength.</itunes:subtitle>
       <itunes:summary>Counsel is mine, and sound wisdom: I am understanding; I have strength.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/08-13.mp3?pubDate=2020-04-08</guid>
-      <title>Proverbs 8:13</title>
-      <description>The fear of the LORD is to hate evil: pride, and arrogancy, and the evil way, and the froward mouth, do I hate.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/08-13.mp3" length="5467784" type="audio/mpeg" />
-      <pubDate>Wed, 08 Apr 2020 00:00:00 EST</pubDate>
-      <itunes:duration>00:07:57</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>The fear of the LORD is to hate evil: pride, and arrogancy, and the evil way, and the froward mouth, do I hate.</itunes:subtitle>
-      <itunes:summary>The fear of the LORD is to hate evil: pride, and arrogancy, and the evil way, and the froward mouth, do I hate.</itunes:summary>
     </item>
   </channel>
 </rss>
