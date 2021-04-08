@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/08-14.mp3?pubDate=2021-04-08</guid>
+      <title>Proverbs 8:14</title>
+      <description>Counsel is mine, and sound wisdom: I am understanding; I have strength.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/08-14.mp3" length="11602589" type="audio/mpeg" />
+      <pubDate>Thu, 08 Apr 2021 08:00:00 EST</pubDate>
+      <itunes:duration>00:16:53</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>Counsel is mine, and sound wisdom: I am understanding; I have strength.</itunes:subtitle>
+      <itunes:summary>Counsel is mine, and sound wisdom: I am understanding; I have strength.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/08-13.mp3?pubDate=2021-04-08</guid>
       <title>Proverbs 8:13</title>
       <description>The fear of the LORD is to hate evil: pride, and arrogancy, and the evil way, and the froward mouth, do I hate.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>By me kings reign, and princes decree justice.</itunes:subtitle>
       <itunes:summary>By me kings reign, and princes decree justice.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/08-14.mp3?pubDate=2020-04-08</guid>
-      <title>Proverbs 8:14</title>
-      <description>Counsel is mine, and sound wisdom: I am understanding; I have strength.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/08-14.mp3" length="11602589" type="audio/mpeg" />
-      <pubDate>Wed, 08 Apr 2020 08:00:00 EST</pubDate>
-      <itunes:duration>00:16:53</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>Counsel is mine, and sound wisdom: I am understanding; I have strength.</itunes:subtitle>
-      <itunes:summary>Counsel is mine, and sound wisdom: I am understanding; I have strength.</itunes:summary>
     </item>
   </channel>
 </rss>
