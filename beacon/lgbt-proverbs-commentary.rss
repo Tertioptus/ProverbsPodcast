@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/09-13.mp3?pubDate=2021-04-09</guid>
+      <title>Proverbs 9:13</title>
+      <description>A foolish woman is clamorous: she is simple, and knoweth nothing.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/09-13.mp3" length="3873688" type="audio/mpeg" />
+      <pubDate>Fri, 09 Apr 2021 00:00:00 EST</pubDate>
+      <itunes:duration>00:05:38</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>A foolish woman is clamorous: she is simple, and knoweth nothing.</itunes:subtitle>
+      <itunes:summary>A foolish woman is clamorous: she is simple, and knoweth nothing.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/08-15.mp3?pubDate=2021-04-08</guid>
       <title>Proverbs 8:15</title>
       <description>By me kings reign, and princes decree justice.</description>
@@ -4860,18 +4872,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>For she sitteth at the door of her house, on a seat in the high places of the city,</itunes:subtitle>
       <itunes:summary>For she sitteth at the door of her house, on a seat in the high places of the city,</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/09-13.mp3?pubDate=2020-10-09</guid>
-      <title>Proverbs 9:13</title>
-      <description>A foolish woman is clamorous: she is simple, and knoweth nothing.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/09-13.mp3" length="3873688" type="audio/mpeg" />
-      <pubDate>Fri, 09 Oct 2020 00:00:00 EST</pubDate>
-      <itunes:duration>00:05:38</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>A foolish woman is clamorous: she is simple, and knoweth nothing.</itunes:subtitle>
-      <itunes:summary>A foolish woman is clamorous: she is simple, and knoweth nothing.</itunes:summary>
     </item>
     <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/08-33.mp3?pubDate=2020-10-08</guid>
