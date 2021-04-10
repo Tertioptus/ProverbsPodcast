@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/10-13.mp3?pubDate=2021-04-10</guid>
+      <title>Proverbs 10:13</title>
+      <description>In the lips of him that hath understanding wisdom is found: but a rod is for the back of him that is void of understanding.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/10-13.mp3" length="5799227" type="audio/mpeg" />
+      <pubDate>Sat, 10 Apr 2021 00:00:00 EST</pubDate>
+      <itunes:duration>00:08:26</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>In the lips of him that hath understanding wisdom is found: but a rod is for the back of him that is void of understanding.</itunes:subtitle>
+      <itunes:summary>In the lips of him that hath understanding wisdom is found: but a rod is for the back of him that is void of understanding.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/09-15.mp3?pubDate=2021-04-09</guid>
       <title>Proverbs 9:15</title>
       <description>To call passengers who go right on their ways:</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>Wise men lay up knowledge: but the mouth of the foolish is near destruction.</itunes:subtitle>
       <itunes:summary>Wise men lay up knowledge: but the mouth of the foolish is near destruction.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/10-13.mp3?pubDate=2020-04-10</guid>
-      <title>Proverbs 10:13</title>
-      <description>In the lips of him that hath understanding wisdom is found: but a rod is for the back of him that is void of understanding.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/10-13.mp3" length="5799227" type="audio/mpeg" />
-      <pubDate>Fri, 10 Apr 2020 00:00:00 EST</pubDate>
-      <itunes:duration>00:08:26</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>In the lips of him that hath understanding wisdom is found: but a rod is for the back of him that is void of understanding.</itunes:subtitle>
-      <itunes:summary>In the lips of him that hath understanding wisdom is found: but a rod is for the back of him that is void of understanding.</itunes:summary>
     </item>
   </channel>
 </rss>
