@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/10-15.mp3?pubDate=2021-04-10</guid>
+      <title>Proverbs 10:15</title>
+      <description>The rich man's wealth is his strong city: the destruction of the poor is their poverty.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/10-15.mp3" length="7974286" type="audio/mpeg" />
+      <pubDate>Sat, 10 Apr 2021 16:00:00 EST</pubDate>
+      <itunes:duration>00:11:36</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>The rich man's wealth is his strong city: the destruction of the poor is their poverty.</itunes:subtitle>
+      <itunes:summary>The rich man's wealth is his strong city: the destruction of the poor is their poverty.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/10-14.mp3?pubDate=2021-04-10</guid>
       <title>Proverbs 10:14</title>
       <description>Wise men lay up knowledge: but the mouth of the foolish is near destruction.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>A talebearer revealeth secrets: but he that is of a faithful spirit concealeth the matter.</itunes:subtitle>
       <itunes:summary>A talebearer revealeth secrets: but he that is of a faithful spirit concealeth the matter.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/10-15.mp3?pubDate=2020-04-10</guid>
-      <title>Proverbs 10:15</title>
-      <description>The rich man's wealth is his strong city: the destruction of the poor is their poverty.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/10-15.mp3" length="7974286" type="audio/mpeg" />
-      <pubDate>Fri, 10 Apr 2020 16:00:00 EST</pubDate>
-      <itunes:duration>00:11:36</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>The rich man's wealth is his strong city: the destruction of the poor is their poverty.</itunes:subtitle>
-      <itunes:summary>The rich man's wealth is his strong city: the destruction of the poor is their poverty.</itunes:summary>
     </item>
   </channel>
 </rss>
