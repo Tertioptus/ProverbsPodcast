@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/11-13.mp3?pubDate=2021-04-11</guid>
+      <title>Proverbs 11:13</title>
+      <description>A talebearer revealeth secrets: but he that is of a faithful spirit concealeth the matter.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/11-13.mp3" length="7570538" type="audio/mpeg" />
+      <pubDate>Sun, 11 Apr 2021 00:00:00 EST</pubDate>
+      <itunes:duration>00:11:01</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>A talebearer revealeth secrets: but he that is of a faithful spirit concealeth the matter.</itunes:subtitle>
+      <itunes:summary>A talebearer revealeth secrets: but he that is of a faithful spirit concealeth the matter.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/10-15.mp3?pubDate=2021-04-10</guid>
       <title>Proverbs 10:15</title>
       <description>The rich man's wealth is his strong city: the destruction of the poor is their poverty.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>Where no counsel is, the people fall: but in the multitude of counsellors there is safety.</itunes:subtitle>
       <itunes:summary>Where no counsel is, the people fall: but in the multitude of counsellors there is safety.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/11-13.mp3?pubDate=2020-04-11</guid>
-      <title>Proverbs 11:13</title>
-      <description>A talebearer revealeth secrets: but he that is of a faithful spirit concealeth the matter.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/11-13.mp3" length="7570538" type="audio/mpeg" />
-      <pubDate>Sat, 11 Apr 2020 00:00:00 EST</pubDate>
-      <itunes:duration>00:11:01</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>A talebearer revealeth secrets: but he that is of a faithful spirit concealeth the matter.</itunes:subtitle>
-      <itunes:summary>A talebearer revealeth secrets: but he that is of a faithful spirit concealeth the matter.</itunes:summary>
     </item>
   </channel>
 </rss>
