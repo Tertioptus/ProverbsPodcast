@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/11-14.mp3?pubDate=2021-04-11</guid>
+      <title>Proverbs 11:14</title>
+      <description>Where no counsel is, the people fall: but in the multitude of counsellors there is safety.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/11-14.mp3" length="5344905" type="audio/mpeg" />
+      <pubDate>Sun, 11 Apr 2021 08:00:00 EST</pubDate>
+      <itunes:duration>00:07:46</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>Where no counsel is, the people fall: but in the multitude of counsellors there is safety.</itunes:subtitle>
+      <itunes:summary>Where no counsel is, the people fall: but in the multitude of counsellors there is safety.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/11-13.mp3?pubDate=2021-04-11</guid>
       <title>Proverbs 11:13</title>
       <description>A talebearer revealeth secrets: but he that is of a faithful spirit concealeth the matter.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>He that is surety for a stranger shall smart for it: and he that hateth suretiship is sure.</itunes:subtitle>
       <itunes:summary>He that is surety for a stranger shall smart for it: and he that hateth suretiship is sure.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/11-14.mp3?pubDate=2020-04-11</guid>
-      <title>Proverbs 11:14</title>
-      <description>Where no counsel is, the people fall: but in the multitude of counsellors there is safety.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/11-14.mp3" length="5344905" type="audio/mpeg" />
-      <pubDate>Sat, 11 Apr 2020 08:00:00 EST</pubDate>
-      <itunes:duration>00:07:46</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>Where no counsel is, the people fall: but in the multitude of counsellors there is safety.</itunes:subtitle>
-      <itunes:summary>Where no counsel is, the people fall: but in the multitude of counsellors there is safety.</itunes:summary>
     </item>
   </channel>
 </rss>
