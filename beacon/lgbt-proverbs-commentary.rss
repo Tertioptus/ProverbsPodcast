@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/12-15.mp3?pubDate=2021-04-12</guid>
+      <title>Proverbs 12:15</title>
+      <description>The way of a fool is right in his own eyes: but he that hearkeneth unto counsel is wise.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/12-15.mp3" length="4197607" type="audio/mpeg" />
+      <pubDate>Mon, 12 Apr 2021 16:00:00 EST</pubDate>
+      <itunes:duration>00:06:06</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>The way of a fool is right in his own eyes: but he that hearkeneth unto counsel is wise.</itunes:subtitle>
+      <itunes:summary>The way of a fool is right in his own eyes: but he that hearkeneth unto counsel is wise.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/12-14.mp3?pubDate=2021-04-12</guid>
       <title>Proverbs 12:14</title>
       <description>A man shall be satisfied with good by the fruit of his mouth: and the recompence of a man's hands shall be rendered unto him.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>Good understanding giveth favour: but the way of transgressors is hard.</itunes:subtitle>
       <itunes:summary>Good understanding giveth favour: but the way of transgressors is hard.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/12-15.mp3?pubDate=2020-04-12</guid>
-      <title>Proverbs 12:15</title>
-      <description>The way of a fool is right in his own eyes: but he that hearkeneth unto counsel is wise.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/12-15.mp3" length="4197607" type="audio/mpeg" />
-      <pubDate>Sun, 12 Apr 2020 16:00:00 EST</pubDate>
-      <itunes:duration>00:06:06</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>The way of a fool is right in his own eyes: but he that hearkeneth unto counsel is wise.</itunes:subtitle>
-      <itunes:summary>The way of a fool is right in his own eyes: but he that hearkeneth unto counsel is wise.</itunes:summary>
     </item>
   </channel>
 </rss>
