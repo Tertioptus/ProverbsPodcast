@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/12-13.mp3?pubDate=2021-04-12</guid>
+      <title>Proverbs 12:13</title>
+      <description>The wicked is snared by the transgression of his lips: but the just shall come out of trouble.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/12-13.mp3" length="4587563" type="audio/mpeg" />
+      <pubDate>Mon, 12 Apr 2021 00:00:00 EST</pubDate>
+      <itunes:duration>00:06:40</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>The wicked is snared by the transgression of his lips: but the just shall come out of trouble.</itunes:subtitle>
+      <itunes:summary>The wicked is snared by the transgression of his lips: but the just shall come out of trouble.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/11-15.mp3?pubDate=2021-04-11</guid>
       <title>Proverbs 11:15</title>
       <description>He that is surety for a stranger shall smart for it: and he that hateth suretiship is sure.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>A man shall be satisfied with good by the fruit of his mouth: and the recompence of a man's hands shall be rendered unto him.</itunes:subtitle>
       <itunes:summary>A man shall be satisfied with good by the fruit of his mouth: and the recompence of a man's hands shall be rendered unto him.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/12-13.mp3?pubDate=2020-04-12</guid>
-      <title>Proverbs 12:13</title>
-      <description>The wicked is snared by the transgression of his lips: but the just shall come out of trouble.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/12-13.mp3" length="4587563" type="audio/mpeg" />
-      <pubDate>Sun, 12 Apr 2020 00:00:00 EST</pubDate>
-      <itunes:duration>00:06:40</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>The wicked is snared by the transgression of his lips: but the just shall come out of trouble.</itunes:subtitle>
-      <itunes:summary>The wicked is snared by the transgression of his lips: but the just shall come out of trouble.</itunes:summary>
     </item>
   </channel>
 </rss>
