@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/14-13.mp3?pubDate=2021-04-14</guid>
+      <title>Proverbs 14:13</title>
+      <description>Even in laughter the heart is sorrowful; and the end of that mirth is heaviness.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/14-13.mp3" length="4407423" type="audio/mpeg" />
+      <pubDate>Wed, 14 Apr 2021 00:00:00 EST</pubDate>
+      <itunes:duration>00:06:25</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>Even in laughter the heart is sorrowful; and the end of that mirth is heaviness.</itunes:subtitle>
+      <itunes:summary>Even in laughter the heart is sorrowful; and the end of that mirth is heaviness.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/13-15.mp3?pubDate=2021-04-13</guid>
       <title>Proverbs 13:15</title>
       <description>Good understanding giveth favour: but the way of transgressors is hard.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>The backslider in heart shall be filled with his own ways: and a good man shall be satisfied from himself.</itunes:subtitle>
       <itunes:summary>The backslider in heart shall be filled with his own ways: and a good man shall be satisfied from himself.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/14-13.mp3?pubDate=2020-04-14</guid>
-      <title>Proverbs 14:13</title>
-      <description>Even in laughter the heart is sorrowful; and the end of that mirth is heaviness.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/14-13.mp3" length="4407423" type="audio/mpeg" />
-      <pubDate>Tue, 14 Apr 2020 00:00:00 EST</pubDate>
-      <itunes:duration>00:06:25</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>Even in laughter the heart is sorrowful; and the end of that mirth is heaviness.</itunes:subtitle>
-      <itunes:summary>Even in laughter the heart is sorrowful; and the end of that mirth is heaviness.</itunes:summary>
     </item>
   </channel>
 </rss>
