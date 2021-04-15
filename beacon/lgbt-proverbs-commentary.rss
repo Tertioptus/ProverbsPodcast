@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/15-15.mp3?pubDate=2021-04-15</guid>
+      <title>Proverbs 15:15</title>
+      <description>All the days of the afflicted are evil: but he that is of a merry heart hath a continual feast.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/15-15.mp3" length="12086587" type="audio/mpeg" />
+      <pubDate>Thu, 15 Apr 2021 16:00:00 EST</pubDate>
+      <itunes:duration>00:17:36</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>All the days of the afflicted are evil: but he that is of a merry heart hath a continual feast.</itunes:subtitle>
+      <itunes:summary>All the days of the afflicted are evil: but he that is of a merry heart hath a continual feast.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/15-14.mp3?pubDate=2021-04-15</guid>
       <title>Proverbs 15:14</title>
       <description>The heart of him that hath understanding seeketh knowledge: but the mouth of fools feedeth on foolishness.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>Righteous lips are the delight of kings; and they love him that speaketh right.</itunes:subtitle>
       <itunes:summary>Righteous lips are the delight of kings; and they love him that speaketh right.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/15-15.mp3?pubDate=2020-04-15</guid>
-      <title>Proverbs 15:15</title>
-      <description>All the days of the afflicted are evil: but he that is of a merry heart hath a continual feast.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/15-15.mp3" length="12086587" type="audio/mpeg" />
-      <pubDate>Wed, 15 Apr 2020 16:00:00 EST</pubDate>
-      <itunes:duration>00:17:36</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>All the days of the afflicted are evil: but he that is of a merry heart hath a continual feast.</itunes:subtitle>
-      <itunes:summary>All the days of the afflicted are evil: but he that is of a merry heart hath a continual feast.</itunes:summary>
     </item>
   </channel>
 </rss>
