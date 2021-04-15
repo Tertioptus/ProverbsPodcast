@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/15-14.mp3?pubDate=2021-04-15</guid>
+      <title>Proverbs 15:14</title>
+      <description>The heart of him that hath understanding seeketh knowledge: but the mouth of fools feedeth on foolishness.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/15-14.mp3" length="6439122" type="audio/mpeg" />
+      <pubDate>Thu, 15 Apr 2021 08:00:00 EST</pubDate>
+      <itunes:duration>00:09:22</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>The heart of him that hath understanding seeketh knowledge: but the mouth of fools feedeth on foolishness.</itunes:subtitle>
+      <itunes:summary>The heart of him that hath understanding seeketh knowledge: but the mouth of fools feedeth on foolishness.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/15-13.mp3?pubDate=2021-04-15</guid>
       <title>Proverbs 15:13</title>
       <description>A merry heart maketh a cheerful countenance: but by sorrow of the heart the spirit is broken.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>All the days of the afflicted are evil: but he that is of a merry heart hath a continual feast.</itunes:subtitle>
       <itunes:summary>All the days of the afflicted are evil: but he that is of a merry heart hath a continual feast.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/15-14.mp3?pubDate=2020-04-15</guid>
-      <title>Proverbs 15:14</title>
-      <description>The heart of him that hath understanding seeketh knowledge: but the mouth of fools feedeth on foolishness.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/15-14.mp3" length="6439122" type="audio/mpeg" />
-      <pubDate>Wed, 15 Apr 2020 08:00:00 EST</pubDate>
-      <itunes:duration>00:09:22</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>The heart of him that hath understanding seeketh knowledge: but the mouth of fools feedeth on foolishness.</itunes:subtitle>
-      <itunes:summary>The heart of him that hath understanding seeketh knowledge: but the mouth of fools feedeth on foolishness.</itunes:summary>
     </item>
   </channel>
 </rss>
