@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/16-15.mp3?pubDate=2021-04-16</guid>
+      <title>Proverbs 16:15</title>
+      <description>In the light of the king's countenance is life; and his favour is as a cloud of the latter rain.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/16-15.mp3" length="3635034" type="audio/mpeg" />
+      <pubDate>Fri, 16 Apr 2021 16:00:00 EST</pubDate>
+      <itunes:duration>00:05:17</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>In the light of the king's countenance is life; and his favour is as a cloud of the latter rain.</itunes:subtitle>
+      <itunes:summary>In the light of the king's countenance is life; and his favour is as a cloud of the latter rain.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/16-14.mp3?pubDate=2021-04-16</guid>
       <title>Proverbs 16:14</title>
       <description>The wrath of a king is as messengers of death: but a wise man will pacify it.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>Whoso rewardeth evil for good, evil shall not depart from his house.</itunes:subtitle>
       <itunes:summary>Whoso rewardeth evil for good, evil shall not depart from his house.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/16-15.mp3?pubDate=2020-04-16</guid>
-      <title>Proverbs 16:15</title>
-      <description>In the light of the king's countenance is life; and his favour is as a cloud of the latter rain.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/16-15.mp3" length="3635034" type="audio/mpeg" />
-      <pubDate>Thu, 16 Apr 2020 16:00:00 EST</pubDate>
-      <itunes:duration>00:05:17</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>In the light of the king's countenance is life; and his favour is as a cloud of the latter rain.</itunes:subtitle>
-      <itunes:summary>In the light of the king's countenance is life; and his favour is as a cloud of the latter rain.</itunes:summary>
     </item>
   </channel>
 </rss>
