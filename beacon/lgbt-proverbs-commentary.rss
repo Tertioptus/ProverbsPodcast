@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/16-13.mp3?pubDate=2021-04-16</guid>
+      <title>Proverbs 16:13</title>
+      <description>Righteous lips are the delight of kings; and they love him that speaketh right.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/16-13.mp3" length="6055854" type="audio/mpeg" />
+      <pubDate>Fri, 16 Apr 2021 00:00:00 EST</pubDate>
+      <itunes:duration>00:08:49</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>Righteous lips are the delight of kings; and they love him that speaketh right.</itunes:subtitle>
+      <itunes:summary>Righteous lips are the delight of kings; and they love him that speaketh right.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/15-15.mp3?pubDate=2021-04-15</guid>
       <title>Proverbs 15:15</title>
       <description>All the days of the afflicted are evil: but he that is of a merry heart hath a continual feast.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>The wrath of a king is as messengers of death: but a wise man will pacify it.</itunes:subtitle>
       <itunes:summary>The wrath of a king is as messengers of death: but a wise man will pacify it.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/16-13.mp3?pubDate=2020-04-16</guid>
-      <title>Proverbs 16:13</title>
-      <description>Righteous lips are the delight of kings; and they love him that speaketh right.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/16-13.mp3" length="6055854" type="audio/mpeg" />
-      <pubDate>Thu, 16 Apr 2020 00:00:00 EST</pubDate>
-      <itunes:duration>00:08:49</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>Righteous lips are the delight of kings; and they love him that speaketh right.</itunes:subtitle>
-      <itunes:summary>Righteous lips are the delight of kings; and they love him that speaketh right.</itunes:summary>
     </item>
   </channel>
 </rss>
