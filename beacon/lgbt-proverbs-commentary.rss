@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/17-15.mp3?pubDate=2021-04-17</guid>
+      <title>Proverbs 17:15</title>
+      <description>He that justifieth the wicked, and he that condemneth the just, even they both are abomination to the LORD.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/17-15.mp3" length="10551841" type="audio/mpeg" />
+      <pubDate>Sat, 17 Apr 2021 16:00:00 EST</pubDate>
+      <itunes:duration>00:15:21</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>He that justifieth the wicked, and he that condemneth the just, even they both are abomination to the LORD.</itunes:subtitle>
+      <itunes:summary>He that justifieth the wicked, and he that condemneth the just, even they both are abomination to the LORD.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/17-14.mp3?pubDate=2021-04-17</guid>
       <title>Proverbs 17:14</title>
       <description>The beginning of strife is as when one letteth out water: therefore leave off contention, before it be meddled with.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>A foolish son is the calamity of his father: and the contentions of a wife are a continual dropping.</itunes:subtitle>
       <itunes:summary>A foolish son is the calamity of his father: and the contentions of a wife are a continual dropping.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/17-15.mp3?pubDate=2020-04-17</guid>
-      <title>Proverbs 17:15</title>
-      <description>He that justifieth the wicked, and he that condemneth the just, even they both are abomination to the LORD.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/17-15.mp3" length="10551841" type="audio/mpeg" />
-      <pubDate>Fri, 17 Apr 2020 16:00:00 EST</pubDate>
-      <itunes:duration>00:15:21</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>He that justifieth the wicked, and he that condemneth the just, even they both are abomination to the LORD.</itunes:subtitle>
-      <itunes:summary>He that justifieth the wicked, and he that condemneth the just, even they both are abomination to the LORD.</itunes:summary>
     </item>
   </channel>
 </rss>
