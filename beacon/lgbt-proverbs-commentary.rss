@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/17-13.mp3?pubDate=2021-04-17</guid>
+      <title>Proverbs 17:13</title>
+      <description>Whoso rewardeth evil for good, evil shall not depart from his house.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/17-13.mp3" length="6116458" type="audio/mpeg" />
+      <pubDate>Sat, 17 Apr 2021 00:00:00 EST</pubDate>
+      <itunes:duration>00:08:54</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>Whoso rewardeth evil for good, evil shall not depart from his house.</itunes:subtitle>
+      <itunes:summary>Whoso rewardeth evil for good, evil shall not depart from his house.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/16-15.mp3?pubDate=2021-04-16</guid>
       <title>Proverbs 16:15</title>
       <description>In the light of the king's countenance is life; and his favour is as a cloud of the latter rain.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>The beginning of strife is as when one letteth out water: therefore leave off contention, before it be meddled with.</itunes:subtitle>
       <itunes:summary>The beginning of strife is as when one letteth out water: therefore leave off contention, before it be meddled with.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/17-13.mp3?pubDate=2020-04-17</guid>
-      <title>Proverbs 17:13</title>
-      <description>Whoso rewardeth evil for good, evil shall not depart from his house.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/17-13.mp3" length="6116458" type="audio/mpeg" />
-      <pubDate>Fri, 17 Apr 2020 00:00:00 EST</pubDate>
-      <itunes:duration>00:08:54</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>Whoso rewardeth evil for good, evil shall not depart from his house.</itunes:subtitle>
-      <itunes:summary>Whoso rewardeth evil for good, evil shall not depart from his house.</itunes:summary>
     </item>
   </channel>
 </rss>
