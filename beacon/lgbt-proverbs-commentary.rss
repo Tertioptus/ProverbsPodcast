@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/18-15.mp3?pubDate=2021-04-18</guid>
+      <title>Proverbs 18:15</title>
+      <description>The heart of the prudent getteth knowledge; and the ear of the wise seeketh knowledge.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/18-15.mp3" length="4390704" type="audio/mpeg" />
+      <pubDate>Sun, 18 Apr 2021 16:00:00 EST</pubDate>
+      <itunes:duration>00:06:23</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>The heart of the prudent getteth knowledge; and the ear of the wise seeketh knowledge.</itunes:subtitle>
+      <itunes:summary>The heart of the prudent getteth knowledge; and the ear of the wise seeketh knowledge.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/18-14.mp3?pubDate=2021-04-18</guid>
       <title>Proverbs 18:14</title>
       <description>The spirit of a man will sustain his infirmity; but a wounded spirit who can bear?</description>
@@ -3960,18 +3972,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>And put a knife to thy throat, if thou be a man given to appetite.</itunes:subtitle>
       <itunes:summary>And put a knife to thy throat, if thou be a man given to appetite.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/18-15.mp3?pubDate=2020-12-18</guid>
-      <title>Proverbs 18:15</title>
-      <description>The heart of the prudent getteth knowledge; and the ear of the wise seeketh knowledge.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/18-15.mp3" length="4390704" type="audio/mpeg" />
-      <pubDate>Fri, 18 Dec 2020 16:00:00 EST</pubDate>
-      <itunes:duration>00:06:23</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>The heart of the prudent getteth knowledge; and the ear of the wise seeketh knowledge.</itunes:subtitle>
-      <itunes:summary>The heart of the prudent getteth knowledge; and the ear of the wise seeketh knowledge.</itunes:summary>
     </item>
     <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/14-03.mp3?pubDate=2020-12-14</guid>
