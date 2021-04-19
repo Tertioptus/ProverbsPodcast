@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/19-14.mp3?pubDate=2021-04-19</guid>
+      <title>Proverbs 19:14</title>
+      <description>House and riches are the inheritance of fathers: and a prudent wife is from the LORD.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/19-14.mp3" length="4924020" type="audio/mpeg" />
+      <pubDate>Mon, 19 Apr 2021 08:00:00 EST</pubDate>
+      <itunes:duration>00:07:10</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>House and riches are the inheritance of fathers: and a prudent wife is from the LORD.</itunes:subtitle>
+      <itunes:summary>House and riches are the inheritance of fathers: and a prudent wife is from the LORD.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/19-13.mp3?pubDate=2021-04-19</guid>
       <title>Proverbs 19:13</title>
       <description>A foolish son is the calamity of his father: and the contentions of a wife are a continual dropping.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>Slothfulness casteth into a deep sleep; and an idle soul shall suffer hunger.</itunes:subtitle>
       <itunes:summary>Slothfulness casteth into a deep sleep; and an idle soul shall suffer hunger.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/19-14.mp3?pubDate=2020-04-19</guid>
-      <title>Proverbs 19:14</title>
-      <description>House and riches are the inheritance of fathers: and a prudent wife is from the LORD.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/19-14.mp3" length="4924020" type="audio/mpeg" />
-      <pubDate>Sun, 19 Apr 2020 08:00:00 EST</pubDate>
-      <itunes:duration>00:07:10</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>House and riches are the inheritance of fathers: and a prudent wife is from the LORD.</itunes:subtitle>
-      <itunes:summary>House and riches are the inheritance of fathers: and a prudent wife is from the LORD.</itunes:summary>
     </item>
   </channel>
 </rss>
