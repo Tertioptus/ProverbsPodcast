@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/19-15.mp3?pubDate=2021-04-19</guid>
+      <title>Proverbs 19:15</title>
+      <description>Slothfulness casteth into a deep sleep; and an idle soul shall suffer hunger.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/19-15.mp3" length="10368775" type="audio/mpeg" />
+      <pubDate>Mon, 19 Apr 2021 16:00:00 EST</pubDate>
+      <itunes:duration>00:15:05</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>Slothfulness casteth into a deep sleep; and an idle soul shall suffer hunger.</itunes:subtitle>
+      <itunes:summary>Slothfulness casteth into a deep sleep; and an idle soul shall suffer hunger.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/19-14.mp3?pubDate=2021-04-19</guid>
       <title>Proverbs 19:14</title>
       <description>House and riches are the inheritance of fathers: and a prudent wife is from the LORD.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>Love not sleep, lest thou come to poverty; open thine eyes, and thou shalt be satisfied with bread.</itunes:subtitle>
       <itunes:summary>Love not sleep, lest thou come to poverty; open thine eyes, and thou shalt be satisfied with bread.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/19-15.mp3?pubDate=2020-04-19</guid>
-      <title>Proverbs 19:15</title>
-      <description>Slothfulness casteth into a deep sleep; and an idle soul shall suffer hunger.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/19-15.mp3" length="10368775" type="audio/mpeg" />
-      <pubDate>Sun, 19 Apr 2020 16:00:00 EST</pubDate>
-      <itunes:duration>00:15:05</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>Slothfulness casteth into a deep sleep; and an idle soul shall suffer hunger.</itunes:subtitle>
-      <itunes:summary>Slothfulness casteth into a deep sleep; and an idle soul shall suffer hunger.</itunes:summary>
     </item>
   </channel>
 </rss>
