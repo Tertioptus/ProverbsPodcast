@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/20-14.mp3?pubDate=2021-04-20</guid>
+      <title>Proverbs 20:14</title>
+      <description>It is naught, it is naught, saith the buyer: but when he is gone his way, then he boasteth.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/20-14.mp3" length="7904487" type="audio/mpeg" />
+      <pubDate>Tue, 20 Apr 2021 08:00:00 EST</pubDate>
+      <itunes:duration>00:11:30</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>It is naught, it is naught, saith the buyer: but when he is gone his way, then he boasteth.</itunes:subtitle>
+      <itunes:summary>It is naught, it is naught, saith the buyer: but when he is gone his way, then he boasteth.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/20-13.mp3?pubDate=2021-04-20</guid>
       <title>Proverbs 20:13</title>
       <description>Love not sleep, lest thou come to poverty; open thine eyes, and thou shalt be satisfied with bread.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>There is gold, and a multitude of rubies: but the lips of knowledge are a precious jewel.</itunes:subtitle>
       <itunes:summary>There is gold, and a multitude of rubies: but the lips of knowledge are a precious jewel.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/20-14.mp3?pubDate=2020-04-20</guid>
-      <title>Proverbs 20:14</title>
-      <description>It is naught, it is naught, saith the buyer: but when he is gone his way, then he boasteth.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/20-14.mp3" length="7904487" type="audio/mpeg" />
-      <pubDate>Mon, 20 Apr 2020 08:00:00 EST</pubDate>
-      <itunes:duration>00:11:30</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>It is naught, it is naught, saith the buyer: but when he is gone his way, then he boasteth.</itunes:subtitle>
-      <itunes:summary>It is naught, it is naught, saith the buyer: but when he is gone his way, then he boasteth.</itunes:summary>
     </item>
   </channel>
 </rss>
