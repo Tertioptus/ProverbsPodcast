@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/20-13.mp3?pubDate=2021-04-20</guid>
+      <title>Proverbs 20:13</title>
+      <description>Love not sleep, lest thou come to poverty; open thine eyes, and thou shalt be satisfied with bread.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/20-13.mp3" length="4893509" type="audio/mpeg" />
+      <pubDate>Tue, 20 Apr 2021 00:00:00 EST</pubDate>
+      <itunes:duration>00:07:07</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>Love not sleep, lest thou come to poverty; open thine eyes, and thou shalt be satisfied with bread.</itunes:subtitle>
+      <itunes:summary>Love not sleep, lest thou come to poverty; open thine eyes, and thou shalt be satisfied with bread.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/19-15.mp3?pubDate=2021-04-19</guid>
       <title>Proverbs 19:15</title>
       <description>Slothfulness casteth into a deep sleep; and an idle soul shall suffer hunger.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>It is naught, it is naught, saith the buyer: but when he is gone his way, then he boasteth.</itunes:subtitle>
       <itunes:summary>It is naught, it is naught, saith the buyer: but when he is gone his way, then he boasteth.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/20-13.mp3?pubDate=2020-04-20</guid>
-      <title>Proverbs 20:13</title>
-      <description>Love not sleep, lest thou come to poverty; open thine eyes, and thou shalt be satisfied with bread.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/20-13.mp3" length="4893509" type="audio/mpeg" />
-      <pubDate>Mon, 20 Apr 2020 00:00:00 EST</pubDate>
-      <itunes:duration>00:07:07</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>Love not sleep, lest thou come to poverty; open thine eyes, and thou shalt be satisfied with bread.</itunes:subtitle>
-      <itunes:summary>Love not sleep, lest thou come to poverty; open thine eyes, and thou shalt be satisfied with bread.</itunes:summary>
     </item>
   </channel>
 </rss>
