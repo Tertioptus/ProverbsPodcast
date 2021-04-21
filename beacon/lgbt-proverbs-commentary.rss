@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/21-14.mp3?pubDate=2021-04-21</guid>
+      <title>Proverbs 21:14</title>
+      <description>A gift in secret pacifieth anger: and a reward in the bosom strong wrath.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/21-14.mp3" length="3981522" type="audio/mpeg" />
+      <pubDate>Wed, 21 Apr 2021 08:00:00 EST</pubDate>
+      <itunes:duration>00:05:47</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>A gift in secret pacifieth anger: and a reward in the bosom strong wrath.</itunes:subtitle>
+      <itunes:summary>A gift in secret pacifieth anger: and a reward in the bosom strong wrath.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/21-13.mp3?pubDate=2021-04-21</guid>
       <title>Proverbs 21:13</title>
       <description>Whoso stoppeth his ears at the cry of the poor, he also shall cry himself, but shall not be heard.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>It is joy to the just to do judgment: but destruction shall be to the workers of iniquity.</itunes:subtitle>
       <itunes:summary>It is joy to the just to do judgment: but destruction shall be to the workers of iniquity.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/21-14.mp3?pubDate=2020-04-21</guid>
-      <title>Proverbs 21:14</title>
-      <description>A gift in secret pacifieth anger: and a reward in the bosom strong wrath.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/21-14.mp3" length="3981522" type="audio/mpeg" />
-      <pubDate>Tue, 21 Apr 2020 08:00:00 EST</pubDate>
-      <itunes:duration>00:05:47</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>A gift in secret pacifieth anger: and a reward in the bosom strong wrath.</itunes:subtitle>
-      <itunes:summary>A gift in secret pacifieth anger: and a reward in the bosom strong wrath.</itunes:summary>
     </item>
   </channel>
 </rss>
