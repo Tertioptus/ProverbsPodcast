@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/21-15.mp3?pubDate=2021-04-21</guid>
+      <title>Proverbs 21:15</title>
+      <description>It is joy to the just to do judgment: but destruction shall be to the workers of iniquity.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/21-15.mp3" length="5581888" type="audio/mpeg" />
+      <pubDate>Wed, 21 Apr 2021 16:00:00 EST</pubDate>
+      <itunes:duration>00:08:07</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>It is joy to the just to do judgment: but destruction shall be to the workers of iniquity.</itunes:subtitle>
+      <itunes:summary>It is joy to the just to do judgment: but destruction shall be to the workers of iniquity.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/21-14.mp3?pubDate=2021-04-21</guid>
       <title>Proverbs 21:14</title>
       <description>A gift in secret pacifieth anger: and a reward in the bosom strong wrath.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>The slothful man saith, There is a lion without, I shall be slain in the streets.</itunes:subtitle>
       <itunes:summary>The slothful man saith, There is a lion without, I shall be slain in the streets.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/21-15.mp3?pubDate=2020-04-21</guid>
-      <title>Proverbs 21:15</title>
-      <description>It is joy to the just to do judgment: but destruction shall be to the workers of iniquity.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/21-15.mp3" length="5581888" type="audio/mpeg" />
-      <pubDate>Tue, 21 Apr 2020 16:00:00 EST</pubDate>
-      <itunes:duration>00:08:07</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>It is joy to the just to do judgment: but destruction shall be to the workers of iniquity.</itunes:subtitle>
-      <itunes:summary>It is joy to the just to do judgment: but destruction shall be to the workers of iniquity.</itunes:summary>
     </item>
   </channel>
 </rss>
