@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/21-13.mp3?pubDate=2021-04-21</guid>
+      <title>Proverbs 21:13</title>
+      <description>Whoso stoppeth his ears at the cry of the poor, he also shall cry himself, but shall not be heard.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/21-13.mp3" length="6633891" type="audio/mpeg" />
+      <pubDate>Wed, 21 Apr 2021 00:00:00 EST</pubDate>
+      <itunes:duration>00:09:39</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>Whoso stoppeth his ears at the cry of the poor, he also shall cry himself, but shall not be heard.</itunes:subtitle>
+      <itunes:summary>Whoso stoppeth his ears at the cry of the poor, he also shall cry himself, but shall not be heard.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/20-15.mp3?pubDate=2021-04-20</guid>
       <title>Proverbs 20:15</title>
       <description>There is gold, and a multitude of rubies: but the lips of knowledge are a precious jewel.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>A gift in secret pacifieth anger: and a reward in the bosom strong wrath.</itunes:subtitle>
       <itunes:summary>A gift in secret pacifieth anger: and a reward in the bosom strong wrath.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/21-13.mp3?pubDate=2020-04-21</guid>
-      <title>Proverbs 21:13</title>
-      <description>Whoso stoppeth his ears at the cry of the poor, he also shall cry himself, but shall not be heard.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/21-13.mp3" length="6633891" type="audio/mpeg" />
-      <pubDate>Tue, 21 Apr 2020 00:00:00 EST</pubDate>
-      <itunes:duration>00:09:39</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>Whoso stoppeth his ears at the cry of the poor, he also shall cry himself, but shall not be heard.</itunes:subtitle>
-      <itunes:summary>Whoso stoppeth his ears at the cry of the poor, he also shall cry himself, but shall not be heard.</itunes:summary>
     </item>
   </channel>
 </rss>
