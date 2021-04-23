@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/23-13.mp3?pubDate=2021-04-23</guid>
+      <title>Proverbs 23:13</title>
+      <description>Withhold not correction from the child: for if thou beatest him with the rod, he shall not die.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/23-13.mp3" length="5237490" type="audio/mpeg" />
+      <pubDate>Fri, 23 Apr 2021 00:00:00 EST</pubDate>
+      <itunes:duration>00:07:37</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>Withhold not correction from the child: for if thou beatest him with the rod, he shall not die.</itunes:subtitle>
+      <itunes:summary>Withhold not correction from the child: for if thou beatest him with the rod, he shall not die.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/22-15.mp3?pubDate=2021-04-22</guid>
       <title>Proverbs 22:15</title>
       <description>Foolishness is bound in the heart of a child; but the rod of correction shall drive it far from him.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>Thou shalt beat him with the rod, and shalt deliver his soul from hell.</itunes:subtitle>
       <itunes:summary>Thou shalt beat him with the rod, and shalt deliver his soul from hell.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/23-13.mp3?pubDate=2020-04-23</guid>
-      <title>Proverbs 23:13</title>
-      <description>Withhold not correction from the child: for if thou beatest him with the rod, he shall not die.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/23-13.mp3" length="5237490" type="audio/mpeg" />
-      <pubDate>Thu, 23 Apr 2020 00:00:00 EST</pubDate>
-      <itunes:duration>00:07:37</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>Withhold not correction from the child: for if thou beatest him with the rod, he shall not die.</itunes:subtitle>
-      <itunes:summary>Withhold not correction from the child: for if thou beatest him with the rod, he shall not die.</itunes:summary>
     </item>
   </channel>
 </rss>
