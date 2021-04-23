@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/23-15.mp3?pubDate=2021-04-23</guid>
+      <title>Proverbs 23:15</title>
+      <description>My son, if thine heart be wise, my heart shall rejoice, even mine.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/23-15.mp3" length="3997405" type="audio/mpeg" />
+      <pubDate>Fri, 23 Apr 2021 16:00:00 EST</pubDate>
+      <itunes:duration>00:05:49</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>My son, if thine heart be wise, my heart shall rejoice, even mine.</itunes:subtitle>
+      <itunes:summary>My son, if thine heart be wise, my heart shall rejoice, even mine.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/23-14.mp3?pubDate=2021-04-23</guid>
       <title>Proverbs 23:14</title>
       <description>Thou shalt beat him with the rod, and shalt deliver his soul from hell.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>My son, eat thou honey, because it is good; and the honeycomb, which is sweet to thy taste:</itunes:subtitle>
       <itunes:summary>My son, eat thou honey, because it is good; and the honeycomb, which is sweet to thy taste:</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/23-15.mp3?pubDate=2020-04-23</guid>
-      <title>Proverbs 23:15</title>
-      <description>My son, if thine heart be wise, my heart shall rejoice, even mine.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/23-15.mp3" length="3997405" type="audio/mpeg" />
-      <pubDate>Thu, 23 Apr 2020 16:00:00 EST</pubDate>
-      <itunes:duration>00:05:49</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>My son, if thine heart be wise, my heart shall rejoice, even mine.</itunes:subtitle>
-      <itunes:summary>My son, if thine heart be wise, my heart shall rejoice, even mine.</itunes:summary>
     </item>
   </channel>
 </rss>
