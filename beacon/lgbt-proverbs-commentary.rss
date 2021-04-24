@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/24-14.mp3?pubDate=2021-04-24</guid>
+      <title>Proverbs 24:14</title>
+      <description>So shall the knowledge of wisdom be unto thy soul: when thou hast found it, then there shall be a reward, and thy expectation shall not be cut off.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/24-14.mp3" length="3602851" type="audio/mpeg" />
+      <pubDate>Sat, 24 Apr 2021 08:00:00 EST</pubDate>
+      <itunes:duration>00:05:14</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>So shall the knowledge of wisdom be unto thy soul: when thou hast found it, then there shall be a reward, and thy expectation shall not be cut off.</itunes:subtitle>
+      <itunes:summary>So shall the knowledge of wisdom be unto thy soul: when thou hast found it, then there shall be a reward, and thy expectation shall not be cut off.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/24-13.mp3?pubDate=2021-04-24</guid>
       <title>Proverbs 24:13</title>
       <description>My son, eat thou honey, because it is good; and the honeycomb, which is sweet to thy taste:</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>Lay not wait, O wicked man, against the dwelling of the righteous; spoil not his resting place:</itunes:subtitle>
       <itunes:summary>Lay not wait, O wicked man, against the dwelling of the righteous; spoil not his resting place:</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/24-14.mp3?pubDate=2020-04-24</guid>
-      <title>Proverbs 24:14</title>
-      <description>So shall the knowledge of wisdom be unto thy soul: when thou hast found it, then there shall be a reward, and thy expectation shall not be cut off.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/24-14.mp3" length="3602851" type="audio/mpeg" />
-      <pubDate>Fri, 24 Apr 2020 08:00:00 EST</pubDate>
-      <itunes:duration>00:05:14</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>So shall the knowledge of wisdom be unto thy soul: when thou hast found it, then there shall be a reward, and thy expectation shall not be cut off.</itunes:subtitle>
-      <itunes:summary>So shall the knowledge of wisdom be unto thy soul: when thou hast found it, then there shall be a reward, and thy expectation shall not be cut off.</itunes:summary>
     </item>
   </channel>
 </rss>
