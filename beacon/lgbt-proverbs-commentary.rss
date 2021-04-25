@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/25-15.mp3?pubDate=2021-04-25</guid>
+      <title>Proverbs 25:15</title>
+      <description>By long forbearing is a prince persuaded, and a soft tongue breaketh the bone.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/25-15.mp3" length="7519547" type="audio/mpeg" />
+      <pubDate>Sun, 25 Apr 2021 16:00:00 EST</pubDate>
+      <itunes:duration>00:10:56</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>By long forbearing is a prince persuaded, and a soft tongue breaketh the bone.</itunes:subtitle>
+      <itunes:summary>By long forbearing is a prince persuaded, and a soft tongue breaketh the bone.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/25-14.mp3?pubDate=2021-04-25</guid>
       <title>Proverbs 25:14</title>
       <description>Whoso boasteth himself of a false gift is like clouds and wind without rain.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>The slothful man saith, There is a lion in the way; a lion is in the streets.</itunes:subtitle>
       <itunes:summary>The slothful man saith, There is a lion in the way; a lion is in the streets.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/25-15.mp3?pubDate=2020-04-25</guid>
-      <title>Proverbs 25:15</title>
-      <description>By long forbearing is a prince persuaded, and a soft tongue breaketh the bone.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/25-15.mp3" length="7519547" type="audio/mpeg" />
-      <pubDate>Sat, 25 Apr 2020 16:00:00 EST</pubDate>
-      <itunes:duration>00:10:56</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>By long forbearing is a prince persuaded, and a soft tongue breaketh the bone.</itunes:subtitle>
-      <itunes:summary>By long forbearing is a prince persuaded, and a soft tongue breaketh the bone.</itunes:summary>
     </item>
   </channel>
 </rss>
