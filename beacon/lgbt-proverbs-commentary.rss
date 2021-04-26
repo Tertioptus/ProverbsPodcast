@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/26-13.mp3?pubDate=2021-04-26</guid>
+      <title>Proverbs 26:13</title>
+      <description>The slothful man saith, There is a lion in the way; a lion is in the streets.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/26-13.mp3" length="5161839" type="audio/mpeg" />
+      <pubDate>Mon, 26 Apr 2021 00:00:00 EST</pubDate>
+      <itunes:duration>00:07:30</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>The slothful man saith, There is a lion in the way; a lion is in the streets.</itunes:subtitle>
+      <itunes:summary>The slothful man saith, There is a lion in the way; a lion is in the streets.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/25-15.mp3?pubDate=2021-04-25</guid>
       <title>Proverbs 25:15</title>
       <description>By long forbearing is a prince persuaded, and a soft tongue breaketh the bone.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>As the door turneth upon his hinges, so doth the slothful upon his bed.</itunes:subtitle>
       <itunes:summary>As the door turneth upon his hinges, so doth the slothful upon his bed.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/26-13.mp3?pubDate=2020-04-26</guid>
-      <title>Proverbs 26:13</title>
-      <description>The slothful man saith, There is a lion in the way; a lion is in the streets.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/26-13.mp3" length="5161839" type="audio/mpeg" />
-      <pubDate>Sun, 26 Apr 2020 00:00:00 EST</pubDate>
-      <itunes:duration>00:07:30</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>The slothful man saith, There is a lion in the way; a lion is in the streets.</itunes:subtitle>
-      <itunes:summary>The slothful man saith, There is a lion in the way; a lion is in the streets.</itunes:summary>
     </item>
   </channel>
 </rss>
