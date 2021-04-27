@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/27-14.mp3?pubDate=2021-04-27</guid>
+      <title>Proverbs 27:14</title>
+      <description>He that blesseth his friend with a loud voice, rising early in the morning, it shall be counted a curse to him.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/27-14.mp3" length="5502476" type="audio/mpeg" />
+      <pubDate>Tue, 27 Apr 2021 08:00:00 EST</pubDate>
+      <itunes:duration>00:08:00</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>He that blesseth his friend with a loud voice, rising early in the morning, it shall be counted a curse to him.</itunes:subtitle>
+      <itunes:summary>He that blesseth his friend with a loud voice, rising early in the morning, it shall be counted a curse to him.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/27-13.mp3?pubDate=2021-04-27</guid>
       <title>Proverbs 27:13</title>
       <description>Take his garment that is surety for a stranger, and take a pledge of him for a strange woman.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>A continual dropping in a very rainy day and a contentious woman are alike.</itunes:subtitle>
       <itunes:summary>A continual dropping in a very rainy day and a contentious woman are alike.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/27-14.mp3?pubDate=2020-04-27</guid>
-      <title>Proverbs 27:14</title>
-      <description>He that blesseth his friend with a loud voice, rising early in the morning, it shall be counted a curse to him.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/27-14.mp3" length="5502476" type="audio/mpeg" />
-      <pubDate>Mon, 27 Apr 2020 08:00:00 EST</pubDate>
-      <itunes:duration>00:08:00</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>He that blesseth his friend with a loud voice, rising early in the morning, it shall be counted a curse to him.</itunes:subtitle>
-      <itunes:summary>He that blesseth his friend with a loud voice, rising early in the morning, it shall be counted a curse to him.</itunes:summary>
     </item>
   </channel>
 </rss>
