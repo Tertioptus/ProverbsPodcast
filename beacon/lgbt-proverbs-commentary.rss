@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/28-13.mp3?pubDate=2021-04-28</guid>
+      <title>Proverbs 28:13</title>
+      <description>He that covereth his sins shall not prosper: but whoso confesseth and forsaketh them shall have mercy.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/28-13.mp3" length="4399899" type="audio/mpeg" />
+      <pubDate>Wed, 28 Apr 2021 00:00:00 EST</pubDate>
+      <itunes:duration>00:06:24</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>He that covereth his sins shall not prosper: but whoso confesseth and forsaketh them shall have mercy.</itunes:subtitle>
+      <itunes:summary>He that covereth his sins shall not prosper: but whoso confesseth and forsaketh them shall have mercy.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/27-15.mp3?pubDate=2021-04-27</guid>
       <title>Proverbs 27:15</title>
       <description>A continual dropping in a very rainy day and a contentious woman are alike.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>Happy is the man that feareth alway: but he that hardeneth his heart shall fall into mischief.</itunes:subtitle>
       <itunes:summary>Happy is the man that feareth alway: but he that hardeneth his heart shall fall into mischief.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/28-13.mp3?pubDate=2020-04-28</guid>
-      <title>Proverbs 28:13</title>
-      <description>He that covereth his sins shall not prosper: but whoso confesseth and forsaketh them shall have mercy.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/28-13.mp3" length="4399899" type="audio/mpeg" />
-      <pubDate>Tue, 28 Apr 2020 00:00:00 EST</pubDate>
-      <itunes:duration>00:06:24</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>He that covereth his sins shall not prosper: but whoso confesseth and forsaketh them shall have mercy.</itunes:subtitle>
-      <itunes:summary>He that covereth his sins shall not prosper: but whoso confesseth and forsaketh them shall have mercy.</itunes:summary>
     </item>
   </channel>
 </rss>
