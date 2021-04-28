@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/28-15.mp3?pubDate=2021-04-28</guid>
+      <title>Proverbs 28:15</title>
+      <description>As a roaring lion, and a ranging bear; so is a wicked ruler over the poor people.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/28-15.mp3" length="7809193" type="audio/mpeg" />
+      <pubDate>Wed, 28 Apr 2021 16:00:00 EST</pubDate>
+      <itunes:duration>00:11:22</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>As a roaring lion, and a ranging bear; so is a wicked ruler over the poor people.</itunes:subtitle>
+      <itunes:summary>As a roaring lion, and a ranging bear; so is a wicked ruler over the poor people.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/28-14.mp3?pubDate=2021-04-28</guid>
       <title>Proverbs 28:14</title>
       <description>Happy is the man that feareth alway: but he that hardeneth his heart shall fall into mischief.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>The poor and the deceitful man meet together: the LORD lighteneth both their eyes.</itunes:subtitle>
       <itunes:summary>The poor and the deceitful man meet together: the LORD lighteneth both their eyes.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/28-15.mp3?pubDate=2020-04-28</guid>
-      <title>Proverbs 28:15</title>
-      <description>As a roaring lion, and a ranging bear; so is a wicked ruler over the poor people.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/28-15.mp3" length="7809193" type="audio/mpeg" />
-      <pubDate>Tue, 28 Apr 2020 16:00:00 EST</pubDate>
-      <itunes:duration>00:11:22</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>As a roaring lion, and a ranging bear; so is a wicked ruler over the poor people.</itunes:subtitle>
-      <itunes:summary>As a roaring lion, and a ranging bear; so is a wicked ruler over the poor people.</itunes:summary>
     </item>
   </channel>
 </rss>
