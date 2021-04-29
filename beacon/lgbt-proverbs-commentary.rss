@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/29-13.mp3?pubDate=2021-04-29</guid>
+      <title>Proverbs 29:13</title>
+      <description>The poor and the deceitful man meet together: the LORD lighteneth both their eyes.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/29-13.mp3" length="7452673" type="audio/mpeg" />
+      <pubDate>Thu, 29 Apr 2021 00:00:00 EST</pubDate>
+      <itunes:duration>00:10:51</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>The poor and the deceitful man meet together: the LORD lighteneth both their eyes.</itunes:subtitle>
+      <itunes:summary>The poor and the deceitful man meet together: the LORD lighteneth both their eyes.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/28-15.mp3?pubDate=2021-04-28</guid>
       <title>Proverbs 28:15</title>
       <description>As a roaring lion, and a ranging bear; so is a wicked ruler over the poor people.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>The king that faithfully judgeth the poor, his throne shall be established for ever.</itunes:subtitle>
       <itunes:summary>The king that faithfully judgeth the poor, his throne shall be established for ever.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/29-13.mp3?pubDate=2020-04-29</guid>
-      <title>Proverbs 29:13</title>
-      <description>The poor and the deceitful man meet together: the LORD lighteneth both their eyes.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/29-13.mp3" length="7452673" type="audio/mpeg" />
-      <pubDate>Wed, 29 Apr 2020 00:00:00 EST</pubDate>
-      <itunes:duration>00:10:51</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>The poor and the deceitful man meet together: the LORD lighteneth both their eyes.</itunes:subtitle>
-      <itunes:summary>The poor and the deceitful man meet together: the LORD lighteneth both their eyes.</itunes:summary>
     </item>
   </channel>
 </rss>
