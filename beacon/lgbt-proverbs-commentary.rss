@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/29-14.mp3?pubDate=2021-04-29</guid>
+      <title>Proverbs 29:14</title>
+      <description>The king that faithfully judgeth the poor, his throne shall be established for ever.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/29-14.mp3" length="5026838" type="audio/mpeg" />
+      <pubDate>Thu, 29 Apr 2021 08:00:00 EST</pubDate>
+      <itunes:duration>00:07:19</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>The king that faithfully judgeth the poor, his throne shall be established for ever.</itunes:subtitle>
+      <itunes:summary>The king that faithfully judgeth the poor, his throne shall be established for ever.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/29-13.mp3?pubDate=2021-04-29</guid>
       <title>Proverbs 29:13</title>
       <description>The poor and the deceitful man meet together: the LORD lighteneth both their eyes.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>The rod and reproof give wisdom: but a child left to himself bringeth his mother to shame.</itunes:subtitle>
       <itunes:summary>The rod and reproof give wisdom: but a child left to himself bringeth his mother to shame.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/29-14.mp3?pubDate=2020-04-29</guid>
-      <title>Proverbs 29:14</title>
-      <description>The king that faithfully judgeth the poor, his throne shall be established for ever.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/29-14.mp3" length="5026838" type="audio/mpeg" />
-      <pubDate>Wed, 29 Apr 2020 08:00:00 EST</pubDate>
-      <itunes:duration>00:07:19</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>The king that faithfully judgeth the poor, his throne shall be established for ever.</itunes:subtitle>
-      <itunes:summary>The king that faithfully judgeth the poor, his throne shall be established for ever.</itunes:summary>
     </item>
   </channel>
 </rss>
