@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/30-13.mp3?pubDate=2021-04-30</guid>
+      <title>Proverbs 30:13</title>
+      <description>There is a generation, O how lofty are their eyes! and their eyelids are lifted up.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/30-13.mp3" length="9368598" type="audio/mpeg" />
+      <pubDate>Fri, 30 Apr 2021 00:00:00 EST</pubDate>
+      <itunes:duration>00:13:38</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>There is a generation, O how lofty are their eyes! and their eyelids are lifted up.</itunes:subtitle>
+      <itunes:summary>There is a generation, O how lofty are their eyes! and their eyelids are lifted up.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/29-15.mp3?pubDate=2021-04-29</guid>
       <title>Proverbs 29:15</title>
       <description>The rod and reproof give wisdom: but a child left to himself bringeth his mother to shame.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>There is a generation, whose teeth are as swords, and their jaw teeth as knives, to devour the poor from off the earth, and the needy from among men.</itunes:subtitle>
       <itunes:summary>There is a generation, whose teeth are as swords, and their jaw teeth as knives, to devour the poor from off the earth, and the needy from among men.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/30-13.mp3?pubDate=2020-04-30</guid>
-      <title>Proverbs 30:13</title>
-      <description>There is a generation, O how lofty are their eyes! and their eyelids are lifted up.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/30-13.mp3" length="9368598" type="audio/mpeg" />
-      <pubDate>Thu, 30 Apr 2020 00:00:00 EST</pubDate>
-      <itunes:duration>00:13:38</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>There is a generation, O how lofty are their eyes! and their eyelids are lifted up.</itunes:subtitle>
-      <itunes:summary>There is a generation, O how lofty are their eyes! and their eyelids are lifted up.</itunes:summary>
     </item>
   </channel>
 </rss>
