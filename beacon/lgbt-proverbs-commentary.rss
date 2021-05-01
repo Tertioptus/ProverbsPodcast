@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/01-16.mp3?pubDate=2021-05-01</guid>
+      <title>Proverbs 1:16</title>
+      <description>For their feet run to evil, and make haste to shed blood.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/01-16.mp3" length="3970675" type="audio/mpeg" />
+      <pubDate>Sat, 01 May 2021 00:00:00 EST</pubDate>
+      <itunes:duration>00:05:46</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>For their feet run to evil, and make haste to shed blood.</itunes:subtitle>
+      <itunes:summary>For their feet run to evil, and make haste to shed blood.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/30-15.mp3?pubDate=2021-04-30</guid>
       <title>Proverbs 30:15</title>
       <description>The horseleach hath two daughters, crying, Give, give. There are three things that are never satisfied, yea, four things say not, It is enough:</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>Surely in vain the net is spread in the sight of any bird.</itunes:subtitle>
       <itunes:summary>Surely in vain the net is spread in the sight of any bird.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/01-16.mp3?pubDate=2020-05-01</guid>
-      <title>Proverbs 1:16</title>
-      <description>For their feet run to evil, and make haste to shed blood.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/01-16.mp3" length="3970675" type="audio/mpeg" />
-      <pubDate>Fri, 01 May 2020 00:00:00 EST</pubDate>
-      <itunes:duration>00:05:46</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>For their feet run to evil, and make haste to shed blood.</itunes:subtitle>
-      <itunes:summary>For their feet run to evil, and make haste to shed blood.</itunes:summary>
     </item>
   </channel>
 </rss>
