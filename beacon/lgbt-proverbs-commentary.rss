@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/04-17.mp3?pubDate=2021-05-04</guid>
+      <title>Proverbs 4:17</title>
+      <description>For they eat the bread of wickedness, and drink the wine of violence.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/04-17.mp3" length="4409094" type="audio/mpeg" />
+      <pubDate>Tue, 04 May 2021 08:00:00 EST</pubDate>
+      <itunes:duration>00:06:25</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>For they eat the bread of wickedness, and drink the wine of violence.</itunes:subtitle>
+      <itunes:summary>For they eat the bread of wickedness, and drink the wine of violence.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/04-16.mp3?pubDate=2021-05-04</guid>
       <title>Proverbs 4:16</title>
       <description>For they sleep not, except they have done mischief; and their sleep is taken away, unless they cause some to fall.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>But the path of the just is as the shining light, that shineth more and more unto the perfect day.</itunes:subtitle>
       <itunes:summary>But the path of the just is as the shining light, that shineth more and more unto the perfect day.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/04-17.mp3?pubDate=2020-05-04</guid>
-      <title>Proverbs 4:17</title>
-      <description>For they eat the bread of wickedness, and drink the wine of violence.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/04-17.mp3" length="4409094" type="audio/mpeg" />
-      <pubDate>Mon, 04 May 2020 08:00:00 EST</pubDate>
-      <itunes:duration>00:06:25</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>For they eat the bread of wickedness, and drink the wine of violence.</itunes:subtitle>
-      <itunes:summary>For they eat the bread of wickedness, and drink the wine of violence.</itunes:summary>
     </item>
   </channel>
 </rss>
