@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/04-16.mp3?pubDate=2021-05-04</guid>
+      <title>Proverbs 4:16</title>
+      <description>For they sleep not, except they have done mischief; and their sleep is taken away, unless they cause some to fall.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/04-16.mp3" length="4632284" type="audio/mpeg" />
+      <pubDate>Tue, 04 May 2021 00:00:00 EST</pubDate>
+      <itunes:duration>00:06:44</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>For they sleep not, except they have done mischief; and their sleep is taken away, unless they cause some to fall.</itunes:subtitle>
+      <itunes:summary>For they sleep not, except they have done mischief; and their sleep is taken away, unless they cause some to fall.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/03-18.mp3?pubDate=2021-05-03</guid>
       <title>Proverbs 3:18</title>
       <description>She is a tree of life to them that lay hold upon her: and happy is every one that retaineth her.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>For they eat the bread of wickedness, and drink the wine of violence.</itunes:subtitle>
       <itunes:summary>For they eat the bread of wickedness, and drink the wine of violence.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/04-16.mp3?pubDate=2020-05-04</guid>
-      <title>Proverbs 4:16</title>
-      <description>For they sleep not, except they have done mischief; and their sleep is taken away, unless they cause some to fall.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/04-16.mp3" length="4632284" type="audio/mpeg" />
-      <pubDate>Mon, 04 May 2020 00:00:00 EST</pubDate>
-      <itunes:duration>00:06:44</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>For they sleep not, except they have done mischief; and their sleep is taken away, unless they cause some to fall.</itunes:subtitle>
-      <itunes:summary>For they sleep not, except they have done mischief; and their sleep is taken away, unless they cause some to fall.</itunes:summary>
     </item>
   </channel>
 </rss>
