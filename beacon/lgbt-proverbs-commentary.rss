@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/05-16.mp3?pubDate=2021-05-05</guid>
+      <title>Proverbs 5:16</title>
+      <description>Let thy fountains be dispersed abroad, and rivers of waters in the streets.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/05-16.mp3" length="10621221" type="audio/mpeg" />
+      <pubDate>Wed, 05 May 2021 00:00:00 EST</pubDate>
+      <itunes:duration>00:15:27</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>Let thy fountains be dispersed abroad, and rivers of waters in the streets.</itunes:subtitle>
+      <itunes:summary>Let thy fountains be dispersed abroad, and rivers of waters in the streets.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/04-18.mp3?pubDate=2021-05-04</guid>
       <title>Proverbs 4:18</title>
       <description>But the path of the just is as the shining light, that shineth more and more unto the perfect day.</description>
@@ -4668,18 +4680,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>Thou art snared with the words of thy mouth, thou art taken with the words of thy mouth.</itunes:subtitle>
       <itunes:summary>Thou art snared with the words of thy mouth, thou art taken with the words of thy mouth.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/05-16.mp3?pubDate=2020-12-05</guid>
-      <title>Proverbs 5:16</title>
-      <description>Let thy fountains be dispersed abroad, and rivers of waters in the streets.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/05-16.mp3" length="10621221" type="audio/mpeg" />
-      <pubDate>Sat, 05 Dec 2020 16:00:00 EST</pubDate>
-      <itunes:duration>00:15:27</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>Let thy fountains be dispersed abroad, and rivers of waters in the streets.</itunes:subtitle>
-      <itunes:summary>Let thy fountains be dispersed abroad, and rivers of waters in the streets.</itunes:summary>
     </item>
     <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/03-03.mp3?pubDate=2020-12-03</guid>
