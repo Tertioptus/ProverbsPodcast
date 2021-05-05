@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/05-18.mp3?pubDate=2021-05-05</guid>
+      <title>Proverbs 5:18</title>
+      <description>Let thy fountain be blessed: and rejoice with the wife of thy youth.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/05-18.mp3" length="4501463" type="audio/mpeg" />
+      <pubDate>Wed, 05 May 2021 16:00:00 EST</pubDate>
+      <itunes:duration>00:06:33</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>Let thy fountain be blessed: and rejoice with the wife of thy youth.</itunes:subtitle>
+      <itunes:summary>Let thy fountain be blessed: and rejoice with the wife of thy youth.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/05-17.mp3?pubDate=2021-05-05</guid>
       <title>Proverbs 5:17</title>
       <description>Let them be only thine own, and not strangers' with thee.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>These six things doth the LORD hate: yea, seven are an abomination unto him:</itunes:subtitle>
       <itunes:summary>These six things doth the LORD hate: yea, seven are an abomination unto him:</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/05-18.mp3?pubDate=2020-05-05</guid>
-      <title>Proverbs 5:18</title>
-      <description>Let thy fountain be blessed: and rejoice with the wife of thy youth.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/05-18.mp3" length="4501463" type="audio/mpeg" />
-      <pubDate>Tue, 05 May 2020 16:00:00 EST</pubDate>
-      <itunes:duration>00:06:33</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>Let thy fountain be blessed: and rejoice with the wife of thy youth.</itunes:subtitle>
-      <itunes:summary>Let thy fountain be blessed: and rejoice with the wife of thy youth.</itunes:summary>
     </item>
   </channel>
 </rss>
