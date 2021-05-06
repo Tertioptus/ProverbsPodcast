@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/06-17.mp3?pubDate=2021-05-06</guid>
+      <title>Proverbs 6:17</title>
+      <description>A proud look, a lying tongue, and hands that shed innocent blood,</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/06-17.mp3" length="8054952" type="audio/mpeg" />
+      <pubDate>Thu, 06 May 2021 08:00:00 EST</pubDate>
+      <itunes:duration>00:11:43</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>A proud look, a lying tongue, and hands that shed innocent blood,</itunes:subtitle>
+      <itunes:summary>A proud look, a lying tongue, and hands that shed innocent blood,</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/06-16.mp3?pubDate=2021-05-06</guid>
       <title>Proverbs 6:16</title>
       <description>These six things doth the LORD hate: yea, seven are an abomination unto him:</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>An heart that deviseth wicked imaginations, feet that be swift in running to mischief,</itunes:subtitle>
       <itunes:summary>An heart that deviseth wicked imaginations, feet that be swift in running to mischief,</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/06-17.mp3?pubDate=2020-05-06</guid>
-      <title>Proverbs 6:17</title>
-      <description>A proud look, a lying tongue, and hands that shed innocent blood,</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/06-17.mp3" length="8054952" type="audio/mpeg" />
-      <pubDate>Wed, 06 May 2020 08:00:00 EST</pubDate>
-      <itunes:duration>00:11:43</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>A proud look, a lying tongue, and hands that shed innocent blood,</itunes:subtitle>
-      <itunes:summary>A proud look, a lying tongue, and hands that shed innocent blood,</itunes:summary>
     </item>
   </channel>
 </rss>
