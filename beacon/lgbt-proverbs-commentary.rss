@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/08-18.mp3?pubDate=2021-05-08</guid>
+      <title>Proverbs 8:18</title>
+      <description>Riches and honour are with me; yea, durable riches and righteousness.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/08-18.mp3" length="5858576" type="audio/mpeg" />
+      <pubDate>Sat, 08 May 2021 16:00:00 EST</pubDate>
+      <itunes:duration>00:08:31</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>Riches and honour are with me; yea, durable riches and righteousness.</itunes:subtitle>
+      <itunes:summary>Riches and honour are with me; yea, durable riches and righteousness.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/08-17.mp3?pubDate=2021-05-08</guid>
       <title>Proverbs 8:17</title>
       <description>I love them that love me; and those that seek me early shall find me.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>The labour of the righteous tendeth to life: the fruit of the wicked to sin.</itunes:subtitle>
       <itunes:summary>The labour of the righteous tendeth to life: the fruit of the wicked to sin.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/08-18.mp3?pubDate=2020-05-08</guid>
-      <title>Proverbs 8:18</title>
-      <description>Riches and honour are with me; yea, durable riches and righteousness.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/08-18.mp3" length="5858576" type="audio/mpeg" />
-      <pubDate>Fri, 08 May 2020 16:00:00 EST</pubDate>
-      <itunes:duration>00:08:31</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>Riches and honour are with me; yea, durable riches and righteousness.</itunes:subtitle>
-      <itunes:summary>Riches and honour are with me; yea, durable riches and righteousness.</itunes:summary>
     </item>
   </channel>
 </rss>
