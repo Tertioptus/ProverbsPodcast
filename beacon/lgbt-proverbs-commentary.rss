@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/08-16.mp3?pubDate=2021-05-08</guid>
+      <title>Proverbs 8:16</title>
+      <description>By me princes rule, and nobles, even all the judges of the earth.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/08-16.mp3" length="7968434" type="audio/mpeg" />
+      <pubDate>Sat, 08 May 2021 00:00:00 EST</pubDate>
+      <itunes:duration>00:11:36</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>By me princes rule, and nobles, even all the judges of the earth.</itunes:subtitle>
+      <itunes:summary>By me princes rule, and nobles, even all the judges of the earth.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/07-18.mp3?pubDate=2021-05-07</guid>
       <title>Proverbs 7:18</title>
       <description>Come, let us take our fill of love until the morning: let us solace ourselves with loves.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>I love them that love me; and those that seek me early shall find me.</itunes:subtitle>
       <itunes:summary>I love them that love me; and those that seek me early shall find me.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/08-16.mp3?pubDate=2020-05-08</guid>
-      <title>Proverbs 8:16</title>
-      <description>By me princes rule, and nobles, even all the judges of the earth.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/08-16.mp3" length="7968434" type="audio/mpeg" />
-      <pubDate>Fri, 08 May 2020 00:00:00 EST</pubDate>
-      <itunes:duration>00:11:36</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>By me princes rule, and nobles, even all the judges of the earth.</itunes:subtitle>
-      <itunes:summary>By me princes rule, and nobles, even all the judges of the earth.</itunes:summary>
     </item>
   </channel>
 </rss>
