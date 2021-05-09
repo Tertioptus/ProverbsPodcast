@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/09-18.mp3?pubDate=2021-05-09</guid>
+      <title>Proverbs 9:18</title>
+      <description>But he knoweth not that the dead are there; and that her guests are in the depths of hell.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/09-18.mp3" length="7700104" type="audio/mpeg" />
+      <pubDate>Sun, 09 May 2021 16:00:00 EST</pubDate>
+      <itunes:duration>00:11:12</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>But he knoweth not that the dead are there; and that her guests are in the depths of hell.</itunes:subtitle>
+      <itunes:summary>But he knoweth not that the dead are there; and that her guests are in the depths of hell.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/09-17.mp3?pubDate=2021-05-09</guid>
       <title>Proverbs 9:17</title>
       <description>Stolen waters are sweet, and bread eaten in secret is pleasant.</description>
@@ -5160,18 +5172,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>Treasures of wickedness profit nothing: but righteousness delivereth from death.</itunes:subtitle>
       <itunes:summary>Treasures of wickedness profit nothing: but righteousness delivereth from death.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/09-18.mp3?pubDate=2020-11-09</guid>
-      <title>Proverbs 9:18</title>
-      <description>But he knoweth not that the dead are there; and that her guests are in the depths of hell.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/09-18.mp3" length="7700104" type="audio/mpeg" />
-      <pubDate>Mon, 09 Nov 2020 16:00:00 EST</pubDate>
-      <itunes:duration>00:11:12</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>But he knoweth not that the dead are there; and that her guests are in the depths of hell.</itunes:subtitle>
-      <itunes:summary>But he knoweth not that the dead are there; and that her guests are in the depths of hell.</itunes:summary>
     </item>
     <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/08-36.mp3?pubDate=2020-11-08</guid>
