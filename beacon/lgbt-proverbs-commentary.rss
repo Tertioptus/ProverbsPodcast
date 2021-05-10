@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/10-18.mp3?pubDate=2021-05-10</guid>
+      <title>Proverbs 10:18</title>
+      <description>He that hideth hatred with lying lips, and he that uttereth a slander, is a fool.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/10-18.mp3" length="4547439" type="audio/mpeg" />
+      <pubDate>Mon, 10 May 2021 16:00:00 EST</pubDate>
+      <itunes:duration>00:06:37</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>He that hideth hatred with lying lips, and he that uttereth a slander, is a fool.</itunes:subtitle>
+      <itunes:summary>He that hideth hatred with lying lips, and he that uttereth a slander, is a fool.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/10-17.mp3?pubDate=2021-05-10</guid>
       <title>Proverbs 10:17</title>
       <description>He is in the way of life that keepeth instruction: but he that refuseth reproof erreth.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>A gracious woman retaineth honour: and strong men retain riches.</itunes:subtitle>
       <itunes:summary>A gracious woman retaineth honour: and strong men retain riches.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/10-18.mp3?pubDate=2020-05-10</guid>
-      <title>Proverbs 10:18</title>
-      <description>He that hideth hatred with lying lips, and he that uttereth a slander, is a fool.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/10-18.mp3" length="4547439" type="audio/mpeg" />
-      <pubDate>Sun, 10 May 2020 16:00:00 EST</pubDate>
-      <itunes:duration>00:06:37</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>He that hideth hatred with lying lips, and he that uttereth a slander, is a fool.</itunes:subtitle>
-      <itunes:summary>He that hideth hatred with lying lips, and he that uttereth a slander, is a fool.</itunes:summary>
     </item>
   </channel>
 </rss>
