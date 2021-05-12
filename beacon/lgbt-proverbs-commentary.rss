@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/12-17.mp3?pubDate=2021-05-12</guid>
+      <title>Proverbs 12:17</title>
+      <description>He that speaketh truth sheweth forth righteousness: but a false witness deceit.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/12-17.mp3" length="6566600" type="audio/mpeg" />
+      <pubDate>Wed, 12 May 2021 08:00:00 EST</pubDate>
+      <itunes:duration>00:09:33</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>He that speaketh truth sheweth forth righteousness: but a false witness deceit.</itunes:subtitle>
+      <itunes:summary>He that speaketh truth sheweth forth righteousness: but a false witness deceit.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/12-16.mp3?pubDate=2021-05-12</guid>
       <title>Proverbs 12:16</title>
       <description>A fool's wrath is presently known: but a prudent man covereth shame.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>There is that speaketh like the piercings of a sword: but the tongue of the wise is health.</itunes:subtitle>
       <itunes:summary>There is that speaketh like the piercings of a sword: but the tongue of the wise is health.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/12-17.mp3?pubDate=2020-05-12</guid>
-      <title>Proverbs 12:17</title>
-      <description>He that speaketh truth sheweth forth righteousness: but a false witness deceit.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/12-17.mp3" length="6566600" type="audio/mpeg" />
-      <pubDate>Tue, 12 May 2020 08:00:00 EST</pubDate>
-      <itunes:duration>00:09:33</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>He that speaketh truth sheweth forth righteousness: but a false witness deceit.</itunes:subtitle>
-      <itunes:summary>He that speaketh truth sheweth forth righteousness: but a false witness deceit.</itunes:summary>
     </item>
   </channel>
 </rss>
