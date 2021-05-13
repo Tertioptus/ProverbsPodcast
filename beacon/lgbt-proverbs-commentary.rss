@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/13-17.mp3?pubDate=2021-05-13</guid>
+      <title>Proverbs 13:17</title>
+      <description>A wicked messenger falleth into mischief: but a faithful ambassador is health.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/13-17.mp3" length="7298864" type="audio/mpeg" />
+      <pubDate>Thu, 13 May 2021 08:00:00 EST</pubDate>
+      <itunes:duration>00:10:37</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>A wicked messenger falleth into mischief: but a faithful ambassador is health.</itunes:subtitle>
+      <itunes:summary>A wicked messenger falleth into mischief: but a faithful ambassador is health.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/13-16.mp3?pubDate=2021-05-13</guid>
       <title>Proverbs 13:16</title>
       <description>Every prudent man dealeth with knowledge: but a fool layeth open his folly.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>Poverty and shame shall be to him that refuseth instruction: but he that regardeth reproof shall be honoured.</itunes:subtitle>
       <itunes:summary>Poverty and shame shall be to him that refuseth instruction: but he that regardeth reproof shall be honoured.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/13-17.mp3?pubDate=2020-05-13</guid>
-      <title>Proverbs 13:17</title>
-      <description>A wicked messenger falleth into mischief: but a faithful ambassador is health.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/13-17.mp3" length="7298864" type="audio/mpeg" />
-      <pubDate>Wed, 13 May 2020 08:00:00 EST</pubDate>
-      <itunes:duration>00:10:37</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>A wicked messenger falleth into mischief: but a faithful ambassador is health.</itunes:subtitle>
-      <itunes:summary>A wicked messenger falleth into mischief: but a faithful ambassador is health.</itunes:summary>
     </item>
   </channel>
 </rss>
