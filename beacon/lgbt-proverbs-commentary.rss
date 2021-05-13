@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/13-16.mp3?pubDate=2021-05-13</guid>
+      <title>Proverbs 13:16</title>
+      <description>Every prudent man dealeth with knowledge: but a fool layeth open his folly.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/13-16.mp3" length="8306564" type="audio/mpeg" />
+      <pubDate>Thu, 13 May 2021 00:00:00 EST</pubDate>
+      <itunes:duration>00:12:05</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>Every prudent man dealeth with knowledge: but a fool layeth open his folly.</itunes:subtitle>
+      <itunes:summary>Every prudent man dealeth with knowledge: but a fool layeth open his folly.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/12-18.mp3?pubDate=2021-05-12</guid>
       <title>Proverbs 12:18</title>
       <description>There is that speaketh like the piercings of a sword: but the tongue of the wise is health.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>A wicked messenger falleth into mischief: but a faithful ambassador is health.</itunes:subtitle>
       <itunes:summary>A wicked messenger falleth into mischief: but a faithful ambassador is health.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/13-16.mp3?pubDate=2020-05-13</guid>
-      <title>Proverbs 13:16</title>
-      <description>Every prudent man dealeth with knowledge: but a fool layeth open his folly.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/13-16.mp3" length="8306564" type="audio/mpeg" />
-      <pubDate>Wed, 13 May 2020 00:00:00 EST</pubDate>
-      <itunes:duration>00:12:05</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>Every prudent man dealeth with knowledge: but a fool layeth open his folly.</itunes:subtitle>
-      <itunes:summary>Every prudent man dealeth with knowledge: but a fool layeth open his folly.</itunes:summary>
     </item>
   </channel>
 </rss>
