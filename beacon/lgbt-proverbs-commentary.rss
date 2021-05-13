@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/13-18.mp3?pubDate=2021-05-13</guid>
+      <title>Proverbs 13:18</title>
+      <description>Poverty and shame shall be to him that refuseth instruction: but he that regardeth reproof shall be honoured.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/13-18.mp3" length="7748170" type="audio/mpeg" />
+      <pubDate>Thu, 13 May 2021 16:00:00 EST</pubDate>
+      <itunes:duration>00:11:16</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>Poverty and shame shall be to him that refuseth instruction: but he that regardeth reproof shall be honoured.</itunes:subtitle>
+      <itunes:summary>Poverty and shame shall be to him that refuseth instruction: but he that regardeth reproof shall be honoured.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/13-17.mp3?pubDate=2021-05-13</guid>
       <title>Proverbs 13:17</title>
       <description>A wicked messenger falleth into mischief: but a faithful ambassador is health.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>A wise man feareth, and departeth from evil: but the fool rageth, and is confident.</itunes:subtitle>
       <itunes:summary>A wise man feareth, and departeth from evil: but the fool rageth, and is confident.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/13-18.mp3?pubDate=2020-05-13</guid>
-      <title>Proverbs 13:18</title>
-      <description>Poverty and shame shall be to him that refuseth instruction: but he that regardeth reproof shall be honoured.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/13-18.mp3" length="7748170" type="audio/mpeg" />
-      <pubDate>Wed, 13 May 2020 16:00:00 EST</pubDate>
-      <itunes:duration>00:11:16</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>Poverty and shame shall be to him that refuseth instruction: but he that regardeth reproof shall be honoured.</itunes:subtitle>
-      <itunes:summary>Poverty and shame shall be to him that refuseth instruction: but he that regardeth reproof shall be honoured.</itunes:summary>
     </item>
   </channel>
 </rss>
