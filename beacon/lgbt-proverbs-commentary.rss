@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/14-16.mp3?pubDate=2021-05-14</guid>
+      <title>Proverbs 14:16</title>
+      <description>A wise man feareth, and departeth from evil: but the fool rageth, and is confident.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/14-16.mp3" length="4511913" type="audio/mpeg" />
+      <pubDate>Fri, 14 May 2021 00:00:00 EST</pubDate>
+      <itunes:duration>00:06:34</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>A wise man feareth, and departeth from evil: but the fool rageth, and is confident.</itunes:subtitle>
+      <itunes:summary>A wise man feareth, and departeth from evil: but the fool rageth, and is confident.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/13-18.mp3?pubDate=2021-05-13</guid>
       <title>Proverbs 13:18</title>
       <description>Poverty and shame shall be to him that refuseth instruction: but he that regardeth reproof shall be honoured.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>He that is soon angry dealeth foolishly: and a man of wicked devices is hated.</itunes:subtitle>
       <itunes:summary>He that is soon angry dealeth foolishly: and a man of wicked devices is hated.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/14-16.mp3?pubDate=2020-05-14</guid>
-      <title>Proverbs 14:16</title>
-      <description>A wise man feareth, and departeth from evil: but the fool rageth, and is confident.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/14-16.mp3" length="4511913" type="audio/mpeg" />
-      <pubDate>Thu, 14 May 2020 00:00:00 EST</pubDate>
-      <itunes:duration>00:06:34</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>A wise man feareth, and departeth from evil: but the fool rageth, and is confident.</itunes:subtitle>
-      <itunes:summary>A wise man feareth, and departeth from evil: but the fool rageth, and is confident.</itunes:summary>
     </item>
   </channel>
 </rss>
