@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/15-16.mp3?pubDate=2021-05-15</guid>
+      <title>Proverbs 15:16</title>
+      <description>Better is little with the fear of the LORD than great treasure and trouble therewith.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/15-16.mp3" length="7196882" type="audio/mpeg" />
+      <pubDate>Sat, 15 May 2021 00:00:00 EST</pubDate>
+      <itunes:duration>00:10:28</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>Better is little with the fear of the LORD than great treasure and trouble therewith.</itunes:subtitle>
+      <itunes:summary>Better is little with the fear of the LORD than great treasure and trouble therewith.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/14-18.mp3?pubDate=2021-05-14</guid>
       <title>Proverbs 14:18</title>
       <description>The simple inherit folly: but the prudent are crowned with knowledge.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>Better is a dinner of herbs where love is, than a stalled ox and hatred therewith.</itunes:subtitle>
       <itunes:summary>Better is a dinner of herbs where love is, than a stalled ox and hatred therewith.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/15-16.mp3?pubDate=2020-05-15</guid>
-      <title>Proverbs 15:16</title>
-      <description>Better is little with the fear of the LORD than great treasure and trouble therewith.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/15-16.mp3" length="7196882" type="audio/mpeg" />
-      <pubDate>Fri, 15 May 2020 00:00:00 EST</pubDate>
-      <itunes:duration>00:10:28</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>Better is little with the fear of the LORD than great treasure and trouble therewith.</itunes:subtitle>
-      <itunes:summary>Better is little with the fear of the LORD than great treasure and trouble therewith.</itunes:summary>
     </item>
   </channel>
 </rss>
