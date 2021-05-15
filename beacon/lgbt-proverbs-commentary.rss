@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/15-18.mp3?pubDate=2021-05-15</guid>
+      <title>Proverbs 15:18</title>
+      <description>A wrathful man stirreth up strife: but he that is slow to anger appeaseth strife.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/15-18.mp3" length="3515080" type="audio/mpeg" />
+      <pubDate>Sat, 15 May 2021 16:00:00 EST</pubDate>
+      <itunes:duration>00:05:07</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>A wrathful man stirreth up strife: but he that is slow to anger appeaseth strife.</itunes:subtitle>
+      <itunes:summary>A wrathful man stirreth up strife: but he that is slow to anger appeaseth strife.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/15-17.mp3?pubDate=2021-05-15</guid>
       <title>Proverbs 15:17</title>
       <description>Better is a dinner of herbs where love is, than a stalled ox and hatred therewith.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>How much better is it to get wisdom than gold! and to get understanding rather to be chosen than silver!</itunes:subtitle>
       <itunes:summary>How much better is it to get wisdom than gold! and to get understanding rather to be chosen than silver!</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/15-18.mp3?pubDate=2020-05-15</guid>
-      <title>Proverbs 15:18</title>
-      <description>A wrathful man stirreth up strife: but he that is slow to anger appeaseth strife.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/15-18.mp3" length="3515080" type="audio/mpeg" />
-      <pubDate>Fri, 15 May 2020 16:00:00 EST</pubDate>
-      <itunes:duration>00:05:07</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>A wrathful man stirreth up strife: but he that is slow to anger appeaseth strife.</itunes:subtitle>
-      <itunes:summary>A wrathful man stirreth up strife: but he that is slow to anger appeaseth strife.</itunes:summary>
     </item>
   </channel>
 </rss>
