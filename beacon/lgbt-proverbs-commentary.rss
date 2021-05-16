@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/16-18.mp3?pubDate=2021-05-16</guid>
+      <title>Proverbs 16:18</title>
+      <description>Pride goeth before destruction, and an haughty spirit before a fall.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/16-18.mp3" length="5091622" type="audio/mpeg" />
+      <pubDate>Sun, 16 May 2021 16:00:00 EST</pubDate>
+      <itunes:duration>00:07:24</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>Pride goeth before destruction, and an haughty spirit before a fall.</itunes:subtitle>
+      <itunes:summary>Pride goeth before destruction, and an haughty spirit before a fall.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/16-17.mp3?pubDate=2021-05-16</guid>
       <title>Proverbs 16:17</title>
       <description>The highway of the upright is to depart from evil: he that keepeth his way preserveth his soul.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>Wherefore is there a price in the hand of a fool to get wisdom, seeing he hath no heart to it?</itunes:subtitle>
       <itunes:summary>Wherefore is there a price in the hand of a fool to get wisdom, seeing he hath no heart to it?</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/16-18.mp3?pubDate=2020-05-16</guid>
-      <title>Proverbs 16:18</title>
-      <description>Pride goeth before destruction, and an haughty spirit before a fall.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/16-18.mp3" length="5091622" type="audio/mpeg" />
-      <pubDate>Sat, 16 May 2020 16:00:00 EST</pubDate>
-      <itunes:duration>00:07:24</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>Pride goeth before destruction, and an haughty spirit before a fall.</itunes:subtitle>
-      <itunes:summary>Pride goeth before destruction, and an haughty spirit before a fall.</itunes:summary>
     </item>
   </channel>
 </rss>
