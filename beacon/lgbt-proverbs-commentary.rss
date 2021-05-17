@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/17-17.mp3?pubDate=2021-05-17</guid>
+      <title>Proverbs 17:17</title>
+      <description>A friend loveth at all times, and a brother is born for adversity.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/17-17.mp3" length="4693307" type="audio/mpeg" />
+      <pubDate>Mon, 17 May 2021 08:00:00 EST</pubDate>
+      <itunes:duration>00:06:50</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>A friend loveth at all times, and a brother is born for adversity.</itunes:subtitle>
+      <itunes:summary>A friend loveth at all times, and a brother is born for adversity.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/17-16.mp3?pubDate=2021-05-17</guid>
       <title>Proverbs 17:16</title>
       <description>Wherefore is there a price in the hand of a fool to get wisdom, seeing he hath no heart to it?</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>A man void of understanding striketh hands, and becometh surety in the presence of his friend.</itunes:subtitle>
       <itunes:summary>A man void of understanding striketh hands, and becometh surety in the presence of his friend.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/17-17.mp3?pubDate=2020-05-17</guid>
-      <title>Proverbs 17:17</title>
-      <description>A friend loveth at all times, and a brother is born for adversity.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/17-17.mp3" length="4693307" type="audio/mpeg" />
-      <pubDate>Sun, 17 May 2020 08:00:00 EST</pubDate>
-      <itunes:duration>00:06:50</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>A friend loveth at all times, and a brother is born for adversity.</itunes:subtitle>
-      <itunes:summary>A friend loveth at all times, and a brother is born for adversity.</itunes:summary>
     </item>
   </channel>
 </rss>
