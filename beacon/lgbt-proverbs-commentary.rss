@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/18-17.mp3?pubDate=2021-05-18</guid>
+      <title>Proverbs 18:17</title>
+      <description>He that is first in his own cause seemeth just; but his neighbour cometh and searcheth him.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/18-17.mp3" length="7918280" type="audio/mpeg" />
+      <pubDate>Tue, 18 May 2021 08:00:00 EST</pubDate>
+      <itunes:duration>00:11:31</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>He that is first in his own cause seemeth just; but his neighbour cometh and searcheth him.</itunes:subtitle>
+      <itunes:summary>He that is first in his own cause seemeth just; but his neighbour cometh and searcheth him.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/18-16.mp3?pubDate=2021-05-18</guid>
       <title>Proverbs 18:16</title>
       <description>A man's gift maketh room for him, and bringeth him before great men.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>The lot causeth contentions to cease, and parteth between the mighty.</itunes:subtitle>
       <itunes:summary>The lot causeth contentions to cease, and parteth between the mighty.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/18-17.mp3?pubDate=2020-05-18</guid>
-      <title>Proverbs 18:17</title>
-      <description>He that is first in his own cause seemeth just; but his neighbour cometh and searcheth him.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/18-17.mp3" length="7918280" type="audio/mpeg" />
-      <pubDate>Mon, 18 May 2020 08:00:00 EST</pubDate>
-      <itunes:duration>00:11:31</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>He that is first in his own cause seemeth just; but his neighbour cometh and searcheth him.</itunes:subtitle>
-      <itunes:summary>He that is first in his own cause seemeth just; but his neighbour cometh and searcheth him.</itunes:summary>
     </item>
   </channel>
 </rss>
