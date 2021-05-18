@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/18-18.mp3?pubDate=2021-05-18</guid>
+      <title>Proverbs 18:18</title>
+      <description>The lot causeth contentions to cease, and parteth between the mighty.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/18-18.mp3" length="7670430" type="audio/mpeg" />
+      <pubDate>Tue, 18 May 2021 16:00:00 EST</pubDate>
+      <itunes:duration>00:11:10</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>The lot causeth contentions to cease, and parteth between the mighty.</itunes:subtitle>
+      <itunes:summary>The lot causeth contentions to cease, and parteth between the mighty.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/18-17.mp3?pubDate=2021-05-18</guid>
       <title>Proverbs 18:17</title>
       <description>He that is first in his own cause seemeth just; but his neighbour cometh and searcheth him.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>He that keepeth the commandment keepeth his own soul; but he that despiseth his ways shall die.</itunes:subtitle>
       <itunes:summary>He that keepeth the commandment keepeth his own soul; but he that despiseth his ways shall die.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/18-18.mp3?pubDate=2020-05-18</guid>
-      <title>Proverbs 18:18</title>
-      <description>The lot causeth contentions to cease, and parteth between the mighty.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/18-18.mp3" length="7670430" type="audio/mpeg" />
-      <pubDate>Mon, 18 May 2020 16:00:00 EST</pubDate>
-      <itunes:duration>00:11:10</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>The lot causeth contentions to cease, and parteth between the mighty.</itunes:subtitle>
-      <itunes:summary>The lot causeth contentions to cease, and parteth between the mighty.</itunes:summary>
     </item>
   </channel>
 </rss>
