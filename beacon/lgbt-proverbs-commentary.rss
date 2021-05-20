@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/20-17.mp3?pubDate=2021-05-20</guid>
+      <title>Proverbs 20:17</title>
+      <description>Bread of deceit is sweet to a man; but afterwards his mouth shall be filled with gravel.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/20-17.mp3" length="7397085" type="audio/mpeg" />
+      <pubDate>Thu, 20 May 2021 08:00:00 EST</pubDate>
+      <itunes:duration>00:10:46</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>Bread of deceit is sweet to a man; but afterwards his mouth shall be filled with gravel.</itunes:subtitle>
+      <itunes:summary>Bread of deceit is sweet to a man; but afterwards his mouth shall be filled with gravel.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/20-16.mp3?pubDate=2021-05-20</guid>
       <title>Proverbs 20:16</title>
       <description>Take his garment that is surety for a stranger: and take a pledge of him for a strange woman.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>Every purpose is established by counsel: and with good advice make war.</itunes:subtitle>
       <itunes:summary>Every purpose is established by counsel: and with good advice make war.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/20-17.mp3?pubDate=2020-05-20</guid>
-      <title>Proverbs 20:17</title>
-      <description>Bread of deceit is sweet to a man; but afterwards his mouth shall be filled with gravel.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/20-17.mp3" length="7397085" type="audio/mpeg" />
-      <pubDate>Wed, 20 May 2020 08:00:00 EST</pubDate>
-      <itunes:duration>00:10:46</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>Bread of deceit is sweet to a man; but afterwards his mouth shall be filled with gravel.</itunes:subtitle>
-      <itunes:summary>Bread of deceit is sweet to a man; but afterwards his mouth shall be filled with gravel.</itunes:summary>
     </item>
   </channel>
 </rss>
