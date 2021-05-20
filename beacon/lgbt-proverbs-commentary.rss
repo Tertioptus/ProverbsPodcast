@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/20-18.mp3?pubDate=2021-05-20</guid>
+      <title>Proverbs 20:18</title>
+      <description>Every purpose is established by counsel: and with good advice make war.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/20-18.mp3" length="8033219" type="audio/mpeg" />
+      <pubDate>Thu, 20 May 2021 16:00:00 EST</pubDate>
+      <itunes:duration>00:11:41</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>Every purpose is established by counsel: and with good advice make war.</itunes:subtitle>
+      <itunes:summary>Every purpose is established by counsel: and with good advice make war.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/20-17.mp3?pubDate=2021-05-20</guid>
       <title>Proverbs 20:17</title>
       <description>Bread of deceit is sweet to a man; but afterwards his mouth shall be filled with gravel.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>The man that wandereth out of the way of understanding shall remain in the congregation of the dead.</itunes:subtitle>
       <itunes:summary>The man that wandereth out of the way of understanding shall remain in the congregation of the dead.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/20-18.mp3?pubDate=2020-05-20</guid>
-      <title>Proverbs 20:18</title>
-      <description>Every purpose is established by counsel: and with good advice make war.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/20-18.mp3" length="8033219" type="audio/mpeg" />
-      <pubDate>Wed, 20 May 2020 16:00:00 EST</pubDate>
-      <itunes:duration>00:11:41</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>Every purpose is established by counsel: and with good advice make war.</itunes:subtitle>
-      <itunes:summary>Every purpose is established by counsel: and with good advice make war.</itunes:summary>
     </item>
   </channel>
 </rss>
