@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/20-16.mp3?pubDate=2021-05-20</guid>
+      <title>Proverbs 20:16</title>
+      <description>Take his garment that is surety for a stranger: and take a pledge of him for a strange woman.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/20-16.mp3" length="4823710" type="audio/mpeg" />
+      <pubDate>Thu, 20 May 2021 00:00:00 EST</pubDate>
+      <itunes:duration>00:07:01</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>Take his garment that is surety for a stranger: and take a pledge of him for a strange woman.</itunes:subtitle>
+      <itunes:summary>Take his garment that is surety for a stranger: and take a pledge of him for a strange woman.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/19-18.mp3?pubDate=2021-05-19</guid>
       <title>Proverbs 19:18</title>
       <description>Chasten thy son while there is hope, and let not thy soul spare for his crying.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>Bread of deceit is sweet to a man; but afterwards his mouth shall be filled with gravel.</itunes:subtitle>
       <itunes:summary>Bread of deceit is sweet to a man; but afterwards his mouth shall be filled with gravel.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/20-16.mp3?pubDate=2020-05-20</guid>
-      <title>Proverbs 20:16</title>
-      <description>Take his garment that is surety for a stranger: and take a pledge of him for a strange woman.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/20-16.mp3" length="4823710" type="audio/mpeg" />
-      <pubDate>Wed, 20 May 2020 00:00:00 EST</pubDate>
-      <itunes:duration>00:07:01</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>Take his garment that is surety for a stranger: and take a pledge of him for a strange woman.</itunes:subtitle>
-      <itunes:summary>Take his garment that is surety for a stranger: and take a pledge of him for a strange woman.</itunes:summary>
     </item>
   </channel>
 </rss>
