@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/21-16.mp3?pubDate=2021-05-21</guid>
+      <title>Proverbs 21:16</title>
+      <description>The man that wandereth out of the way of understanding shall remain in the congregation of the dead.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/21-16.mp3" length="15216683" type="audio/mpeg" />
+      <pubDate>Fri, 21 May 2021 00:00:00 EST</pubDate>
+      <itunes:duration>00:22:09</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>The man that wandereth out of the way of understanding shall remain in the congregation of the dead.</itunes:subtitle>
+      <itunes:summary>The man that wandereth out of the way of understanding shall remain in the congregation of the dead.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/20-18.mp3?pubDate=2021-05-20</guid>
       <title>Proverbs 20:18</title>
       <description>Every purpose is established by counsel: and with good advice make war.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>He that loveth pleasure shall be a poor man: he that loveth wine and oil shall not be rich.</itunes:subtitle>
       <itunes:summary>He that loveth pleasure shall be a poor man: he that loveth wine and oil shall not be rich.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/21-16.mp3?pubDate=2020-05-21</guid>
-      <title>Proverbs 21:16</title>
-      <description>The man that wandereth out of the way of understanding shall remain in the congregation of the dead.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/21-16.mp3" length="15216683" type="audio/mpeg" />
-      <pubDate>Thu, 21 May 2020 00:00:00 EST</pubDate>
-      <itunes:duration>00:22:09</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>The man that wandereth out of the way of understanding shall remain in the congregation of the dead.</itunes:subtitle>
-      <itunes:summary>The man that wandereth out of the way of understanding shall remain in the congregation of the dead.</itunes:summary>
     </item>
   </channel>
 </rss>
