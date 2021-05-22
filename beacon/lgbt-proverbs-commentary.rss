@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/22-16.mp3?pubDate=2021-05-22</guid>
+      <title>Proverbs 22:16</title>
+      <description>He that oppresseth the poor to increase his riches, and he that giveth to the rich, shall surely come to want.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/22-16.mp3" length="4080997" type="audio/mpeg" />
+      <pubDate>Sat, 22 May 2021 00:00:00 EST</pubDate>
+      <itunes:duration>00:05:56</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>He that oppresseth the poor to increase his riches, and he that giveth to the rich, shall surely come to want.</itunes:subtitle>
+      <itunes:summary>He that oppresseth the poor to increase his riches, and he that giveth to the rich, shall surely come to want.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/21-18.mp3?pubDate=2021-05-21</guid>
       <title>Proverbs 21:18</title>
       <description>The wicked shall be a ransom for the righteous, and the transgressor for the upright.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>Bow down thine ear, and hear the words of the wise, and apply thine heart unto my knowledge.</itunes:subtitle>
       <itunes:summary>Bow down thine ear, and hear the words of the wise, and apply thine heart unto my knowledge.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/22-16.mp3?pubDate=2020-05-22</guid>
-      <title>Proverbs 22:16</title>
-      <description>He that oppresseth the poor to increase his riches, and he that giveth to the rich, shall surely come to want.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/22-16.mp3" length="4080997" type="audio/mpeg" />
-      <pubDate>Fri, 22 May 2020 00:00:00 EST</pubDate>
-      <itunes:duration>00:05:56</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>He that oppresseth the poor to increase his riches, and he that giveth to the rich, shall surely come to want.</itunes:subtitle>
-      <itunes:summary>He that oppresseth the poor to increase his riches, and he that giveth to the rich, shall surely come to want.</itunes:summary>
     </item>
   </channel>
 </rss>
