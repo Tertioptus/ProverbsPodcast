@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/22-18.mp3?pubDate=2021-05-22</guid>
+      <title>Proverbs 22:18</title>
+      <description>For it is a pleasant thing if thou keep them within thee; they shall withal be fitted in thy lips.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/22-18.mp3" length="3951011" type="audio/mpeg" />
+      <pubDate>Sat, 22 May 2021 16:00:00 EST</pubDate>
+      <itunes:duration>00:05:45</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>For it is a pleasant thing if thou keep them within thee; they shall withal be fitted in thy lips.</itunes:subtitle>
+      <itunes:summary>For it is a pleasant thing if thou keep them within thee; they shall withal be fitted in thy lips.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/22-17.mp3?pubDate=2021-05-22</guid>
       <title>Proverbs 22:17</title>
       <description>Bow down thine ear, and hear the words of the wise, and apply thine heart unto my knowledge.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>Yea, my reins shall rejoice, when thy lips speak right things.</itunes:subtitle>
       <itunes:summary>Yea, my reins shall rejoice, when thy lips speak right things.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/22-18.mp3?pubDate=2020-05-22</guid>
-      <title>Proverbs 22:18</title>
-      <description>For it is a pleasant thing if thou keep them within thee; they shall withal be fitted in thy lips.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/22-18.mp3" length="3951011" type="audio/mpeg" />
-      <pubDate>Fri, 22 May 2020 16:00:00 EST</pubDate>
-      <itunes:duration>00:05:45</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>For it is a pleasant thing if thou keep them within thee; they shall withal be fitted in thy lips.</itunes:subtitle>
-      <itunes:summary>For it is a pleasant thing if thou keep them within thee; they shall withal be fitted in thy lips.</itunes:summary>
     </item>
   </channel>
 </rss>
