@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/23-18.mp3?pubDate=2021-05-23</guid>
+      <title>Proverbs 23:18</title>
+      <description>For surely there is an end; and thine expectation shall not be cut off.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/23-18.mp3" length="4378584" type="audio/mpeg" />
+      <pubDate>Sun, 23 May 2021 16:00:00 EST</pubDate>
+      <itunes:duration>00:06:22</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>For surely there is an end; and thine expectation shall not be cut off.</itunes:subtitle>
+      <itunes:summary>For surely there is an end; and thine expectation shall not be cut off.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/23-17.mp3?pubDate=2021-05-23</guid>
       <title>Proverbs 23:17</title>
       <description>Let not thine heart envy sinners: but be thou in the fear of the LORD all the day long.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>For a just man falleth seven times, and riseth up again: but the wicked shall fall into mischief.</itunes:subtitle>
       <itunes:summary>For a just man falleth seven times, and riseth up again: but the wicked shall fall into mischief.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/23-18.mp3?pubDate=2020-05-23</guid>
-      <title>Proverbs 23:18</title>
-      <description>For surely there is an end; and thine expectation shall not be cut off.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/23-18.mp3" length="4378584" type="audio/mpeg" />
-      <pubDate>Sat, 23 May 2020 16:00:00 EST</pubDate>
-      <itunes:duration>00:06:22</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>For surely there is an end; and thine expectation shall not be cut off.</itunes:subtitle>
-      <itunes:summary>For surely there is an end; and thine expectation shall not be cut off.</itunes:summary>
     </item>
   </channel>
 </rss>
