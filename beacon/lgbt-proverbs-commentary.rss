@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/23-16.mp3?pubDate=2021-05-23</guid>
+      <title>Proverbs 23:16</title>
+      <description>Yea, my reins shall rejoice, when thy lips speak right things.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/23-16.mp3" length="5355772" type="audio/mpeg" />
+      <pubDate>Sun, 23 May 2021 00:00:00 EST</pubDate>
+      <itunes:duration>00:07:47</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>Yea, my reins shall rejoice, when thy lips speak right things.</itunes:subtitle>
+      <itunes:summary>Yea, my reins shall rejoice, when thy lips speak right things.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/22-18.mp3?pubDate=2021-05-22</guid>
       <title>Proverbs 22:18</title>
       <description>For it is a pleasant thing if thou keep them within thee; they shall withal be fitted in thy lips.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>Let not thine heart envy sinners: but be thou in the fear of the LORD all the day long.</itunes:subtitle>
       <itunes:summary>Let not thine heart envy sinners: but be thou in the fear of the LORD all the day long.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/23-16.mp3?pubDate=2020-05-23</guid>
-      <title>Proverbs 23:16</title>
-      <description>Yea, my reins shall rejoice, when thy lips speak right things.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/23-16.mp3" length="5355772" type="audio/mpeg" />
-      <pubDate>Sat, 23 May 2020 00:00:00 EST</pubDate>
-      <itunes:duration>00:07:47</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>Yea, my reins shall rejoice, when thy lips speak right things.</itunes:subtitle>
-      <itunes:summary>Yea, my reins shall rejoice, when thy lips speak right things.</itunes:summary>
     </item>
   </channel>
 </rss>
