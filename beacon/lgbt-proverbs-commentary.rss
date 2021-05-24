@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/24-16.mp3?pubDate=2021-05-24</guid>
+      <title>Proverbs 24:16</title>
+      <description>For a just man falleth seven times, and riseth up again: but the wicked shall fall into mischief.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/24-16.mp3" length="7436373" type="audio/mpeg" />
+      <pubDate>Mon, 24 May 2021 00:00:00 EST</pubDate>
+      <itunes:duration>00:10:49</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>For a just man falleth seven times, and riseth up again: but the wicked shall fall into mischief.</itunes:subtitle>
+      <itunes:summary>For a just man falleth seven times, and riseth up again: but the wicked shall fall into mischief.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/23-18.mp3?pubDate=2021-05-23</guid>
       <title>Proverbs 23:18</title>
       <description>For surely there is an end; and thine expectation shall not be cut off.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>Rejoice not when thine enemy falleth, and let not thine heart be glad when he stumbleth:</itunes:subtitle>
       <itunes:summary>Rejoice not when thine enemy falleth, and let not thine heart be glad when he stumbleth:</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/24-16.mp3?pubDate=2020-05-24</guid>
-      <title>Proverbs 24:16</title>
-      <description>For a just man falleth seven times, and riseth up again: but the wicked shall fall into mischief.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/24-16.mp3" length="7436373" type="audio/mpeg" />
-      <pubDate>Sun, 24 May 2020 00:00:00 EST</pubDate>
-      <itunes:duration>00:10:49</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>For a just man falleth seven times, and riseth up again: but the wicked shall fall into mischief.</itunes:subtitle>
-      <itunes:summary>For a just man falleth seven times, and riseth up again: but the wicked shall fall into mischief.</itunes:summary>
     </item>
   </channel>
 </rss>
