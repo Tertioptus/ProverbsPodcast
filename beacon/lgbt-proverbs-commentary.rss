@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/25-16.mp3?pubDate=2021-05-25</guid>
+      <title>Proverbs 25:16</title>
+      <description>Hast thou found honey? eat so much as is sufficient for thee, lest thou be filled therewith, and vomit it.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/25-16.mp3" length="9946636" type="audio/mpeg" />
+      <pubDate>Tue, 25 May 2021 00:00:00 EST</pubDate>
+      <itunes:duration>00:14:29</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>Hast thou found honey? eat so much as is sufficient for thee, lest thou be filled therewith, and vomit it.</itunes:subtitle>
+      <itunes:summary>Hast thou found honey? eat so much as is sufficient for thee, lest thou be filled therewith, and vomit it.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/24-18.mp3?pubDate=2021-05-24</guid>
       <title>Proverbs 24:18</title>
       <description>Lest the LORD see it, and it displease him, and he turn away his wrath from him.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>Withdraw thy foot from thy neighbour's house; lest he be weary of thee, and so hate thee.</itunes:subtitle>
       <itunes:summary>Withdraw thy foot from thy neighbour's house; lest he be weary of thee, and so hate thee.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/25-16.mp3?pubDate=2020-05-25</guid>
-      <title>Proverbs 25:16</title>
-      <description>Hast thou found honey? eat so much as is sufficient for thee, lest thou be filled therewith, and vomit it.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/25-16.mp3" length="9946636" type="audio/mpeg" />
-      <pubDate>Mon, 25 May 2020 00:00:00 EST</pubDate>
-      <itunes:duration>00:14:29</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>Hast thou found honey? eat so much as is sufficient for thee, lest thou be filled therewith, and vomit it.</itunes:subtitle>
-      <itunes:summary>Hast thou found honey? eat so much as is sufficient for thee, lest thou be filled therewith, and vomit it.</itunes:summary>
     </item>
   </channel>
 </rss>
