@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/26-16.mp3?pubDate=2021-05-26</guid>
+      <title>Proverbs 26:16</title>
+      <description>The sluggard is wiser in his own conceit than seven men that can render a reason.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/26-16.mp3" length="3983194" type="audio/mpeg" />
+      <pubDate>Wed, 26 May 2021 00:00:00 EST</pubDate>
+      <itunes:duration>00:05:48</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>The sluggard is wiser in his own conceit than seven men that can render a reason.</itunes:subtitle>
+      <itunes:summary>The sluggard is wiser in his own conceit than seven men that can render a reason.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/25-18.mp3?pubDate=2021-05-25</guid>
       <title>Proverbs 25:18</title>
       <description>A man that beareth false witness against his neighbour is a maul, and a sword, and a sharp arrow.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>He that passeth by, and meddleth with strife belonging not to him, is like one that taketh a dog by the ears.</itunes:subtitle>
       <itunes:summary>He that passeth by, and meddleth with strife belonging not to him, is like one that taketh a dog by the ears.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/26-16.mp3?pubDate=2020-05-26</guid>
-      <title>Proverbs 26:16</title>
-      <description>The sluggard is wiser in his own conceit than seven men that can render a reason.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/26-16.mp3" length="3983194" type="audio/mpeg" />
-      <pubDate>Tue, 26 May 2020 00:00:00 EST</pubDate>
-      <itunes:duration>00:05:48</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>The sluggard is wiser in his own conceit than seven men that can render a reason.</itunes:subtitle>
-      <itunes:summary>The sluggard is wiser in his own conceit than seven men that can render a reason.</itunes:summary>
     </item>
   </channel>
 </rss>
