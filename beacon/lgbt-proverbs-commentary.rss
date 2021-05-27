@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/27-17.mp3?pubDate=2021-05-27</guid>
+      <title>Proverbs 27:17</title>
+      <description>Iron sharpeneth iron; so a man sharpeneth the countenance of his friend.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/27-17.mp3" length="10351638" type="audio/mpeg" />
+      <pubDate>Thu, 27 May 2021 08:00:00 EST</pubDate>
+      <itunes:duration>00:15:04</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>Iron sharpeneth iron; so a man sharpeneth the countenance of his friend.</itunes:subtitle>
+      <itunes:summary>Iron sharpeneth iron; so a man sharpeneth the countenance of his friend.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/27-16.mp3?pubDate=2021-05-27</guid>
       <title>Proverbs 27:16</title>
       <description>Whosoever hideth her hideth the wind, and the ointment of his right hand, which bewrayeth itself.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>Whoso keepeth the fig tree shall eat the fruit thereof: so he that waiteth on his master shall be honoured.</itunes:subtitle>
       <itunes:summary>Whoso keepeth the fig tree shall eat the fruit thereof: so he that waiteth on his master shall be honoured.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/27-17.mp3?pubDate=2020-05-27</guid>
-      <title>Proverbs 27:17</title>
-      <description>Iron sharpeneth iron; so a man sharpeneth the countenance of his friend.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/27-17.mp3" length="10351638" type="audio/mpeg" />
-      <pubDate>Wed, 27 May 2020 08:00:00 EST</pubDate>
-      <itunes:duration>00:15:04</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>Iron sharpeneth iron; so a man sharpeneth the countenance of his friend.</itunes:subtitle>
-      <itunes:summary>Iron sharpeneth iron; so a man sharpeneth the countenance of his friend.</itunes:summary>
     </item>
   </channel>
 </rss>
