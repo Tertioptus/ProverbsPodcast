@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/28-17.mp3?pubDate=2021-05-28</guid>
+      <title>Proverbs 28:17</title>
+      <description>A man that doeth violence to the blood of any person shall flee to the pit; let no man stay him.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/28-17.mp3" length="15649689" type="audio/mpeg" />
+      <pubDate>Fri, 28 May 2021 08:00:00 EST</pubDate>
+      <itunes:duration>00:22:47</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>A man that doeth violence to the blood of any person shall flee to the pit; let no man stay him.</itunes:subtitle>
+      <itunes:summary>A man that doeth violence to the blood of any person shall flee to the pit; let no man stay him.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/28-16.mp3?pubDate=2021-05-28</guid>
       <title>Proverbs 28:16</title>
       <description>The prince that wanteth understanding is also a great oppressor: but he that hateth covetousness shall prolong his days.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>Whoso walketh uprightly shall be saved: but he that is perverse in his ways shall fall at once.</itunes:subtitle>
       <itunes:summary>Whoso walketh uprightly shall be saved: but he that is perverse in his ways shall fall at once.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/28-17.mp3?pubDate=2020-05-28</guid>
-      <title>Proverbs 28:17</title>
-      <description>A man that doeth violence to the blood of any person shall flee to the pit; let no man stay him.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/28-17.mp3" length="15649689" type="audio/mpeg" />
-      <pubDate>Thu, 28 May 2020 08:00:00 EST</pubDate>
-      <itunes:duration>00:22:47</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>A man that doeth violence to the blood of any person shall flee to the pit; let no man stay him.</itunes:subtitle>
-      <itunes:summary>A man that doeth violence to the blood of any person shall flee to the pit; let no man stay him.</itunes:summary>
     </item>
   </channel>
 </rss>
