@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/29-17.mp3?pubDate=2021-05-29</guid>
+      <title>Proverbs 29:17</title>
+      <description>Correct thy son, and he shall give thee rest; yea, he shall give delight unto thy soul.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/29-17.mp3" length="6378100" type="audio/mpeg" />
+      <pubDate>Sat, 29 May 2021 08:00:00 EST</pubDate>
+      <itunes:duration>00:09:17</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>Correct thy son, and he shall give thee rest; yea, he shall give delight unto thy soul.</itunes:subtitle>
+      <itunes:summary>Correct thy son, and he shall give thee rest; yea, he shall give delight unto thy soul.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/29-16.mp3?pubDate=2021-05-29</guid>
       <title>Proverbs 29:16</title>
       <description>When the wicked are multiplied, transgression increaseth: but the righteous shall see their fall.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>Where there is no vision, the people perish: but he that keepeth the law, happy is he.</itunes:subtitle>
       <itunes:summary>Where there is no vision, the people perish: but he that keepeth the law, happy is he.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/29-17.mp3?pubDate=2020-05-29</guid>
-      <title>Proverbs 29:17</title>
-      <description>Correct thy son, and he shall give thee rest; yea, he shall give delight unto thy soul.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/29-17.mp3" length="6378100" type="audio/mpeg" />
-      <pubDate>Fri, 29 May 2020 08:00:00 EST</pubDate>
-      <itunes:duration>00:09:17</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>Correct thy son, and he shall give thee rest; yea, he shall give delight unto thy soul.</itunes:subtitle>
-      <itunes:summary>Correct thy son, and he shall give thee rest; yea, he shall give delight unto thy soul.</itunes:summary>
     </item>
   </channel>
 </rss>
