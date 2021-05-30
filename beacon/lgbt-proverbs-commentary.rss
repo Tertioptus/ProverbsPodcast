@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/30-18.mp3?pubDate=2021-05-30</guid>
+      <title>Proverbs 30:18</title>
+      <description>There be three things which are too wonderful for me, yea, four which I know not:</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/30-18.mp3" length="6125653" type="audio/mpeg" />
+      <pubDate>Sun, 30 May 2021 16:00:00 EST</pubDate>
+      <itunes:duration>00:08:55</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>There be three things which are too wonderful for me, yea, four which I know not:</itunes:subtitle>
+      <itunes:summary>There be three things which are too wonderful for me, yea, four which I know not:</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/30-17.mp3?pubDate=2021-05-30</guid>
       <title>Proverbs 30:17</title>
       <description>The eye that mocketh at his father, and despiseth to obey his mother, the ravens of the valley shall pick it out, and the young eagles shall eat it.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>She considereth a field, and buyeth it: with the fruit of her hands she planteth a vineyard.</itunes:subtitle>
       <itunes:summary>She considereth a field, and buyeth it: with the fruit of her hands she planteth a vineyard.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/30-18.mp3?pubDate=2020-05-30</guid>
-      <title>Proverbs 30:18</title>
-      <description>There be three things which are too wonderful for me, yea, four which I know not:</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/30-18.mp3" length="6125653" type="audio/mpeg" />
-      <pubDate>Sat, 30 May 2020 16:00:00 EST</pubDate>
-      <itunes:duration>00:08:55</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>There be three things which are too wonderful for me, yea, four which I know not:</itunes:subtitle>
-      <itunes:summary>There be three things which are too wonderful for me, yea, four which I know not:</itunes:summary>
     </item>
   </channel>
 </rss>
