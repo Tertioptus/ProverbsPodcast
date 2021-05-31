@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/31-17.mp3?pubDate=2021-05-31</guid>
+      <title>Proverbs 31:17</title>
+      <description>She girdeth her loins with strength, and strengtheneth her arms.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/31-17.mp3" length="7948373" type="audio/mpeg" />
+      <pubDate>Mon, 31 May 2021 08:00:00 EST</pubDate>
+      <itunes:duration>00:11:34</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>She girdeth her loins with strength, and strengtheneth her arms.</itunes:subtitle>
+      <itunes:summary>She girdeth her loins with strength, and strengtheneth her arms.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/31-16.mp3?pubDate=2021-05-31</guid>
       <title>Proverbs 31:16</title>
       <description>She considereth a field, and buyeth it: with the fruit of her hands she planteth a vineyard.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>She perceiveth that her merchandise is good: her candle goeth not out by night.</itunes:subtitle>
       <itunes:summary>She perceiveth that her merchandise is good: her candle goeth not out by night.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/31-17.mp3?pubDate=2020-05-31</guid>
-      <title>Proverbs 31:17</title>
-      <description>She girdeth her loins with strength, and strengtheneth her arms.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/31-17.mp3" length="7948373" type="audio/mpeg" />
-      <pubDate>Sun, 31 May 2020 08:00:00 EST</pubDate>
-      <itunes:duration>00:11:34</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>She girdeth her loins with strength, and strengtheneth her arms.</itunes:subtitle>
-      <itunes:summary>She girdeth her loins with strength, and strengtheneth her arms.</itunes:summary>
     </item>
   </channel>
 </rss>
