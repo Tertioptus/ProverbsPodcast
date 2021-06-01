@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/01-21.mp3?pubDate=2021-06-01</guid>
+      <title>Proverbs 1:21</title>
+      <description>She crieth in the chief place of concourse, in the openings of the gates: in the city she uttereth her words, saying,</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/01-21.mp3" length="3826897" type="audio/mpeg" />
+      <pubDate>Tue, 01 Jun 2021 16:00:00 EST</pubDate>
+      <itunes:duration>00:05:34</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>She crieth in the chief place of concourse, in the openings of the gates: in the city she uttereth her words, saying,</itunes:subtitle>
+      <itunes:summary>She crieth in the chief place of concourse, in the openings of the gates: in the city she uttereth her words, saying,</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/01-20.mp3?pubDate=2021-06-01</guid>
       <title>Proverbs 1:20</title>
       <description>Wisdom crieth without; she uttereth her voice in the streets:</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>None that go unto her return again, neither take they hold of the paths of life.</itunes:subtitle>
       <itunes:summary>None that go unto her return again, neither take they hold of the paths of life.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/01-21.mp3?pubDate=2020-06-01</guid>
-      <title>Proverbs 1:21</title>
-      <description>She crieth in the chief place of concourse, in the openings of the gates: in the city she uttereth her words, saying,</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/01-21.mp3" length="3826897" type="audio/mpeg" />
-      <pubDate>Mon, 01 Jun 2020 16:00:00 EST</pubDate>
-      <itunes:duration>00:05:34</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>She crieth in the chief place of concourse, in the openings of the gates: in the city she uttereth her words, saying,</itunes:subtitle>
-      <itunes:summary>She crieth in the chief place of concourse, in the openings of the gates: in the city she uttereth her words, saying,</itunes:summary>
     </item>
   </channel>
 </rss>
