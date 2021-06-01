@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/01-20.mp3?pubDate=2021-06-01</guid>
+      <title>Proverbs 1:20</title>
+      <description>Wisdom crieth without; she uttereth her voice in the streets:</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/01-20.mp3" length="6074264" type="audio/mpeg" />
+      <pubDate>Tue, 01 Jun 2021 08:00:00 EST</pubDate>
+      <itunes:duration>00:08:50</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>Wisdom crieth without; she uttereth her voice in the streets:</itunes:subtitle>
+      <itunes:summary>Wisdom crieth without; she uttereth her voice in the streets:</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/01-19.mp3?pubDate=2021-06-01</guid>
       <title>Proverbs 1:19</title>
       <description>So are the ways of every one that is greedy of gain; which taketh away the life of the owners thereof.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>She crieth in the chief place of concourse, in the openings of the gates: in the city she uttereth her words, saying,</itunes:subtitle>
       <itunes:summary>She crieth in the chief place of concourse, in the openings of the gates: in the city she uttereth her words, saying,</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/01-20.mp3?pubDate=2020-06-01</guid>
-      <title>Proverbs 1:20</title>
-      <description>Wisdom crieth without; she uttereth her voice in the streets:</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/01-20.mp3" length="6074264" type="audio/mpeg" />
-      <pubDate>Mon, 01 Jun 2020 08:00:00 EST</pubDate>
-      <itunes:duration>00:08:50</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>Wisdom crieth without; she uttereth her voice in the streets:</itunes:subtitle>
-      <itunes:summary>Wisdom crieth without; she uttereth her voice in the streets:</itunes:summary>
     </item>
   </channel>
 </rss>
