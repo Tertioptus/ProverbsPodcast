@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/01-19.mp3?pubDate=2021-06-01</guid>
+      <title>Proverbs 1:19</title>
+      <description>So are the ways of every one that is greedy of gain; which taketh away the life of the owners thereof.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/01-19.mp3" length="3724497" type="audio/mpeg" />
+      <pubDate>Tue, 01 Jun 2021 00:00:00 EST</pubDate>
+      <itunes:duration>00:05:25</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>So are the ways of every one that is greedy of gain; which taketh away the life of the owners thereof.</itunes:subtitle>
+      <itunes:summary>So are the ways of every one that is greedy of gain; which taketh away the life of the owners thereof.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/31-18.mp3?pubDate=2021-05-31</guid>
       <title>Proverbs 31:18</title>
       <description>She perceiveth that her merchandise is good: her candle goeth not out by night.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>Wisdom crieth without; she uttereth her voice in the streets:</itunes:subtitle>
       <itunes:summary>Wisdom crieth without; she uttereth her voice in the streets:</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/01-19.mp3?pubDate=2020-06-01</guid>
-      <title>Proverbs 1:19</title>
-      <description>So are the ways of every one that is greedy of gain; which taketh away the life of the owners thereof.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/01-19.mp3" length="3724497" type="audio/mpeg" />
-      <pubDate>Mon, 01 Jun 2020 00:00:00 EST</pubDate>
-      <itunes:duration>00:05:25</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>So are the ways of every one that is greedy of gain; which taketh away the life of the owners thereof.</itunes:subtitle>
-      <itunes:summary>So are the ways of every one that is greedy of gain; which taketh away the life of the owners thereof.</itunes:summary>
     </item>
   </channel>
 </rss>
