@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/02-19.mp3?pubDate=2021-06-02</guid>
+      <title>Proverbs 2:19</title>
+      <description>None that go unto her return again, neither take they hold of the paths of life.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/02-19.mp3" length="4928617" type="audio/mpeg" />
+      <pubDate>Wed, 02 Jun 2021 00:00:00 EST</pubDate>
+      <itunes:duration>00:07:10</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>None that go unto her return again, neither take they hold of the paths of life.</itunes:subtitle>
+      <itunes:summary>None that go unto her return again, neither take they hold of the paths of life.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/01-21.mp3?pubDate=2021-06-01</guid>
       <title>Proverbs 1:21</title>
       <description>She crieth in the chief place of concourse, in the openings of the gates: in the city she uttereth her words, saying,</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>That thou mayest walk in the way of good men, and keep the paths of the righteous.</itunes:subtitle>
       <itunes:summary>That thou mayest walk in the way of good men, and keep the paths of the righteous.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/02-19.mp3?pubDate=2020-06-02</guid>
-      <title>Proverbs 2:19</title>
-      <description>None that go unto her return again, neither take they hold of the paths of life.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/02-19.mp3" length="4928617" type="audio/mpeg" />
-      <pubDate>Tue, 02 Jun 2020 00:00:00 EST</pubDate>
-      <itunes:duration>00:07:10</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>None that go unto her return again, neither take they hold of the paths of life.</itunes:subtitle>
-      <itunes:summary>None that go unto her return again, neither take they hold of the paths of life.</itunes:summary>
     </item>
   </channel>
 </rss>
