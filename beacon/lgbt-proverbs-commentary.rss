@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/02-21.mp3?pubDate=2021-06-02</guid>
+      <title>Proverbs 2:21</title>
+      <description>For the upright shall dwell in the land, and the perfect shall remain in it.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/02-21.mp3" length="5117116" type="audio/mpeg" />
+      <pubDate>Wed, 02 Jun 2021 16:00:00 EST</pubDate>
+      <itunes:duration>00:07:27</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>For the upright shall dwell in the land, and the perfect shall remain in it.</itunes:subtitle>
+      <itunes:summary>For the upright shall dwell in the land, and the perfect shall remain in it.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/02-20.mp3?pubDate=2021-06-02</guid>
       <title>Proverbs 2:20</title>
       <description>That thou mayest walk in the way of good men, and keep the paths of the righteous.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>The LORD by wisdom hath founded the earth; by understanding hath he established the heavens.</itunes:subtitle>
       <itunes:summary>The LORD by wisdom hath founded the earth; by understanding hath he established the heavens.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/02-21.mp3?pubDate=2020-06-02</guid>
-      <title>Proverbs 2:21</title>
-      <description>For the upright shall dwell in the land, and the perfect shall remain in it.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/02-21.mp3" length="5117116" type="audio/mpeg" />
-      <pubDate>Tue, 02 Jun 2020 16:00:00 EST</pubDate>
-      <itunes:duration>00:07:27</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>For the upright shall dwell in the land, and the perfect shall remain in it.</itunes:subtitle>
-      <itunes:summary>For the upright shall dwell in the land, and the perfect shall remain in it.</itunes:summary>
     </item>
   </channel>
 </rss>
