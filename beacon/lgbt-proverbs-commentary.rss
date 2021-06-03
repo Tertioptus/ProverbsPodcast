@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/03-21.mp3?pubDate=2021-06-03</guid>
+      <title>Proverbs 3:21</title>
+      <description>My son, let not them depart from thine eyes: keep sound wisdom and discretion:</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/03-21.mp3" length="5841858" type="audio/mpeg" />
+      <pubDate>Thu, 03 Jun 2021 16:00:00 EST</pubDate>
+      <itunes:duration>00:08:30</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>My son, let not them depart from thine eyes: keep sound wisdom and discretion:</itunes:subtitle>
+      <itunes:summary>My son, let not them depart from thine eyes: keep sound wisdom and discretion:</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/03-20.mp3?pubDate=2021-06-03</guid>
       <title>Proverbs 3:20</title>
       <description>By his knowledge the depths are broken up, and the clouds drop down the dew.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>The way of the wicked is as darkness: they know not at what they stumble.</itunes:subtitle>
       <itunes:summary>The way of the wicked is as darkness: they know not at what they stumble.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/03-21.mp3?pubDate=2020-06-03</guid>
-      <title>Proverbs 3:21</title>
-      <description>My son, let not them depart from thine eyes: keep sound wisdom and discretion:</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/03-21.mp3" length="5841858" type="audio/mpeg" />
-      <pubDate>Wed, 03 Jun 2020 16:00:00 EST</pubDate>
-      <itunes:duration>00:08:30</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>My son, let not them depart from thine eyes: keep sound wisdom and discretion:</itunes:subtitle>
-      <itunes:summary>My son, let not them depart from thine eyes: keep sound wisdom and discretion:</itunes:summary>
     </item>
   </channel>
 </rss>
