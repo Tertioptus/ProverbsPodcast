@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/04-20.mp3?pubDate=2021-06-04</guid>
+      <title>Proverbs 4:20</title>
+      <description>My son, attend to my words; incline thine ear unto my sayings.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/04-20.mp3" length="9366925" type="audio/mpeg" />
+      <pubDate>Fri, 04 Jun 2021 08:00:00 EST</pubDate>
+      <itunes:duration>00:13:38</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>My son, attend to my words; incline thine ear unto my sayings.</itunes:subtitle>
+      <itunes:summary>My son, attend to my words; incline thine ear unto my sayings.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/04-19.mp3?pubDate=2021-06-04</guid>
       <title>Proverbs 4:19</title>
       <description>The way of the wicked is as darkness: they know not at what they stumble.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>Let them not depart from thine eyes; keep them in the midst of thine heart.</itunes:subtitle>
       <itunes:summary>Let them not depart from thine eyes; keep them in the midst of thine heart.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/04-20.mp3?pubDate=2020-06-04</guid>
-      <title>Proverbs 4:20</title>
-      <description>My son, attend to my words; incline thine ear unto my sayings.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/04-20.mp3" length="9366925" type="audio/mpeg" />
-      <pubDate>Thu, 04 Jun 2020 08:00:00 EST</pubDate>
-      <itunes:duration>00:13:38</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>My son, attend to my words; incline thine ear unto my sayings.</itunes:subtitle>
-      <itunes:summary>My son, attend to my words; incline thine ear unto my sayings.</itunes:summary>
     </item>
   </channel>
 </rss>
