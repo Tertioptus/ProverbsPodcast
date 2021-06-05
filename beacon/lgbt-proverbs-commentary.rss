@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/05-21.mp3?pubDate=2021-06-05</guid>
+      <title>Proverbs 5:21</title>
+      <description>For the ways of man are before the eyes of the LORD, and he pondereth all his goings.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/05-21.mp3" length="4597593" type="audio/mpeg" />
+      <pubDate>Sat, 05 Jun 2021 16:00:00 EST</pubDate>
+      <itunes:duration>00:06:41</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>For the ways of man are before the eyes of the LORD, and he pondereth all his goings.</itunes:subtitle>
+      <itunes:summary>For the ways of man are before the eyes of the LORD, and he pondereth all his goings.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/05-20.mp3?pubDate=2021-06-05</guid>
       <title>Proverbs 5:20</title>
       <description>And why wilt thou, my son, be ravished with a strange woman, and embrace the bosom of a stranger?</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>A false witness that speaketh lies, and he that soweth discord among brethren.</itunes:subtitle>
       <itunes:summary>A false witness that speaketh lies, and he that soweth discord among brethren.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/05-21.mp3?pubDate=2020-06-05</guid>
-      <title>Proverbs 5:21</title>
-      <description>For the ways of man are before the eyes of the LORD, and he pondereth all his goings.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/05-21.mp3" length="4597593" type="audio/mpeg" />
-      <pubDate>Fri, 05 Jun 2020 16:00:00 EST</pubDate>
-      <itunes:duration>00:06:41</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>For the ways of man are before the eyes of the LORD, and he pondereth all his goings.</itunes:subtitle>
-      <itunes:summary>For the ways of man are before the eyes of the LORD, and he pondereth all his goings.</itunes:summary>
     </item>
   </channel>
 </rss>
