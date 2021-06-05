@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/05-19.mp3?pubDate=2021-06-05</guid>
+      <title>Proverbs 5:19</title>
+      <description>Let her be as the loving hind and pleasant roe; let her breasts satisfy thee at all times; and be thou ravished always with her love.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/05-19.mp3" length="12874439" type="audio/mpeg" />
+      <pubDate>Sat, 05 Jun 2021 00:00:00 EST</pubDate>
+      <itunes:duration>00:18:44</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>Let her be as the loving hind and pleasant roe; let her breasts satisfy thee at all times; and be thou ravished always with her love.</itunes:subtitle>
+      <itunes:summary>Let her be as the loving hind and pleasant roe; let her breasts satisfy thee at all times; and be thou ravished always with her love.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/04-21.mp3?pubDate=2021-06-04</guid>
       <title>Proverbs 4:21</title>
       <description>Let them not depart from thine eyes; keep them in the midst of thine heart.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>And why wilt thou, my son, be ravished with a strange woman, and embrace the bosom of a stranger?</itunes:subtitle>
       <itunes:summary>And why wilt thou, my son, be ravished with a strange woman, and embrace the bosom of a stranger?</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/05-19.mp3?pubDate=2020-06-05</guid>
-      <title>Proverbs 5:19</title>
-      <description>Let her be as the loving hind and pleasant roe; let her breasts satisfy thee at all times; and be thou ravished always with her love.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/05-19.mp3" length="12874439" type="audio/mpeg" />
-      <pubDate>Fri, 05 Jun 2020 00:00:00 EST</pubDate>
-      <itunes:duration>00:18:44</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>Let her be as the loving hind and pleasant roe; let her breasts satisfy thee at all times; and be thou ravished always with her love.</itunes:subtitle>
-      <itunes:summary>Let her be as the loving hind and pleasant roe; let her breasts satisfy thee at all times; and be thou ravished always with her love.</itunes:summary>
     </item>
   </channel>
 </rss>
