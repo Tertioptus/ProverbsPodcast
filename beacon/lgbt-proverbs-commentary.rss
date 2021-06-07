@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/07-19.mp3?pubDate=2021-06-07</guid>
+      <title>Proverbs 7:19</title>
+      <description>For the goodman is not at home, he is gone a long journey:</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/07-19.mp3" length="6546537" type="audio/mpeg" />
+      <pubDate>Mon, 07 Jun 2021 00:00:00 EST</pubDate>
+      <itunes:duration>00:09:31</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>For the goodman is not at home, he is gone a long journey:</itunes:subtitle>
+      <itunes:summary>For the goodman is not at home, he is gone a long journey:</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/06-21.mp3?pubDate=2021-06-06</guid>
       <title>Proverbs 6:21</title>
       <description>Bind them continually upon thine heart, and tie them about thy neck.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>He hath taken a bag of money with him, and will come home at the day appointed.</itunes:subtitle>
       <itunes:summary>He hath taken a bag of money with him, and will come home at the day appointed.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/07-19.mp3?pubDate=2020-06-07</guid>
-      <title>Proverbs 7:19</title>
-      <description>For the goodman is not at home, he is gone a long journey:</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/07-19.mp3" length="6546537" type="audio/mpeg" />
-      <pubDate>Sun, 07 Jun 2020 00:00:00 EST</pubDate>
-      <itunes:duration>00:09:31</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>For the goodman is not at home, he is gone a long journey:</itunes:subtitle>
-      <itunes:summary>For the goodman is not at home, he is gone a long journey:</itunes:summary>
     </item>
   </channel>
 </rss>
