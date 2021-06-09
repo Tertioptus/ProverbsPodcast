@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/09-02.mp3?pubDate=2021-06-09</guid>
+      <title>Proverbs 9:2</title>
+      <description>She hath killed her beasts; she hath mingled her wine; she hath also furnished her table.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/09-02.mp3" length="7412129" type="audio/mpeg" />
+      <pubDate>Wed, 09 Jun 2021 08:00:00 EST</pubDate>
+      <itunes:duration>00:10:47</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>She hath killed her beasts; she hath mingled her wine; she hath also furnished her table.</itunes:subtitle>
+      <itunes:summary>She hath killed her beasts; she hath mingled her wine; she hath also furnished her table.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/09-01.mp3?pubDate=2021-06-09</guid>
       <title>Proverbs 9:1</title>
       <description>Wisdom hath builded her house, she hath hewn out her seven pillars:</description>
@@ -5856,18 +5868,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>She hath sent forth her maidens: she crieth upon the highest places of the city,</itunes:subtitle>
       <itunes:summary>She hath sent forth her maidens: she crieth upon the highest places of the city,</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/09-02.mp3?pubDate=2020-12-09</guid>
-      <title>Proverbs 9:2</title>
-      <description>She hath killed her beasts; she hath mingled her wine; she hath also furnished her table.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/09-02.mp3" length="7412129" type="audio/mpeg" />
-      <pubDate>Wed, 09 Dec 2020 08:00:00 EST</pubDate>
-      <itunes:duration>00:10:47</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>She hath killed her beasts; she hath mingled her wine; she hath also furnished her table.</itunes:subtitle>
-      <itunes:summary>She hath killed her beasts; she hath mingled her wine; she hath also furnished her table.</itunes:summary>
     </item>
     <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/08-03.mp3?pubDate=2020-12-08</guid>
