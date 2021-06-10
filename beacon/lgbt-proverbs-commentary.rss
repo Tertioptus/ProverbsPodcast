@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/10-19.mp3?pubDate=2021-06-10</guid>
+      <title>Proverbs 10:19</title>
+      <description>In the multitude of words there wanteth not sin: but he that refraineth his lips is wise.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/10-19.mp3" length="4272422" type="audio/mpeg" />
+      <pubDate>Thu, 10 Jun 2021 00:00:00 EST</pubDate>
+      <itunes:duration>00:06:13</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>In the multitude of words there wanteth not sin: but he that refraineth his lips is wise.</itunes:subtitle>
+      <itunes:summary>In the multitude of words there wanteth not sin: but he that refraineth his lips is wise.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/09-03.mp3?pubDate=2021-06-09</guid>
       <title>Proverbs 9:3</title>
       <description>She hath sent forth her maidens: she crieth upon the highest places of the city,</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>The tongue of the just is as choice silver: the heart of the wicked is little worth.</itunes:subtitle>
       <itunes:summary>The tongue of the just is as choice silver: the heart of the wicked is little worth.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/10-19.mp3?pubDate=2020-06-10</guid>
-      <title>Proverbs 10:19</title>
-      <description>In the multitude of words there wanteth not sin: but he that refraineth his lips is wise.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/10-19.mp3" length="4272422" type="audio/mpeg" />
-      <pubDate>Wed, 10 Jun 2020 00:00:00 EST</pubDate>
-      <itunes:duration>00:06:13</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>In the multitude of words there wanteth not sin: but he that refraineth his lips is wise.</itunes:subtitle>
-      <itunes:summary>In the multitude of words there wanteth not sin: but he that refraineth his lips is wise.</itunes:summary>
     </item>
   </channel>
 </rss>
