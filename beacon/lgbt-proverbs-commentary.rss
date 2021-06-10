@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/10-21.mp3?pubDate=2021-06-10</guid>
+      <title>Proverbs 10:21</title>
+      <description>The lips of the righteous feed many: but fools die for want of wisdom.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/10-21.mp3" length="5742384" type="audio/mpeg" />
+      <pubDate>Thu, 10 Jun 2021 16:00:00 EST</pubDate>
+      <itunes:duration>00:08:21</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>The lips of the righteous feed many: but fools die for want of wisdom.</itunes:subtitle>
+      <itunes:summary>The lips of the righteous feed many: but fools die for want of wisdom.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/10-20.mp3?pubDate=2021-06-10</guid>
       <title>Proverbs 10:20</title>
       <description>The tongue of the just is as choice silver: the heart of the wicked is little worth.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>As righteousness tendeth to life: so he that pursueth evil pursueth it to his own death.</itunes:subtitle>
       <itunes:summary>As righteousness tendeth to life: so he that pursueth evil pursueth it to his own death.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/10-21.mp3?pubDate=2020-06-10</guid>
-      <title>Proverbs 10:21</title>
-      <description>The lips of the righteous feed many: but fools die for want of wisdom.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/10-21.mp3" length="5742384" type="audio/mpeg" />
-      <pubDate>Wed, 10 Jun 2020 16:00:00 EST</pubDate>
-      <itunes:duration>00:08:21</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>The lips of the righteous feed many: but fools die for want of wisdom.</itunes:subtitle>
-      <itunes:summary>The lips of the righteous feed many: but fools die for want of wisdom.</itunes:summary>
     </item>
   </channel>
 </rss>
