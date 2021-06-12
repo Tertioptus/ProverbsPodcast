@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/12-19.mp3?pubDate=2021-06-12</guid>
+      <title>Proverbs 12:19</title>
+      <description>The lip of truth shall be established for ever: but a lying tongue is but for a moment.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/12-19.mp3" length="6916850" type="audio/mpeg" />
+      <pubDate>Sat, 12 Jun 2021 00:00:00 EST</pubDate>
+      <itunes:duration>00:10:04</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>The lip of truth shall be established for ever: but a lying tongue is but for a moment.</itunes:subtitle>
+      <itunes:summary>The lip of truth shall be established for ever: but a lying tongue is but for a moment.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/11-21.mp3?pubDate=2021-06-11</guid>
       <title>Proverbs 11:21</title>
       <description>Though hand join in hand, the wicked shall not be unpunished: but the seed of the righteous shall be delivered.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>Deceit is in the heart of them that imagine evil: but to the counsellors of peace is joy.</itunes:subtitle>
       <itunes:summary>Deceit is in the heart of them that imagine evil: but to the counsellors of peace is joy.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/12-19.mp3?pubDate=2020-06-12</guid>
-      <title>Proverbs 12:19</title>
-      <description>The lip of truth shall be established for ever: but a lying tongue is but for a moment.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/12-19.mp3" length="6916850" type="audio/mpeg" />
-      <pubDate>Fri, 12 Jun 2020 00:00:00 EST</pubDate>
-      <itunes:duration>00:10:04</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>The lip of truth shall be established for ever: but a lying tongue is but for a moment.</itunes:subtitle>
-      <itunes:summary>The lip of truth shall be established for ever: but a lying tongue is but for a moment.</itunes:summary>
     </item>
   </channel>
 </rss>
