@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/12-21.mp3?pubDate=2021-06-12</guid>
+      <title>Proverbs 12:21</title>
+      <description>There shall no evil happen to the just: but the wicked shall be filled with mischief.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/12-21.mp3" length="3518424" type="audio/mpeg" />
+      <pubDate>Sat, 12 Jun 2021 16:00:00 EST</pubDate>
+      <itunes:duration>00:05:07</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>There shall no evil happen to the just: but the wicked shall be filled with mischief.</itunes:subtitle>
+      <itunes:summary>There shall no evil happen to the just: but the wicked shall be filled with mischief.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/12-20.mp3?pubDate=2021-06-12</guid>
       <title>Proverbs 12:20</title>
       <description>Deceit is in the heart of them that imagine evil: but to the counsellors of peace is joy.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>The desire accomplished is sweet to the soul: but it is abomination to fools to depart from evil.</itunes:subtitle>
       <itunes:summary>The desire accomplished is sweet to the soul: but it is abomination to fools to depart from evil.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/12-21.mp3?pubDate=2020-06-12</guid>
-      <title>Proverbs 12:21</title>
-      <description>There shall no evil happen to the just: but the wicked shall be filled with mischief.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/12-21.mp3" length="3518424" type="audio/mpeg" />
-      <pubDate>Fri, 12 Jun 2020 16:00:00 EST</pubDate>
-      <itunes:duration>00:05:07</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>There shall no evil happen to the just: but the wicked shall be filled with mischief.</itunes:subtitle>
-      <itunes:summary>There shall no evil happen to the just: but the wicked shall be filled with mischief.</itunes:summary>
     </item>
   </channel>
 </rss>
