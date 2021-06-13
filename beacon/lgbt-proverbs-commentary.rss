@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/13-21.mp3?pubDate=2021-06-13</guid>
+      <title>Proverbs 13:21</title>
+      <description>Evil pursueth sinners: but to the righteous good shall be repayed.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/13-21.mp3" length="6655625" type="audio/mpeg" />
+      <pubDate>Sun, 13 Jun 2021 16:00:00 EST</pubDate>
+      <itunes:duration>00:09:41</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>Evil pursueth sinners: but to the righteous good shall be repayed.</itunes:subtitle>
+      <itunes:summary>Evil pursueth sinners: but to the righteous good shall be repayed.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/13-20.mp3?pubDate=2021-06-13</guid>
       <title>Proverbs 13:20</title>
       <description>He that walketh with wise men shall be wise: but a companion of fools shall be destroyed.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>The evil bow before the good; and the wicked at the gates of the righteous.</itunes:subtitle>
       <itunes:summary>The evil bow before the good; and the wicked at the gates of the righteous.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/13-21.mp3?pubDate=2020-06-13</guid>
-      <title>Proverbs 13:21</title>
-      <description>Evil pursueth sinners: but to the righteous good shall be repayed.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/13-21.mp3" length="6655625" type="audio/mpeg" />
-      <pubDate>Sat, 13 Jun 2020 16:00:00 EST</pubDate>
-      <itunes:duration>00:09:41</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>Evil pursueth sinners: but to the righteous good shall be repayed.</itunes:subtitle>
-      <itunes:summary>Evil pursueth sinners: but to the righteous good shall be repayed.</itunes:summary>
     </item>
   </channel>
 </rss>
