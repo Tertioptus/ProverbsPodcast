@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/14-20.mp3?pubDate=2021-06-14</guid>
+      <title>Proverbs 14:20</title>
+      <description>The poor is hated even of his own neighbour: but the rich hath many friends.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/14-20.mp3" length="4028334" type="audio/mpeg" />
+      <pubDate>Mon, 14 Jun 2021 08:00:00 EST</pubDate>
+      <itunes:duration>00:05:51</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>The poor is hated even of his own neighbour: but the rich hath many friends.</itunes:subtitle>
+      <itunes:summary>The poor is hated even of his own neighbour: but the rich hath many friends.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/14-19.mp3?pubDate=2021-06-14</guid>
       <title>Proverbs 14:19</title>
       <description>The evil bow before the good; and the wicked at the gates of the righteous.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>He that despiseth his neighbour sinneth: but he that hath mercy on the poor, happy is he.</itunes:subtitle>
       <itunes:summary>He that despiseth his neighbour sinneth: but he that hath mercy on the poor, happy is he.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/14-20.mp3?pubDate=2020-06-14</guid>
-      <title>Proverbs 14:20</title>
-      <description>The poor is hated even of his own neighbour: but the rich hath many friends.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/14-20.mp3" length="4028334" type="audio/mpeg" />
-      <pubDate>Sun, 14 Jun 2020 08:00:00 EST</pubDate>
-      <itunes:duration>00:05:51</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>The poor is hated even of his own neighbour: but the rich hath many friends.</itunes:subtitle>
-      <itunes:summary>The poor is hated even of his own neighbour: but the rich hath many friends.</itunes:summary>
     </item>
   </channel>
 </rss>
