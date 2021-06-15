@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/15-21.mp3?pubDate=2021-06-15</guid>
+      <title>Proverbs 15:21</title>
+      <description>Folly is joy to him that is destitute of wisdom: but a man of understanding walketh uprightly.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/15-21.mp3" length="4252360" type="audio/mpeg" />
+      <pubDate>Tue, 15 Jun 2021 16:00:00 EST</pubDate>
+      <itunes:duration>00:06:11</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>Folly is joy to him that is destitute of wisdom: but a man of understanding walketh uprightly.</itunes:subtitle>
+      <itunes:summary>Folly is joy to him that is destitute of wisdom: but a man of understanding walketh uprightly.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/15-20.mp3?pubDate=2021-06-15</guid>
       <title>Proverbs 15:20</title>
       <description>A wise son maketh a glad father: but a foolish man despiseth his mother.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>Better it is to be of an humble spirit with the lowly, than to divide the spoil with the proud.</itunes:subtitle>
       <itunes:summary>Better it is to be of an humble spirit with the lowly, than to divide the spoil with the proud.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/15-21.mp3?pubDate=2020-06-15</guid>
-      <title>Proverbs 15:21</title>
-      <description>Folly is joy to him that is destitute of wisdom: but a man of understanding walketh uprightly.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/15-21.mp3" length="4252360" type="audio/mpeg" />
-      <pubDate>Mon, 15 Jun 2020 16:00:00 EST</pubDate>
-      <itunes:duration>00:06:11</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>Folly is joy to him that is destitute of wisdom: but a man of understanding walketh uprightly.</itunes:subtitle>
-      <itunes:summary>Folly is joy to him that is destitute of wisdom: but a man of understanding walketh uprightly.</itunes:summary>
     </item>
   </channel>
 </rss>
