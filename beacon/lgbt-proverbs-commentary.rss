@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/16-20.mp3?pubDate=2021-06-16</guid>
+      <title>Proverbs 16:20</title>
+      <description>He that handleth a matter wisely shall find good: and whoso trusteth in the LORD, happy is he.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/16-20.mp3" length="7880664" type="audio/mpeg" />
+      <pubDate>Wed, 16 Jun 2021 08:00:00 EST</pubDate>
+      <itunes:duration>00:11:28</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>He that handleth a matter wisely shall find good: and whoso trusteth in the LORD, happy is he.</itunes:subtitle>
+      <itunes:summary>He that handleth a matter wisely shall find good: and whoso trusteth in the LORD, happy is he.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/16-19.mp3?pubDate=2021-06-16</guid>
       <title>Proverbs 16:19</title>
       <description>Better it is to be of an humble spirit with the lowly, than to divide the spoil with the proud.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>The wise in heart shall be called prudent: and the sweetness of the lips increaseth learning.</itunes:subtitle>
       <itunes:summary>The wise in heart shall be called prudent: and the sweetness of the lips increaseth learning.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/16-20.mp3?pubDate=2020-06-16</guid>
-      <title>Proverbs 16:20</title>
-      <description>He that handleth a matter wisely shall find good: and whoso trusteth in the LORD, happy is he.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/16-20.mp3" length="7880664" type="audio/mpeg" />
-      <pubDate>Tue, 16 Jun 2020 08:00:00 EST</pubDate>
-      <itunes:duration>00:11:28</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>He that handleth a matter wisely shall find good: and whoso trusteth in the LORD, happy is he.</itunes:subtitle>
-      <itunes:summary>He that handleth a matter wisely shall find good: and whoso trusteth in the LORD, happy is he.</itunes:summary>
     </item>
   </channel>
 </rss>
