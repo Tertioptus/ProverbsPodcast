@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/16-21.mp3?pubDate=2021-06-16</guid>
+      <title>Proverbs 16:21</title>
+      <description>The wise in heart shall be called prudent: and the sweetness of the lips increaseth learning.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/16-21.mp3" length="5764536" type="audio/mpeg" />
+      <pubDate>Wed, 16 Jun 2021 16:00:00 EST</pubDate>
+      <itunes:duration>00:08:23</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>The wise in heart shall be called prudent: and the sweetness of the lips increaseth learning.</itunes:subtitle>
+      <itunes:summary>The wise in heart shall be called prudent: and the sweetness of the lips increaseth learning.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/16-20.mp3?pubDate=2021-06-16</guid>
       <title>Proverbs 16:20</title>
       <description>He that handleth a matter wisely shall find good: and whoso trusteth in the LORD, happy is he.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>He loveth transgression that loveth strife: and he that exalteth his gate seeketh destruction.</itunes:subtitle>
       <itunes:summary>He loveth transgression that loveth strife: and he that exalteth his gate seeketh destruction.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/16-21.mp3?pubDate=2020-06-16</guid>
-      <title>Proverbs 16:21</title>
-      <description>The wise in heart shall be called prudent: and the sweetness of the lips increaseth learning.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/16-21.mp3" length="5764536" type="audio/mpeg" />
-      <pubDate>Tue, 16 Jun 2020 16:00:00 EST</pubDate>
-      <itunes:duration>00:08:23</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>The wise in heart shall be called prudent: and the sweetness of the lips increaseth learning.</itunes:subtitle>
-      <itunes:summary>The wise in heart shall be called prudent: and the sweetness of the lips increaseth learning.</itunes:summary>
     </item>
   </channel>
 </rss>
