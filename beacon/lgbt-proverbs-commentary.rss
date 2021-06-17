@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/17-20.mp3?pubDate=2021-06-17</guid>
+      <title>Proverbs 17:20</title>
+      <description>He that hath a froward heart findeth no good: and he that hath a perverse tongue falleth into mischief.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/17-20.mp3" length="5618668" type="audio/mpeg" />
+      <pubDate>Thu, 17 Jun 2021 08:00:00 EST</pubDate>
+      <itunes:duration>00:08:10</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>He that hath a froward heart findeth no good: and he that hath a perverse tongue falleth into mischief.</itunes:subtitle>
+      <itunes:summary>He that hath a froward heart findeth no good: and he that hath a perverse tongue falleth into mischief.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/17-19.mp3?pubDate=2021-06-17</guid>
       <title>Proverbs 17:19</title>
       <description>He loveth transgression that loveth strife: and he that exalteth his gate seeketh destruction.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>He that begetteth a fool doeth it to his sorrow: and the father of a fool hath no joy.</itunes:subtitle>
       <itunes:summary>He that begetteth a fool doeth it to his sorrow: and the father of a fool hath no joy.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/17-20.mp3?pubDate=2020-06-17</guid>
-      <title>Proverbs 17:20</title>
-      <description>He that hath a froward heart findeth no good: and he that hath a perverse tongue falleth into mischief.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/17-20.mp3" length="5618668" type="audio/mpeg" />
-      <pubDate>Wed, 17 Jun 2020 08:00:00 EST</pubDate>
-      <itunes:duration>00:08:10</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>He that hath a froward heart findeth no good: and he that hath a perverse tongue falleth into mischief.</itunes:subtitle>
-      <itunes:summary>He that hath a froward heart findeth no good: and he that hath a perverse tongue falleth into mischief.</itunes:summary>
     </item>
   </channel>
 </rss>
