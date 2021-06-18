@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/18-20.mp3?pubDate=2021-06-18</guid>
+      <title>Proverbs 18:20</title>
+      <description>A man's belly shall be satisfied with the fruit of his mouth; and with the increase of his lips shall he be filled.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/18-20.mp3" length="5126730" type="audio/mpeg" />
+      <pubDate>Fri, 18 Jun 2021 08:00:00 EST</pubDate>
+      <itunes:duration>00:07:27</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>A man's belly shall be satisfied with the fruit of his mouth; and with the increase of his lips shall he be filled.</itunes:subtitle>
+      <itunes:summary>A man's belly shall be satisfied with the fruit of his mouth; and with the increase of his lips shall he be filled.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/18-19.mp3?pubDate=2021-06-18</guid>
       <title>Proverbs 18:19</title>
       <description>A brother offended is harder to be won than a strong city: and their contentions are like the bars of a castle.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>Death and life are in the power of the tongue: and they that love it shall eat the fruit thereof.</itunes:subtitle>
       <itunes:summary>Death and life are in the power of the tongue: and they that love it shall eat the fruit thereof.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/18-20.mp3?pubDate=2020-06-18</guid>
-      <title>Proverbs 18:20</title>
-      <description>A man's belly shall be satisfied with the fruit of his mouth; and with the increase of his lips shall he be filled.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/18-20.mp3" length="5126730" type="audio/mpeg" />
-      <pubDate>Thu, 18 Jun 2020 08:00:00 EST</pubDate>
-      <itunes:duration>00:07:27</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>A man's belly shall be satisfied with the fruit of his mouth; and with the increase of his lips shall he be filled.</itunes:subtitle>
-      <itunes:summary>A man's belly shall be satisfied with the fruit of his mouth; and with the increase of his lips shall he be filled.</itunes:summary>
     </item>
   </channel>
 </rss>
