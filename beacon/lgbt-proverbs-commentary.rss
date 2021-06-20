@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/20-20.mp3?pubDate=2021-06-20</guid>
+      <title>Proverbs 20:20</title>
+      <description>Whoso curseth his father or his mother, his lamp shall be put out in obscure darkness.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/20-20.mp3" length="7731034" type="audio/mpeg" />
+      <pubDate>Sun, 20 Jun 2021 08:00:00 EST</pubDate>
+      <itunes:duration>00:11:15</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>Whoso curseth his father or his mother, his lamp shall be put out in obscure darkness.</itunes:subtitle>
+      <itunes:summary>Whoso curseth his father or his mother, his lamp shall be put out in obscure darkness.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/20-19.mp3?pubDate=2021-06-20</guid>
       <title>Proverbs 20:19</title>
       <description>He that goeth about as a talebearer revealeth secrets: therefore meddle not with him that flattereth with his lips.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>An inheritance may be gotten hastily at the beginning; but the end thereof shall not be blessed.</itunes:subtitle>
       <itunes:summary>An inheritance may be gotten hastily at the beginning; but the end thereof shall not be blessed.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/20-20.mp3?pubDate=2020-06-20</guid>
-      <title>Proverbs 20:20</title>
-      <description>Whoso curseth his father or his mother, his lamp shall be put out in obscure darkness.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/20-20.mp3" length="7731034" type="audio/mpeg" />
-      <pubDate>Sat, 20 Jun 2020 08:00:00 EST</pubDate>
-      <itunes:duration>00:11:15</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>Whoso curseth his father or his mother, his lamp shall be put out in obscure darkness.</itunes:subtitle>
-      <itunes:summary>Whoso curseth his father or his mother, his lamp shall be put out in obscure darkness.</itunes:summary>
     </item>
   </channel>
 </rss>
