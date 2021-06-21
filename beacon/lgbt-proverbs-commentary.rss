@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/21-19.mp3?pubDate=2021-06-21</guid>
+      <title>Proverbs 21:19</title>
+      <description>It is better to dwell in the wilderness, than with a contentious and an angry woman.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/21-19.mp3" length="8421085" type="audio/mpeg" />
+      <pubDate>Mon, 21 Jun 2021 00:00:00 EST</pubDate>
+      <itunes:duration>00:12:15</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>It is better to dwell in the wilderness, than with a contentious and an angry woman.</itunes:subtitle>
+      <itunes:summary>It is better to dwell in the wilderness, than with a contentious and an angry woman.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/20-21.mp3?pubDate=2021-06-20</guid>
       <title>Proverbs 20:21</title>
       <description>An inheritance may be gotten hastily at the beginning; but the end thereof shall not be blessed.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>There is treasure to be desired and oil in the dwelling of the wise; but a foolish man spendeth it up.</itunes:subtitle>
       <itunes:summary>There is treasure to be desired and oil in the dwelling of the wise; but a foolish man spendeth it up.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/21-19.mp3?pubDate=2020-06-21</guid>
-      <title>Proverbs 21:19</title>
-      <description>It is better to dwell in the wilderness, than with a contentious and an angry woman.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/21-19.mp3" length="8421085" type="audio/mpeg" />
-      <pubDate>Sun, 21 Jun 2020 00:00:00 EST</pubDate>
-      <itunes:duration>00:12:15</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>It is better to dwell in the wilderness, than with a contentious and an angry woman.</itunes:subtitle>
-      <itunes:summary>It is better to dwell in the wilderness, than with a contentious and an angry woman.</itunes:summary>
     </item>
   </channel>
 </rss>
