@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/21-21.mp3?pubDate=2021-06-21</guid>
+      <title>Proverbs 21:21</title>
+      <description>He that followeth after righteousness and mercy findeth life, righteousness, and honour.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/21-21.mp3" length="5847710" type="audio/mpeg" />
+      <pubDate>Mon, 21 Jun 2021 16:00:00 EST</pubDate>
+      <itunes:duration>00:08:30</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>He that followeth after righteousness and mercy findeth life, righteousness, and honour.</itunes:subtitle>
+      <itunes:summary>He that followeth after righteousness and mercy findeth life, righteousness, and honour.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/21-20.mp3?pubDate=2021-06-21</guid>
       <title>Proverbs 21:20</title>
       <description>There is treasure to be desired and oil in the dwelling of the wise; but a foolish man spendeth it up.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>That thy trust may be in the LORD, I have made known to thee this day, even to thee.</itunes:subtitle>
       <itunes:summary>That thy trust may be in the LORD, I have made known to thee this day, even to thee.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/21-21.mp3?pubDate=2020-06-21</guid>
-      <title>Proverbs 21:21</title>
-      <description>He that followeth after righteousness and mercy findeth life, righteousness, and honour.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/21-21.mp3" length="5847710" type="audio/mpeg" />
-      <pubDate>Sun, 21 Jun 2020 16:00:00 EST</pubDate>
-      <itunes:duration>00:08:30</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>He that followeth after righteousness and mercy findeth life, righteousness, and honour.</itunes:subtitle>
-      <itunes:summary>He that followeth after righteousness and mercy findeth life, righteousness, and honour.</itunes:summary>
     </item>
   </channel>
 </rss>
