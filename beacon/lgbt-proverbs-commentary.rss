@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/22-20.mp3?pubDate=2021-06-22</guid>
+      <title>Proverbs 22:20</title>
+      <description>Have not I written to thee excellent things in counsels and knowledge,</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/22-20.mp3" length="8271873" type="audio/mpeg" />
+      <pubDate>Tue, 22 Jun 2021 08:00:00 EST</pubDate>
+      <itunes:duration>00:12:02</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>Have not I written to thee excellent things in counsels and knowledge,</itunes:subtitle>
+      <itunes:summary>Have not I written to thee excellent things in counsels and knowledge,</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/22-19.mp3?pubDate=2021-06-22</guid>
       <title>Proverbs 22:19</title>
       <description>That thy trust may be in the LORD, I have made known to thee this day, even to thee.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>That I might make thee know the certainty of the words of truth; that thou mightest answer the words of truth to them that send unto thee?</itunes:subtitle>
       <itunes:summary>That I might make thee know the certainty of the words of truth; that thou mightest answer the words of truth to them that send unto thee?</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/22-20.mp3?pubDate=2020-06-22</guid>
-      <title>Proverbs 22:20</title>
-      <description>Have not I written to thee excellent things in counsels and knowledge,</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/22-20.mp3" length="8271873" type="audio/mpeg" />
-      <pubDate>Mon, 22 Jun 2020 08:00:00 EST</pubDate>
-      <itunes:duration>00:12:02</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>Have not I written to thee excellent things in counsels and knowledge,</itunes:subtitle>
-      <itunes:summary>Have not I written to thee excellent things in counsels and knowledge,</itunes:summary>
     </item>
   </channel>
 </rss>
