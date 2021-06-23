@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/23-19.mp3?pubDate=2021-06-23</guid>
+      <title>Proverbs 23:19</title>
+      <description>Hear thou, my son, and be wise, and guide thine heart in the way.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/23-19.mp3" length="5737787" type="audio/mpeg" />
+      <pubDate>Wed, 23 Jun 2021 00:00:00 EST</pubDate>
+      <itunes:duration>00:08:21</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>Hear thou, my son, and be wise, and guide thine heart in the way.</itunes:subtitle>
+      <itunes:summary>Hear thou, my son, and be wise, and guide thine heart in the way.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/22-21.mp3?pubDate=2021-06-22</guid>
       <title>Proverbs 22:21</title>
       <description>That I might make thee know the certainty of the words of truth; that thou mightest answer the words of truth to them that send unto thee?</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>Be not among winebibbers; among riotous eaters of flesh:</itunes:subtitle>
       <itunes:summary>Be not among winebibbers; among riotous eaters of flesh:</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/23-19.mp3?pubDate=2020-06-23</guid>
-      <title>Proverbs 23:19</title>
-      <description>Hear thou, my son, and be wise, and guide thine heart in the way.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/23-19.mp3" length="5737787" type="audio/mpeg" />
-      <pubDate>Tue, 23 Jun 2020 00:00:00 EST</pubDate>
-      <itunes:duration>00:08:21</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>Hear thou, my son, and be wise, and guide thine heart in the way.</itunes:subtitle>
-      <itunes:summary>Hear thou, my son, and be wise, and guide thine heart in the way.</itunes:summary>
     </item>
   </channel>
 </rss>
