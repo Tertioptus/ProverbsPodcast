@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/23-21.mp3?pubDate=2021-06-23</guid>
+      <title>Proverbs 23:21</title>
+      <description>For the drunkard and the glutton shall come to poverty: and drowsiness shall clothe a man with rags.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/23-21.mp3" length="9991775" type="audio/mpeg" />
+      <pubDate>Wed, 23 Jun 2021 16:00:00 EST</pubDate>
+      <itunes:duration>00:14:32</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>For the drunkard and the glutton shall come to poverty: and drowsiness shall clothe a man with rags.</itunes:subtitle>
+      <itunes:summary>For the drunkard and the glutton shall come to poverty: and drowsiness shall clothe a man with rags.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/23-20.mp3?pubDate=2021-06-23</guid>
       <title>Proverbs 23:20</title>
       <description>Be not among winebibbers; among riotous eaters of flesh:</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>Fret not thyself because of evil men, neither be thou envious at the wicked:</itunes:subtitle>
       <itunes:summary>Fret not thyself because of evil men, neither be thou envious at the wicked:</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/23-21.mp3?pubDate=2020-06-23</guid>
-      <title>Proverbs 23:21</title>
-      <description>For the drunkard and the glutton shall come to poverty: and drowsiness shall clothe a man with rags.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/23-21.mp3" length="9991775" type="audio/mpeg" />
-      <pubDate>Tue, 23 Jun 2020 16:00:00 EST</pubDate>
-      <itunes:duration>00:14:32</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>For the drunkard and the glutton shall come to poverty: and drowsiness shall clothe a man with rags.</itunes:subtitle>
-      <itunes:summary>For the drunkard and the glutton shall come to poverty: and drowsiness shall clothe a man with rags.</itunes:summary>
     </item>
   </channel>
 </rss>
