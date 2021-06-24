@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/24-19.mp3?pubDate=2021-06-24</guid>
+      <title>Proverbs 24:19</title>
+      <description>Fret not thyself because of evil men, neither be thou envious at the wicked:</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/24-19.mp3" length="6452079" type="audio/mpeg" />
+      <pubDate>Thu, 24 Jun 2021 00:00:00 EST</pubDate>
+      <itunes:duration>00:09:23</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>Fret not thyself because of evil men, neither be thou envious at the wicked:</itunes:subtitle>
+      <itunes:summary>Fret not thyself because of evil men, neither be thou envious at the wicked:</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/23-21.mp3?pubDate=2021-06-23</guid>
       <title>Proverbs 23:21</title>
       <description>For the drunkard and the glutton shall come to poverty: and drowsiness shall clothe a man with rags.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>For there shall be no reward to the evil man; the candle of the wicked shall be put out.</itunes:subtitle>
       <itunes:summary>For there shall be no reward to the evil man; the candle of the wicked shall be put out.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/24-19.mp3?pubDate=2020-06-24</guid>
-      <title>Proverbs 24:19</title>
-      <description>Fret not thyself because of evil men, neither be thou envious at the wicked:</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/24-19.mp3" length="6452079" type="audio/mpeg" />
-      <pubDate>Wed, 24 Jun 2020 00:00:00 EST</pubDate>
-      <itunes:duration>00:09:23</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>Fret not thyself because of evil men, neither be thou envious at the wicked:</itunes:subtitle>
-      <itunes:summary>Fret not thyself because of evil men, neither be thou envious at the wicked:</itunes:summary>
     </item>
   </channel>
 </rss>
