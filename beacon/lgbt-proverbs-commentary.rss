@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/25-19.mp3?pubDate=2021-06-25</guid>
+      <title>Proverbs 25:19</title>
+      <description>Confidence in an unfaithful man in time of trouble is like a broken tooth, and a foot out of joint.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/25-19.mp3" length="6585408" type="audio/mpeg" />
+      <pubDate>Fri, 25 Jun 2021 00:00:00 EST</pubDate>
+      <itunes:duration>00:09:35</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>Confidence in an unfaithful man in time of trouble is like a broken tooth, and a foot out of joint.</itunes:subtitle>
+      <itunes:summary>Confidence in an unfaithful man in time of trouble is like a broken tooth, and a foot out of joint.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/24-21.mp3?pubDate=2021-06-24</guid>
       <title>Proverbs 24:21</title>
       <description>My son, fear thou the LORD and the king: and meddle not with them that are given to change:</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>As he that taketh away a garment in cold weather, and as vinegar upon nitre, so is he that singeth songs to an heavy heart.</itunes:subtitle>
       <itunes:summary>As he that taketh away a garment in cold weather, and as vinegar upon nitre, so is he that singeth songs to an heavy heart.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/25-19.mp3?pubDate=2020-06-25</guid>
-      <title>Proverbs 25:19</title>
-      <description>Confidence in an unfaithful man in time of trouble is like a broken tooth, and a foot out of joint.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/25-19.mp3" length="6585408" type="audio/mpeg" />
-      <pubDate>Thu, 25 Jun 2020 00:00:00 EST</pubDate>
-      <itunes:duration>00:09:35</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>Confidence in an unfaithful man in time of trouble is like a broken tooth, and a foot out of joint.</itunes:subtitle>
-      <itunes:summary>Confidence in an unfaithful man in time of trouble is like a broken tooth, and a foot out of joint.</itunes:summary>
     </item>
   </channel>
 </rss>
