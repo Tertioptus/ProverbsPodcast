@@ -26,6 +26,30 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/26-19.mp3?pubDate=2021-06-26</guid>
+      <title>Proverbs 26:19</title>
+      <description>So is the man that deceiveth his neighbour, and saith, Am not I in sport?</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/26-19.mp3" length="5481996" type="audio/mpeg" />
+      <pubDate>Sat, 26 Jun 2021 00:00:00 EST</pubDate>
+      <itunes:duration>00:07:58</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>So is the man that deceiveth his neighbour, and saith, Am not I in sport?</itunes:subtitle>
+      <itunes:summary>So is the man that deceiveth his neighbour, and saith, Am not I in sport?</itunes:summary>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/25-21.mp3?pubDate=2021-06-25</guid>
+      <title>Proverbs 25:21</title>
+      <description>If thine enemy be hungry, give him bread to eat; and if he be thirsty, give him water to drink:</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/25-21.mp3" length="6908908" type="audio/mpeg" />
+      <pubDate>Fri, 25 Jun 2021 16:00:00 EST</pubDate>
+      <itunes:duration>00:10:03</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>If thine enemy be hungry, give him bread to eat; and if he be thirsty, give him water to drink:</itunes:subtitle>
+      <itunes:summary>If thine enemy be hungry, give him bread to eat; and if he be thirsty, give him water to drink:</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/25-20.mp3?pubDate=2021-06-25</guid>
       <title>Proverbs 25:20</title>
       <description>As he that taketh away a garment in cold weather, and as vinegar upon nitre, so is he that singeth songs to an heavy heart.</description>
@@ -10812,30 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>Where no wood is, there the fire goeth out: so where there is no talebearer, the strife ceaseth.</itunes:subtitle>
       <itunes:summary>Where no wood is, there the fire goeth out: so where there is no talebearer, the strife ceaseth.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/26-19.mp3?pubDate=2020-06-26</guid>
-      <title>Proverbs 26:19</title>
-      <description>So is the man that deceiveth his neighbour, and saith, Am not I in sport?</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/26-19.mp3" length="5481996" type="audio/mpeg" />
-      <pubDate>Fri, 26 Jun 2020 00:00:00 EST</pubDate>
-      <itunes:duration>00:07:58</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>So is the man that deceiveth his neighbour, and saith, Am not I in sport?</itunes:subtitle>
-      <itunes:summary>So is the man that deceiveth his neighbour, and saith, Am not I in sport?</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/25-21.mp3?pubDate=2020-06-25</guid>
-      <title>Proverbs 25:21</title>
-      <description>If thine enemy be hungry, give him bread to eat; and if he be thirsty, give him water to drink:</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/25-21.mp3" length="6908908" type="audio/mpeg" />
-      <pubDate>Thu, 25 Jun 2020 16:00:00 EST</pubDate>
-      <itunes:duration>00:10:03</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>If thine enemy be hungry, give him bread to eat; and if he be thirsty, give him water to drink:</itunes:subtitle>
-      <itunes:summary>If thine enemy be hungry, give him bread to eat; and if he be thirsty, give him water to drink:</itunes:summary>
     </item>
   </channel>
 </rss>
