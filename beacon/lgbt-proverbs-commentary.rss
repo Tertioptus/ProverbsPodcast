@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/26-20.mp3?pubDate=2021-06-26</guid>
+      <title>Proverbs 26:20</title>
+      <description>Where no wood is, there the fire goeth out: so where there is no talebearer, the strife ceaseth.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/26-20.mp3" length="3809741" type="audio/mpeg" />
+      <pubDate>Sat, 26 Jun 2021 08:00:00 EST</pubDate>
+      <itunes:duration>00:05:32</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>Where no wood is, there the fire goeth out: so where there is no talebearer, the strife ceaseth.</itunes:subtitle>
+      <itunes:summary>Where no wood is, there the fire goeth out: so where there is no talebearer, the strife ceaseth.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/26-19.mp3?pubDate=2021-06-26</guid>
       <title>Proverbs 26:19</title>
       <description>So is the man that deceiveth his neighbour, and saith, Am not I in sport?</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>As coals are to burning coals, and wood to fire; so is a contentious man to kindle strife.</itunes:subtitle>
       <itunes:summary>As coals are to burning coals, and wood to fire; so is a contentious man to kindle strife.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/26-20.mp3?pubDate=2020-06-26</guid>
-      <title>Proverbs 26:20</title>
-      <description>Where no wood is, there the fire goeth out: so where there is no talebearer, the strife ceaseth.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/26-20.mp3" length="3809741" type="audio/mpeg" />
-      <pubDate>Fri, 26 Jun 2020 08:00:00 EST</pubDate>
-      <itunes:duration>00:05:32</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>Where no wood is, there the fire goeth out: so where there is no talebearer, the strife ceaseth.</itunes:subtitle>
-      <itunes:summary>Where no wood is, there the fire goeth out: so where there is no talebearer, the strife ceaseth.</itunes:summary>
     </item>
   </channel>
 </rss>
