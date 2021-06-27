@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/27-21.mp3?pubDate=2021-06-27</guid>
+      <title>Proverbs 27:21</title>
+      <description>As the fining pot for silver, and the furnace for gold; so is a man to his praise.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/27-21.mp3" length="6508504" type="audio/mpeg" />
+      <pubDate>Sun, 27 Jun 2021 16:00:00 EST</pubDate>
+      <itunes:duration>00:09:28</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>As the fining pot for silver, and the furnace for gold; so is a man to his praise.</itunes:subtitle>
+      <itunes:summary>As the fining pot for silver, and the furnace for gold; so is a man to his praise.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/27-20.mp3?pubDate=2021-06-27</guid>
       <title>Proverbs 27:20</title>
       <description>Hell and destruction are never full; so the eyes of man are never satisfied.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>He that tilleth his land shall have plenty of bread: but he that followeth after vain persons shall have poverty enough.</itunes:subtitle>
       <itunes:summary>He that tilleth his land shall have plenty of bread: but he that followeth after vain persons shall have poverty enough.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/27-21.mp3?pubDate=2020-06-27</guid>
-      <title>Proverbs 27:21</title>
-      <description>As the fining pot for silver, and the furnace for gold; so is a man to his praise.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/27-21.mp3" length="6508504" type="audio/mpeg" />
-      <pubDate>Sat, 27 Jun 2020 16:00:00 EST</pubDate>
-      <itunes:duration>00:09:28</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>As the fining pot for silver, and the furnace for gold; so is a man to his praise.</itunes:subtitle>
-      <itunes:summary>As the fining pot for silver, and the furnace for gold; so is a man to his praise.</itunes:summary>
     </item>
   </channel>
 </rss>
