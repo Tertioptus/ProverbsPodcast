@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/27-19.mp3?pubDate=2021-06-27</guid>
+      <title>Proverbs 27:19</title>
+      <description>As in water face answereth to face, so the heart of man to man.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/27-19.mp3" length="9564203" type="audio/mpeg" />
+      <pubDate>Sun, 27 Jun 2021 00:00:00 EST</pubDate>
+      <itunes:duration>00:13:55</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>As in water face answereth to face, so the heart of man to man.</itunes:subtitle>
+      <itunes:summary>As in water face answereth to face, so the heart of man to man.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/26-21.mp3?pubDate=2021-06-26</guid>
       <title>Proverbs 26:21</title>
       <description>As coals are to burning coals, and wood to fire; so is a contentious man to kindle strife.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>Hell and destruction are never full; so the eyes of man are never satisfied.</itunes:subtitle>
       <itunes:summary>Hell and destruction are never full; so the eyes of man are never satisfied.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/27-19.mp3?pubDate=2020-06-27</guid>
-      <title>Proverbs 27:19</title>
-      <description>As in water face answereth to face, so the heart of man to man.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/27-19.mp3" length="9564203" type="audio/mpeg" />
-      <pubDate>Sat, 27 Jun 2020 00:00:00 EST</pubDate>
-      <itunes:duration>00:13:55</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>As in water face answereth to face, so the heart of man to man.</itunes:subtitle>
-      <itunes:summary>As in water face answereth to face, so the heart of man to man.</itunes:summary>
     </item>
   </channel>
 </rss>
