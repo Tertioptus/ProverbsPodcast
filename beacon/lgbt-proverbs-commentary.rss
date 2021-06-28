@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/28-21.mp3?pubDate=2021-06-28</guid>
+      <title>Proverbs 28:21</title>
+      <description>To have respect of persons is not good: for for a piece of bread that man will transgress.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/28-21.mp3" length="6375593" type="audio/mpeg" />
+      <pubDate>Mon, 28 Jun 2021 16:00:00 EST</pubDate>
+      <itunes:duration>00:09:17</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>To have respect of persons is not good: for for a piece of bread that man will transgress.</itunes:subtitle>
+      <itunes:summary>To have respect of persons is not good: for for a piece of bread that man will transgress.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/28-20.mp3?pubDate=2021-06-28</guid>
       <title>Proverbs 28:20</title>
       <description>A faithful man shall abound with blessings: but he that maketh haste to be rich shall not be innocent.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>A servant will not be corrected by words: for though he understand he will not answer.</itunes:subtitle>
       <itunes:summary>A servant will not be corrected by words: for though he understand he will not answer.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/28-21.mp3?pubDate=2020-06-28</guid>
-      <title>Proverbs 28:21</title>
-      <description>To have respect of persons is not good: for for a piece of bread that man will transgress.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/28-21.mp3" length="6375593" type="audio/mpeg" />
-      <pubDate>Sun, 28 Jun 2020 16:00:00 EST</pubDate>
-      <itunes:duration>00:09:17</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>To have respect of persons is not good: for for a piece of bread that man will transgress.</itunes:subtitle>
-      <itunes:summary>To have respect of persons is not good: for for a piece of bread that man will transgress.</itunes:summary>
     </item>
   </channel>
 </rss>
