@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/28-19.mp3?pubDate=2021-06-28</guid>
+      <title>Proverbs 28:19</title>
+      <description>He that tilleth his land shall have plenty of bread: but he that followeth after vain persons shall have poverty enough.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/28-19.mp3" length="7976376" type="audio/mpeg" />
+      <pubDate>Mon, 28 Jun 2021 00:00:00 EST</pubDate>
+      <itunes:duration>00:11:36</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>He that tilleth his land shall have plenty of bread: but he that followeth after vain persons shall have poverty enough.</itunes:subtitle>
+      <itunes:summary>He that tilleth his land shall have plenty of bread: but he that followeth after vain persons shall have poverty enough.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/27-21.mp3?pubDate=2021-06-27</guid>
       <title>Proverbs 27:21</title>
       <description>As the fining pot for silver, and the furnace for gold; so is a man to his praise.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>A faithful man shall abound with blessings: but he that maketh haste to be rich shall not be innocent.</itunes:subtitle>
       <itunes:summary>A faithful man shall abound with blessings: but he that maketh haste to be rich shall not be innocent.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/28-19.mp3?pubDate=2020-06-28</guid>
-      <title>Proverbs 28:19</title>
-      <description>He that tilleth his land shall have plenty of bread: but he that followeth after vain persons shall have poverty enough.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/28-19.mp3" length="7976376" type="audio/mpeg" />
-      <pubDate>Sun, 28 Jun 2020 00:00:00 EST</pubDate>
-      <itunes:duration>00:11:36</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>He that tilleth his land shall have plenty of bread: but he that followeth after vain persons shall have poverty enough.</itunes:subtitle>
-      <itunes:summary>He that tilleth his land shall have plenty of bread: but he that followeth after vain persons shall have poverty enough.</itunes:summary>
     </item>
   </channel>
 </rss>
