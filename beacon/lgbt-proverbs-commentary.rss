@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/29-20.mp3?pubDate=2021-06-29</guid>
+      <title>Proverbs 29:20</title>
+      <description>Seest thou a man that is hasty in his words? there is more hope of a fool than of him.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/29-20.mp3" length="4598430" type="audio/mpeg" />
+      <pubDate>Tue, 29 Jun 2021 08:00:00 EST</pubDate>
+      <itunes:duration>00:06:41</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>Seest thou a man that is hasty in his words? there is more hope of a fool than of him.</itunes:subtitle>
+      <itunes:summary>Seest thou a man that is hasty in his words? there is more hope of a fool than of him.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/29-19.mp3?pubDate=2021-06-29</guid>
       <title>Proverbs 29:19</title>
       <description>A servant will not be corrected by words: for though he understand he will not answer.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>He that delicately bringeth up his servant from a child shall have him become his son at the length.</itunes:subtitle>
       <itunes:summary>He that delicately bringeth up his servant from a child shall have him become his son at the length.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/29-20.mp3?pubDate=2020-06-29</guid>
-      <title>Proverbs 29:20</title>
-      <description>Seest thou a man that is hasty in his words? there is more hope of a fool than of him.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/29-20.mp3" length="4598430" type="audio/mpeg" />
-      <pubDate>Mon, 29 Jun 2020 08:00:00 EST</pubDate>
-      <itunes:duration>00:06:41</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>Seest thou a man that is hasty in his words? there is more hope of a fool than of him.</itunes:subtitle>
-      <itunes:summary>Seest thou a man that is hasty in his words? there is more hope of a fool than of him.</itunes:summary>
     </item>
   </channel>
 </rss>
