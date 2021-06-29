@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/29-21.mp3?pubDate=2021-06-29</guid>
+      <title>Proverbs 29:21</title>
+      <description>He that delicately bringeth up his servant from a child shall have him become his son at the length.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/29-21.mp3" length="8308236" type="audio/mpeg" />
+      <pubDate>Tue, 29 Jun 2021 16:00:00 EST</pubDate>
+      <itunes:duration>00:12:05</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>He that delicately bringeth up his servant from a child shall have him become his son at the length.</itunes:subtitle>
+      <itunes:summary>He that delicately bringeth up his servant from a child shall have him become his son at the length.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/29-20.mp3?pubDate=2021-06-29</guid>
       <title>Proverbs 29:20</title>
       <description>Seest thou a man that is hasty in his words? there is more hope of a fool than of him.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>The way of an eagle in the air; the way of a serpent upon a rock; the way of a ship in the midst of the sea; and the way of a man with a maid.</itunes:subtitle>
       <itunes:summary>The way of an eagle in the air; the way of a serpent upon a rock; the way of a ship in the midst of the sea; and the way of a man with a maid.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/29-21.mp3?pubDate=2020-06-29</guid>
-      <title>Proverbs 29:21</title>
-      <description>He that delicately bringeth up his servant from a child shall have him become his son at the length.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/29-21.mp3" length="8308236" type="audio/mpeg" />
-      <pubDate>Mon, 29 Jun 2020 16:00:00 EST</pubDate>
-      <itunes:duration>00:12:05</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>He that delicately bringeth up his servant from a child shall have him become his son at the length.</itunes:subtitle>
-      <itunes:summary>He that delicately bringeth up his servant from a child shall have him become his son at the length.</itunes:summary>
     </item>
   </channel>
 </rss>
