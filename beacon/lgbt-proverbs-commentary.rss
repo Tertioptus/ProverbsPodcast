@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/30-19.mp3?pubDate=2021-06-30</guid>
+      <title>Proverbs 30:19</title>
+      <description>The way of an eagle in the air; the way of a serpent upon a rock; the way of a ship in the midst of the sea; and the way of a man with a maid.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/30-19.mp3" length="8422339" type="audio/mpeg" />
+      <pubDate>Wed, 30 Jun 2021 00:00:00 EST</pubDate>
+      <itunes:duration>00:12:15</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>The way of an eagle in the air; the way of a serpent upon a rock; the way of a ship in the midst of the sea; and the way of a man with a maid.</itunes:subtitle>
+      <itunes:summary>The way of an eagle in the air; the way of a serpent upon a rock; the way of a ship in the midst of the sea; and the way of a man with a maid.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/29-21.mp3?pubDate=2021-06-29</guid>
       <title>Proverbs 29:21</title>
       <description>He that delicately bringeth up his servant from a child shall have him become his son at the length.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>Such is the way of an adulterous woman; she eateth, and wipeth her mouth, and saith, I have done no wickedness.</itunes:subtitle>
       <itunes:summary>Such is the way of an adulterous woman; she eateth, and wipeth her mouth, and saith, I have done no wickedness.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/30-19.mp3?pubDate=2020-06-30</guid>
-      <title>Proverbs 30:19</title>
-      <description>The way of an eagle in the air; the way of a serpent upon a rock; the way of a ship in the midst of the sea; and the way of a man with a maid.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/30-19.mp3" length="8422339" type="audio/mpeg" />
-      <pubDate>Tue, 30 Jun 2020 00:00:00 EST</pubDate>
-      <itunes:duration>00:12:15</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>The way of an eagle in the air; the way of a serpent upon a rock; the way of a ship in the midst of the sea; and the way of a man with a maid.</itunes:subtitle>
-      <itunes:summary>The way of an eagle in the air; the way of a serpent upon a rock; the way of a ship in the midst of the sea; and the way of a man with a maid.</itunes:summary>
     </item>
   </channel>
 </rss>
