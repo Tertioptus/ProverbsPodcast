@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/01-24.mp3?pubDate=2021-07-01</guid>
+      <title>Proverbs 1:24</title>
+      <description>Because I have called, and ye refused; I have stretched out my hand, and no man regarded;</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/01-24.mp3" length="4078488" type="audio/mpeg" />
+      <pubDate>Thu, 01 Jul 2021 16:00:00 EST</pubDate>
+      <itunes:duration>00:05:56</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>Because I have called, and ye refused; I have stretched out my hand, and no man regarded;</itunes:subtitle>
+      <itunes:summary>Because I have called, and ye refused; I have stretched out my hand, and no man regarded;</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/01-23.mp3?pubDate=2021-07-01</guid>
       <title>Proverbs 1:23</title>
       <description>Turn you at my reproof: behold, I will pour out my spirit unto you, I will make known my words unto you.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>But the wicked shall be cut off from the earth, and the transgressors shall be rooted out of it.</itunes:subtitle>
       <itunes:summary>But the wicked shall be cut off from the earth, and the transgressors shall be rooted out of it.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/01-24.mp3?pubDate=2020-07-01</guid>
-      <title>Proverbs 1:24</title>
-      <description>Because I have called, and ye refused; I have stretched out my hand, and no man regarded;</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/01-24.mp3" length="4078488" type="audio/mpeg" />
-      <pubDate>Wed, 01 Jul 2020 16:00:00 EST</pubDate>
-      <itunes:duration>00:05:56</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>Because I have called, and ye refused; I have stretched out my hand, and no man regarded;</itunes:subtitle>
-      <itunes:summary>Because I have called, and ye refused; I have stretched out my hand, and no man regarded;</itunes:summary>
     </item>
   </channel>
 </rss>
