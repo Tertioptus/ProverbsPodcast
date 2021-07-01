@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/01-22.mp3?pubDate=2021-07-01</guid>
+      <title>Proverbs 1:22</title>
+      <description>How long, ye simple ones, will ye love simplicity? and the scorners delight in their scorning, and fools hate knowledge?</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/01-22.mp3" length="7213621" type="audio/mpeg" />
+      <pubDate>Thu, 01 Jul 2021 00:00:00 EST</pubDate>
+      <itunes:duration>00:10:30</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>How long, ye simple ones, will ye love simplicity? and the scorners delight in their scorning, and fools hate knowledge?</itunes:subtitle>
+      <itunes:summary>How long, ye simple ones, will ye love simplicity? and the scorners delight in their scorning, and fools hate knowledge?</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/30-21.mp3?pubDate=2021-06-30</guid>
       <title>Proverbs 30:21</title>
       <description>For three things the earth is disquieted, and for four which it cannot bear:</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>Turn you at my reproof: behold, I will pour out my spirit unto you, I will make known my words unto you.</itunes:subtitle>
       <itunes:summary>Turn you at my reproof: behold, I will pour out my spirit unto you, I will make known my words unto you.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/01-22.mp3?pubDate=2020-07-01</guid>
-      <title>Proverbs 1:22</title>
-      <description>How long, ye simple ones, will ye love simplicity? and the scorners delight in their scorning, and fools hate knowledge?</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/01-22.mp3" length="7213621" type="audio/mpeg" />
-      <pubDate>Wed, 01 Jul 2020 00:00:00 EST</pubDate>
-      <itunes:duration>00:10:30</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>How long, ye simple ones, will ye love simplicity? and the scorners delight in their scorning, and fools hate knowledge?</itunes:subtitle>
-      <itunes:summary>How long, ye simple ones, will ye love simplicity? and the scorners delight in their scorning, and fools hate knowledge?</itunes:summary>
     </item>
   </channel>
 </rss>
