@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/02-01.mp3?pubDate=2021-07-02</guid>
+      <title>Proverbs 2:1</title>
+      <description>My son, if thou wilt receive my words, and hide my commandments with thee;</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/02-01.mp3" length="4169184" type="audio/mpeg" />
+      <pubDate>Fri, 02 Jul 2021 08:00:00 EST</pubDate>
+      <itunes:duration>00:06:04</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>My son, if thou wilt receive my words, and hide my commandments with thee;</itunes:subtitle>
+      <itunes:summary>My son, if thou wilt receive my words, and hide my commandments with thee;</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/02-22.mp3?pubDate=2021-07-02</guid>
       <title>Proverbs 2:22</title>
       <description>But the wicked shall be cut off from the earth, and the transgressors shall be rooted out of it.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>So that thou incline thine ear unto wisdom, and apply thine heart to understanding;</itunes:subtitle>
       <itunes:summary>So that thou incline thine ear unto wisdom, and apply thine heart to understanding;</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/02-01.mp3?pubDate=2020-07-02</guid>
-      <title>Proverbs 2:1</title>
-      <description>My son, if thou wilt receive my words, and hide my commandments with thee;</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/02-01.mp3" length="4169184" type="audio/mpeg" />
-      <pubDate>Thu, 02 Jul 2020 08:00:00 EST</pubDate>
-      <itunes:duration>00:06:04</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>My son, if thou wilt receive my words, and hide my commandments with thee;</itunes:subtitle>
-      <itunes:summary>My son, if thou wilt receive my words, and hide my commandments with thee;</itunes:summary>
     </item>
   </channel>
 </rss>
