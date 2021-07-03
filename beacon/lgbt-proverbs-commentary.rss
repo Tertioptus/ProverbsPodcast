@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/03-23.mp3?pubDate=2021-07-03</guid>
+      <title>Proverbs 3:23</title>
+      <description>Then shalt thou walk in thy way safely, and thy foot shall not stumble.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/03-23.mp3" length="3738269" type="audio/mpeg" />
+      <pubDate>Sat, 03 Jul 2021 08:00:00 EST</pubDate>
+      <itunes:duration>00:05:26</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>Then shalt thou walk in thy way safely, and thy foot shall not stumble.</itunes:subtitle>
+      <itunes:summary>Then shalt thou walk in thy way safely, and thy foot shall not stumble.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/03-22.mp3?pubDate=2021-07-03</guid>
       <title>Proverbs 3:22</title>
       <description>So shall they be life unto thy soul, and grace to thy neck.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>When thou liest down, thou shalt not be afraid: yea, thou shalt lie down, and thy sleep shall be sweet.</itunes:subtitle>
       <itunes:summary>When thou liest down, thou shalt not be afraid: yea, thou shalt lie down, and thy sleep shall be sweet.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/03-23.mp3?pubDate=2020-07-03</guid>
-      <title>Proverbs 3:23</title>
-      <description>Then shalt thou walk in thy way safely, and thy foot shall not stumble.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/03-23.mp3" length="3738269" type="audio/mpeg" />
-      <pubDate>Fri, 03 Jul 2020 08:00:00 EST</pubDate>
-      <itunes:duration>00:05:26</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>Then shalt thou walk in thy way safely, and thy foot shall not stumble.</itunes:subtitle>
-      <itunes:summary>Then shalt thou walk in thy way safely, and thy foot shall not stumble.</itunes:summary>
     </item>
   </channel>
 </rss>
