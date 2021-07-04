@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/04-24.mp3?pubDate=2021-07-04</guid>
+      <title>Proverbs 4:24</title>
+      <description>Put away from thee a froward mouth, and perverse lips put far from thee.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/04-24.mp3" length="3188653" type="audio/mpeg" />
+      <pubDate>Sun, 04 Jul 2021 16:00:00 EST</pubDate>
+      <itunes:duration>00:04:38</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>Put away from thee a froward mouth, and perverse lips put far from thee.</itunes:subtitle>
+      <itunes:summary>Put away from thee a froward mouth, and perverse lips put far from thee.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/04-23.mp3?pubDate=2021-07-04</guid>
       <title>Proverbs 4:23</title>
       <description>Keep thy heart with all diligence; for out of it are the issues of life.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>His own iniquities shall take the wicked himself, and he shall be holden with the cords of his sins.</itunes:subtitle>
       <itunes:summary>His own iniquities shall take the wicked himself, and he shall be holden with the cords of his sins.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/04-24.mp3?pubDate=2020-07-04</guid>
-      <title>Proverbs 4:24</title>
-      <description>Put away from thee a froward mouth, and perverse lips put far from thee.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/04-24.mp3" length="3188653" type="audio/mpeg" />
-      <pubDate>Sat, 04 Jul 2020 16:00:00 EST</pubDate>
-      <itunes:duration>00:04:38</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>Put away from thee a froward mouth, and perverse lips put far from thee.</itunes:subtitle>
-      <itunes:summary>Put away from thee a froward mouth, and perverse lips put far from thee.</itunes:summary>
     </item>
   </channel>
 </rss>
