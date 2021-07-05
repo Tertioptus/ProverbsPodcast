@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/05-22.mp3?pubDate=2021-07-05</guid>
+      <title>Proverbs 5:22</title>
+      <description>His own iniquities shall take the wicked himself, and he shall be holden with the cords of his sins.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/05-22.mp3" length="7160937" type="audio/mpeg" />
+      <pubDate>Mon, 05 Jul 2021 00:00:00 EST</pubDate>
+      <itunes:duration>00:10:25</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>His own iniquities shall take the wicked himself, and he shall be holden with the cords of his sins.</itunes:subtitle>
+      <itunes:summary>His own iniquities shall take the wicked himself, and he shall be holden with the cords of his sins.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/04-24.mp3?pubDate=2021-07-04</guid>
       <title>Proverbs 4:24</title>
       <description>Put away from thee a froward mouth, and perverse lips put far from thee.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>He shall die without instruction; and in the greatness of his folly he shall go astray.</itunes:subtitle>
       <itunes:summary>He shall die without instruction; and in the greatness of his folly he shall go astray.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/05-22.mp3?pubDate=2020-07-05</guid>
-      <title>Proverbs 5:22</title>
-      <description>His own iniquities shall take the wicked himself, and he shall be holden with the cords of his sins.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/05-22.mp3" length="7160937" type="audio/mpeg" />
-      <pubDate>Sun, 05 Jul 2020 00:00:00 EST</pubDate>
-      <itunes:duration>00:10:25</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>His own iniquities shall take the wicked himself, and he shall be holden with the cords of his sins.</itunes:subtitle>
-      <itunes:summary>His own iniquities shall take the wicked himself, and he shall be holden with the cords of his sins.</itunes:summary>
     </item>
   </channel>
 </rss>
