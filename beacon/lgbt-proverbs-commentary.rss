@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/06-24.mp3?pubDate=2021-07-06</guid>
+      <title>Proverbs 6:24</title>
+      <description>To keep thee from the evil woman, from the flattery of the tongue of a strange woman.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/06-24.mp3" length="8296532" type="audio/mpeg" />
+      <pubDate>Tue, 06 Jul 2021 16:00:00 EST</pubDate>
+      <itunes:duration>00:12:04</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>To keep thee from the evil woman, from the flattery of the tongue of a strange woman.</itunes:subtitle>
+      <itunes:summary>To keep thee from the evil woman, from the flattery of the tongue of a strange woman.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/06-23.mp3?pubDate=2021-07-06</guid>
       <title>Proverbs 6:23</title>
       <description>For the commandment is a lamp; and the law is light; and reproofs of instruction are the way of life:</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>He goeth after her straightway, as an ox goeth to the slaughter, or as a fool to the correction of the stocks;</itunes:subtitle>
       <itunes:summary>He goeth after her straightway, as an ox goeth to the slaughter, or as a fool to the correction of the stocks;</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/06-24.mp3?pubDate=2020-07-06</guid>
-      <title>Proverbs 6:24</title>
-      <description>To keep thee from the evil woman, from the flattery of the tongue of a strange woman.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/06-24.mp3" length="8296532" type="audio/mpeg" />
-      <pubDate>Mon, 06 Jul 2020 16:00:00 EST</pubDate>
-      <itunes:duration>00:12:04</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>To keep thee from the evil woman, from the flattery of the tongue of a strange woman.</itunes:subtitle>
-      <itunes:summary>To keep thee from the evil woman, from the flattery of the tongue of a strange woman.</itunes:summary>
     </item>
   </channel>
 </rss>
