@@ -26,6 +26,30 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/06-23.mp3?pubDate=2021-07-06</guid>
+      <title>Proverbs 6:23</title>
+      <description>For the commandment is a lamp; and the law is light; and reproofs of instruction are the way of life:</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/06-23.mp3" length="7856839" type="audio/mpeg" />
+      <pubDate>Tue, 06 Jul 2021 08:00:00 EST</pubDate>
+      <itunes:duration>00:11:26</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>For the commandment is a lamp; and the law is light; and reproofs of instruction are the way of life:</itunes:subtitle>
+      <itunes:summary>For the commandment is a lamp; and the law is light; and reproofs of instruction are the way of life:</itunes:summary>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/06-22.mp3?pubDate=2021-07-06</guid>
+      <title>Proverbs 6:22</title>
+      <description>When thou goest, it shall lead thee; when thou sleepest, it shall keep thee; and when thou awakest, it shall talk with thee.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/06-22.mp3" length="3916738" type="audio/mpeg" />
+      <pubDate>Tue, 06 Jul 2021 00:00:00 EST</pubDate>
+      <itunes:duration>00:05:42</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>When thou goest, it shall lead thee; when thou sleepest, it shall keep thee; and when thou awakest, it shall talk with thee.</itunes:subtitle>
+      <itunes:summary>When thou goest, it shall lead thee; when thou sleepest, it shall keep thee; and when thou awakest, it shall talk with thee.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/05-01.mp3?pubDate=2021-07-05</guid>
       <title>Proverbs 5:1</title>
       <description>My son, attend unto my wisdom, and bow thine ear to my understanding:</description>
@@ -10812,30 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>To keep thee from the evil woman, from the flattery of the tongue of a strange woman.</itunes:subtitle>
       <itunes:summary>To keep thee from the evil woman, from the flattery of the tongue of a strange woman.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/06-23.mp3?pubDate=2020-07-06</guid>
-      <title>Proverbs 6:23</title>
-      <description>For the commandment is a lamp; and the law is light; and reproofs of instruction are the way of life:</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/06-23.mp3" length="7856839" type="audio/mpeg" />
-      <pubDate>Mon, 06 Jul 2020 08:00:00 EST</pubDate>
-      <itunes:duration>00:11:26</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>For the commandment is a lamp; and the law is light; and reproofs of instruction are the way of life:</itunes:subtitle>
-      <itunes:summary>For the commandment is a lamp; and the law is light; and reproofs of instruction are the way of life:</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/06-22.mp3?pubDate=2020-07-06</guid>
-      <title>Proverbs 6:22</title>
-      <description>When thou goest, it shall lead thee; when thou sleepest, it shall keep thee; and when thou awakest, it shall talk with thee.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/06-22.mp3" length="3916738" type="audio/mpeg" />
-      <pubDate>Mon, 06 Jul 2020 00:00:00 EST</pubDate>
-      <itunes:duration>00:05:42</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>When thou goest, it shall lead thee; when thou sleepest, it shall keep thee; and when thou awakest, it shall talk with thee.</itunes:subtitle>
-      <itunes:summary>When thou goest, it shall lead thee; when thou sleepest, it shall keep thee; and when thou awakest, it shall talk with thee.</itunes:summary>
     </item>
   </channel>
 </rss>
