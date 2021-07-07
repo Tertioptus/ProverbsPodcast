@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/07-22.mp3?pubDate=2021-07-07</guid>
+      <title>Proverbs 7:22</title>
+      <description>He goeth after her straightway, as an ox goeth to the slaughter, or as a fool to the correction of the stocks;</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/07-22.mp3" length="6386876" type="audio/mpeg" />
+      <pubDate>Wed, 07 Jul 2021 00:00:00 EST</pubDate>
+      <itunes:duration>00:09:18</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>He goeth after her straightway, as an ox goeth to the slaughter, or as a fool to the correction of the stocks;</itunes:subtitle>
+      <itunes:summary>He goeth after her straightway, as an ox goeth to the slaughter, or as a fool to the correction of the stocks;</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/06-24.mp3?pubDate=2021-07-06</guid>
       <title>Proverbs 6:24</title>
       <description>To keep thee from the evil woman, from the flattery of the tongue of a strange woman.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>Till a dart strike through his liver; as a bird hasteth to the snare, and knoweth not that it is for his life.</itunes:subtitle>
       <itunes:summary>Till a dart strike through his liver; as a bird hasteth to the snare, and knoweth not that it is for his life.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/07-22.mp3?pubDate=2020-07-07</guid>
-      <title>Proverbs 7:22</title>
-      <description>He goeth after her straightway, as an ox goeth to the slaughter, or as a fool to the correction of the stocks;</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/07-22.mp3" length="6386876" type="audio/mpeg" />
-      <pubDate>Tue, 07 Jul 2020 00:00:00 EST</pubDate>
-      <itunes:duration>00:09:18</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>He goeth after her straightway, as an ox goeth to the slaughter, or as a fool to the correction of the stocks;</itunes:subtitle>
-      <itunes:summary>He goeth after her straightway, as an ox goeth to the slaughter, or as a fool to the correction of the stocks;</itunes:summary>
     </item>
   </channel>
 </rss>
