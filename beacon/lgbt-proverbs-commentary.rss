@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/07-24.mp3?pubDate=2021-07-07</guid>
+      <title>Proverbs 7:24</title>
+      <description>Hearken unto me now therefore, O ye children, and attend to the words of my mouth.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/07-24.mp3" length="4080160" type="audio/mpeg" />
+      <pubDate>Wed, 07 Jul 2021 16:00:00 EST</pubDate>
+      <itunes:duration>00:05:56</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>Hearken unto me now therefore, O ye children, and attend to the words of my mouth.</itunes:subtitle>
+      <itunes:summary>Hearken unto me now therefore, O ye children, and attend to the words of my mouth.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/07-23.mp3?pubDate=2021-07-07</guid>
       <title>Proverbs 7:23</title>
       <description>Till a dart strike through his liver; as a bird hasteth to the snare, and knoweth not that it is for his life.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>The LORD possessed me in the beginning of his way, before his works of old.</itunes:subtitle>
       <itunes:summary>The LORD possessed me in the beginning of his way, before his works of old.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/07-24.mp3?pubDate=2020-07-07</guid>
-      <title>Proverbs 7:24</title>
-      <description>Hearken unto me now therefore, O ye children, and attend to the words of my mouth.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/07-24.mp3" length="4080160" type="audio/mpeg" />
-      <pubDate>Tue, 07 Jul 2020 16:00:00 EST</pubDate>
-      <itunes:duration>00:05:56</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>Hearken unto me now therefore, O ye children, and attend to the words of my mouth.</itunes:subtitle>
-      <itunes:summary>Hearken unto me now therefore, O ye children, and attend to the words of my mouth.</itunes:summary>
     </item>
   </channel>
 </rss>
