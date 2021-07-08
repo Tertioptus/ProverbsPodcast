@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/08-23.mp3?pubDate=2021-07-08</guid>
+      <title>Proverbs 8:23</title>
+      <description>I was set up from everlasting, from the beginning, or ever the earth was.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/08-23.mp3" length="6448734" type="audio/mpeg" />
+      <pubDate>Thu, 08 Jul 2021 08:00:00 EST</pubDate>
+      <itunes:duration>00:09:23</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>I was set up from everlasting, from the beginning, or ever the earth was.</itunes:subtitle>
+      <itunes:summary>I was set up from everlasting, from the beginning, or ever the earth was.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/08-22.mp3?pubDate=2021-07-08</guid>
       <title>Proverbs 8:22</title>
       <description>The LORD possessed me in the beginning of his way, before his works of old.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>When there were no depths, I was brought forth; when there were no fountains abounding with water.</itunes:subtitle>
       <itunes:summary>When there were no depths, I was brought forth; when there were no fountains abounding with water.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/08-23.mp3?pubDate=2020-07-08</guid>
-      <title>Proverbs 8:23</title>
-      <description>I was set up from everlasting, from the beginning, or ever the earth was.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/08-23.mp3" length="6448734" type="audio/mpeg" />
-      <pubDate>Wed, 08 Jul 2020 08:00:00 EST</pubDate>
-      <itunes:duration>00:09:23</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>I was set up from everlasting, from the beginning, or ever the earth was.</itunes:subtitle>
-      <itunes:summary>I was set up from everlasting, from the beginning, or ever the earth was.</itunes:summary>
     </item>
   </channel>
 </rss>
