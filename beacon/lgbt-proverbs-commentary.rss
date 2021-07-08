@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/08-24.mp3?pubDate=2021-07-08</guid>
+      <title>Proverbs 8:24</title>
+      <description>When there were no depths, I was brought forth; when there were no fountains abounding with water.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/08-24.mp3" length="4283288" type="audio/mpeg" />
+      <pubDate>Thu, 08 Jul 2021 16:00:00 EST</pubDate>
+      <itunes:duration>00:06:14</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>When there were no depths, I was brought forth; when there were no fountains abounding with water.</itunes:subtitle>
+      <itunes:summary>When there were no depths, I was brought forth; when there were no fountains abounding with water.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/08-23.mp3?pubDate=2021-07-08</guid>
       <title>Proverbs 8:23</title>
       <description>I was set up from everlasting, from the beginning, or ever the earth was.</description>
@@ -10824,18 +10836,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>The blessing of the LORD, it maketh rich, and he addeth no sorrow with it.</itunes:subtitle>
       <itunes:summary>The blessing of the LORD, it maketh rich, and he addeth no sorrow with it.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/08-24.mp3?pubDate=2020-07-08</guid>
-      <title>Proverbs 8:24</title>
-      <description>When there were no depths, I was brought forth; when there were no fountains abounding with water.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/08-24.mp3" length="4283288" type="audio/mpeg" />
-      <pubDate>Wed, 08 Jul 2020 16:00:00 EST</pubDate>
-      <itunes:duration>00:06:14</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>When there were no depths, I was brought forth; when there were no fountains abounding with water.</itunes:subtitle>
-      <itunes:summary>When there were no depths, I was brought forth; when there were no fountains abounding with water.</itunes:summary>
     </item>
   </channel>
 </rss>
