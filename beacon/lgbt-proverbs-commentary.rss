@@ -26,6 +26,18 @@
       <description>Proverbs commentary by LetGodBeTrue.com</description>
     </image>
     <item>
+      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/09-05.mp3?pubDate=2021-07-09</guid>
+      <title>Proverbs 9:5</title>
+      <description>Come, eat of my bread, and drink of the wine which I have mingled.</description>
+      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/09-05.mp3" length="5509998" type="audio/mpeg" />
+      <pubDate>Fri, 09 Jul 2021 08:00:00 EST</pubDate>
+      <itunes:duration>00:08:01</itunes:duration>
+      <itunes:author>Church of Greenville</itunes:author>
+      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
+      <itunes:subtitle>Come, eat of my bread, and drink of the wine which I have mingled.</itunes:subtitle>
+      <itunes:summary>Come, eat of my bread, and drink of the wine which I have mingled.</itunes:summary>
+    </item>
+    <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/09-04.mp3?pubDate=2021-07-09</guid>
       <title>Proverbs 9:4</title>
       <description>Whoso is simple, let him turn in hither: as for him that wanteth understanding, she saith to him,</description>
@@ -6528,18 +6540,6 @@
       <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
       <itunes:subtitle>Forsake the foolish, and live; and go in the way of understanding.</itunes:subtitle>
       <itunes:summary>Forsake the foolish, and live; and go in the way of understanding.</itunes:summary>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/09-05.mp3?pubDate=2021-01-09</guid>
-      <title>Proverbs 9:5</title>
-      <description>Come, eat of my bread, and drink of the wine which I have mingled.</description>
-      <enclosure url="https://s3.amazonaws.com/letgodbetrue.audio/proverbs/09-05.mp3" length="5509998" type="audio/mpeg" />
-      <pubDate>Sat, 09 Jan 2021 08:00:00 EST</pubDate>
-      <itunes:duration>00:08:01</itunes:duration>
-      <itunes:author>Church of Greenville</itunes:author>
-      <itunes:keywords>Bible,KJV,King James Version,Plain Preaching,Wisdom,The Church of Greenville,Church,Greenville,SC</itunes:keywords>
-      <itunes:subtitle>Come, eat of my bread, and drink of the wine which I have mingled.</itunes:subtitle>
-      <itunes:summary>Come, eat of my bread, and drink of the wine which I have mingled.</itunes:summary>
     </item>
     <item>
       <guid isPermaLink="true">https://s3.amazonaws.com/letgodbetrue.audio/proverbs/08-06.mp3?pubDate=2021-01-08</guid>
